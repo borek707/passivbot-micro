@@ -1,0 +1,36 @@
+{
+  "_comment": "EXAMPLE CONFIG - Copy to config.json and customize",
+  "_comment": "NEVER commit config.json with real API keys!",
+  
+  "initial_capital": 150.0,
+  "reserve_pct": 0.10,
+  
+  "circuit_breaker_enabled": true,
+  "max_daily_loss_pct": 0.05,
+  "max_drawdown_pct": 0.15,
+  "max_consecutive_losses": 2,
+  "circuit_cooldown_minutes": 240,
+  
+  "short_leverage": 3.0,
+  "short_position_pct": 0.20,
+  "short_max_positions": 1,
+  "short_bounce_threshold": 0.005,
+  "short_tp": 0.02,
+  "short_sl": 0.015,
+  
+  "long_position_pct": 0.20,
+  "max_grid_positions": 2,
+  "long_grid_spacing": 0.005,
+  "long_markup": 0.02,
+  
+  "maker_fee": 0.00015,
+  "taker_fee": 0.00045,
+  "use_maker_only": true,
+  
+  "check_interval": 600,
+  "min_order_size_usd": 10.0,
+  
+  "exchange": "hyperliquid",
+  "symbol": "BTC/USDC:USDC",
+  "testnet": true
+}

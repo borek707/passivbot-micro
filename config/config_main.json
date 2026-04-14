@@ -1,0 +1,37 @@
+{
+  "_comment": "=== WIDE_SL CONFIG - BEST FROM 168,000 TESTS ===",
+  "_comment": "Best performing: +4.15% avg, +12.14% in sideways",
+  "_comment": "Wide SL (4%) works best in volatile/choppy markets",
+  
+  "initial_capital": 150.0,
+  "reserve_pct": 0.10,
+  
+  "circuit_breaker_enabled": true,
+  "max_daily_loss_pct": 0.05,
+  "max_drawdown_pct": 0.15,
+  "max_consecutive_losses": 2,
+  "circuit_cooldown_minutes": 240,
+  
+  "short_leverage": 5.0,
+  "short_position_pct": 0.35,
+  "short_max_positions": 1,
+  "short_bounce_threshold": 0.02,
+  "short_tp": 0.03,
+  "short_sl": 0.04,
+  
+  "long_position_pct": 0.35,
+  "max_grid_positions": 2,
+  "long_grid_spacing": 0.015,
+  "long_markup": 0.03,
+  
+  "maker_fee": 0.00015,
+  "taker_fee": 0.00045,
+  "use_maker_only": true,
+  
+  "check_interval": 30,
+  "min_order_size_usd": 10.0,
+  
+  "exchange": "hyperliquid",
+  "symbol": "BTC/USDC:USDC",
+  "testnet": true
+}

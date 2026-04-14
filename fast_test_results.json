@@ -1,0 +1,4904 @@
+{
+  "30d": {
+    "BULL": {
+      "100_tests": {
+        "BASE": {
+          "avg_return": 0.013045484761510216,
+          "std_return": 0.012282470962306932,
+          "min_return": 0.008858652757849276,
+          "max_return": 0.05516604357159622,
+          "median_return": 0.009486438293953275,
+          "avg_trades": 5.08,
+          "avg_win_rate": 0.6186666666666666,
+          "avg_fees": 0.11955490773720072,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": 0.010543417349947133,
+          "std_return": 0.0036841859877600872,
+          "min_return": 0.009343314181102376,
+          "max_return": 0.026714215060525626,
+          "median_return": 0.009734199041645297,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.6,
+          "avg_fees": 0.08054227332159555,
+          "profitable_pct": 100.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": 0.015853492436359064,
+          "std_return": 0.013319875232689418,
+          "min_return": 0.011183396889474768,
+          "max_return": 0.06422034586111049,
+          "median_return": 0.012030999023691417,
+          "avg_trades": 6.05,
+          "avg_win_rate": 0.6811904761904765,
+          "avg_fees": 0.17632566271924777,
+          "profitable_pct": 100.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.04134685642756483,
+          "std_return": 0.026636633519004,
+          "min_return": -0.047643377651995326,
+          "max_return": 0.07946393833175742,
+          "median_return": 0.0438468520713054,
+          "avg_trades": 5.14,
+          "avg_win_rate": 0.6199999999999999,
+          "avg_fees": 0.11957229108607043,
+          "profitable_pct": 93.0
+        },
+        "TIGHT_SL": {
+          "avg_return": 0.009174246713573602,
+          "std_return": 0.0009658009055612905,
+          "min_return": 0.0046392838881477395,
+          "max_return": 0.00998781959498198,
+          "median_return": 0.009405338366582423,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666669,
+          "avg_fees": 0.13391783788860023,
+          "profitable_pct": 100.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.01762649862229129,
+          "std_return": 0.000362627944186925,
+          "min_return": 0.016695270908537813,
+          "max_return": 0.018437809909242445,
+          "median_return": 0.0175999603616259,
+          "avg_trades": 9.0,
+          "avg_win_rate": 0.7777777777777776,
+          "avg_fees": 0.2036529519917779,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": 0.006246387322328134,
+          "std_return": 0.0057280784504005165,
+          "min_return": -0.013507314974741575,
+          "max_return": 0.008341736413454252,
+          "median_return": 0.007944692312270074,
+          "avg_trades": 6.24,
+          "avg_win_rate": 0.6666666666666669,
+          "avg_fees": 0.11200850637049768,
+          "profitable_pct": 92.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": 0.005988286501061764,
+          "std_return": 0.011387960951794722,
+          "min_return": -0.03303906880893597,
+          "max_return": 0.009965938123804866,
+          "median_return": 0.009352292887918261,
+          "avg_trades": 6.24,
+          "avg_win_rate": 0.6666666666666669,
+          "avg_fees": 0.1396381555312169,
+          "profitable_pct": 92.0
+        }
+      },
+      "200_tests": {
+        "BASE": {
+          "avg_return": 0.012580454966005034,
+          "std_return": 0.011559885659326459,
+          "min_return": 0.008605791834441826,
+          "max_return": 0.05516604357159622,
+          "median_return": 0.009450885014295049,
+          "avg_trades": 5.07,
+          "avg_win_rate": 0.6163333333333332,
+          "avg_fees": 0.11966883478837065,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": 0.010449450648552919,
+          "std_return": 0.0035057394861473705,
+          "min_return": 0.009153593169446405,
+          "max_return": 0.026714215060525626,
+          "median_return": 0.009707697480707034,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.5999999999999999,
+          "avg_fees": 0.08054126229286215,
+          "profitable_pct": 100.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": 0.015315973197389705,
+          "std_return": 0.0124251279729385,
+          "min_return": 0.010852240756945358,
+          "max_return": 0.06422034586111049,
+          "median_return": 0.011979086245299678,
+          "avg_trades": 6.04,
+          "avg_win_rate": 0.6792857142857143,
+          "avg_fees": 0.17646717495668418,
+          "profitable_pct": 100.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.042417991517783325,
+          "std_return": 0.025236811539455166,
+          "min_return": -0.047643377651995326,
+          "max_return": 0.07949238466582093,
+          "median_return": 0.0438522428194464,
+          "avg_trades": 5.12,
+          "avg_win_rate": 0.6212857142857142,
+          "avg_fees": 0.11917112686847407,
+          "profitable_pct": 94.0
+        },
+        "TIGHT_SL": {
+          "avg_return": 0.009179151706833573,
+          "std_return": 0.0009110929506959822,
+          "min_return": 0.0046392838881477395,
+          "max_return": 0.00998781959498198,
+          "median_return": 0.009367761979610995,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666665,
+          "avg_fees": 0.13391541538072804,
+          "profitable_pct": 100.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.017596681795706393,
+          "std_return": 0.00036935930970182835,
+          "min_return": 0.016695270908537813,
+          "max_return": 0.018437809909242445,
+          "median_return": 0.017570276871090203,
+          "avg_trades": 9.0,
+          "avg_win_rate": 0.7777777777777779,
+          "avg_fees": 0.20365158608937464,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": 0.0064482006073164014,
+          "std_return": 0.005383254457335136,
+          "min_return": -0.013507314974741575,
+          "max_return": 0.008341736413454252,
+          "median_return": 0.00791034497003892,
+          "avg_trades": 6.21,
+          "avg_win_rate": 0.6666666666666665,
+          "avg_fees": 0.11144558327617443,
+          "profitable_pct": 93.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": 0.006394719911831802,
+          "std_return": 0.010704659907240082,
+          "min_return": -0.03303906880893597,
+          "max_return": 0.009965938123804866,
+          "median_return": 0.009324155062020906,
+          "avg_trades": 6.21,
+          "avg_win_rate": 0.6666666666666665,
+          "avg_fees": 0.1389203304254339,
+          "profitable_pct": 93.0
+        }
+      },
+      "300_tests": {
+        "BASE": {
+          "avg_return": 0.012871882401196133,
+          "std_return": 0.012042176804252416,
+          "min_return": 0.008605791834441826,
+          "max_return": 0.05516604357159622,
+          "median_return": 0.00944883940557342,
+          "avg_trades": 5.076666666666667,
+          "avg_win_rate": 0.6178888888888888,
+          "avg_fees": 0.11959186633228235,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": 0.010360240821452354,
+          "std_return": 0.00331334033219949,
+          "min_return": 0.009153593169446405,
+          "max_return": 0.026714215060525626,
+          "median_return": 0.009700831576621737,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.6,
+          "avg_fees": 0.08054034973327467,
+          "profitable_pct": 100.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": 0.015680384342380605,
+          "std_return": 0.013127947223878287,
+          "min_return": 0.010852240756945358,
+          "max_return": 0.06422034586111049,
+          "median_return": 0.011975210517547907,
+          "avg_trades": 6.05,
+          "avg_win_rate": 0.6806349206349207,
+          "avg_fees": 0.17643437812549925,
+          "profitable_pct": 100.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.04092367382209198,
+          "std_return": 0.02558494967739524,
+          "min_return": -0.047643377651995326,
+          "max_return": 0.0795690302239268,
+          "median_return": 0.04383397882154204,
+          "avg_trades": 5.133333333333334,
+          "avg_win_rate": 0.616095238095238,
+          "avg_fees": 0.11996928137704614,
+          "profitable_pct": 93.33333333333333
+        },
+        "TIGHT_SL": {
+          "avg_return": 0.009193080079120008,
+          "std_return": 0.0008770055477191368,
+          "min_return": 0.0046392838881477395,
+          "max_return": 0.010084480920897173,
+          "median_return": 0.009360728193596325,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666666,
+          "avg_fees": 0.13391339802145583,
+          "profitable_pct": 100.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.01760331595495755,
+          "std_return": 0.0003769129885696593,
+          "min_return": 0.01656873042814046,
+          "max_return": 0.018653013571047837,
+          "median_return": 0.017589492427633503,
+          "avg_trades": 9.0,
+          "avg_win_rate": 0.7777777777777777,
+          "avg_fees": 0.2036512669590081,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": 0.006299694964684786,
+          "std_return": 0.005625046541830649,
+          "min_return": -0.013555055992855121,
+          "max_return": 0.008341736413454252,
+          "median_return": 0.007905818611760936,
+          "avg_trades": 6.23,
+          "avg_win_rate": 0.6666666666666666,
+          "avg_fees": 0.11182029897698328,
+          "profitable_pct": 92.33333333333333
+        },
+        "HIGH_RESERVE": {
+          "avg_return": 0.006103528377137024,
+          "std_return": 0.011178169209186213,
+          "min_return": -0.03314595556102499,
+          "max_return": 0.009965938123804866,
+          "median_return": 0.009308317354485212,
+          "avg_trades": 6.23,
+          "avg_win_rate": 0.6666666666666666,
+          "avg_fees": 0.13939771246216892,
+          "profitable_pct": 92.33333333333333
+        }
+      }
+    },
+    "BEAR": {
+      "100_tests": {
+        "BASE": {
+          "avg_return": 0.0003370819886741477,
+          "std_return": 5.921678832639279e-05,
+          "min_return": 0.00018223854097035048,
+          "max_return": 0.00047357706429617487,
+          "median_return": 0.0003413564160715055,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.0534644367429894,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": -0.009360972776918093,
+          "std_return": 3.370072181182815e-05,
+          "min_return": -0.009443186470454066,
+          "max_return": -0.009266815644688791,
+          "median_return": -0.0093601663103802,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.035729826039139205,
+          "profitable_pct": 0.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": -0.014424189004692646,
+          "std_return": 7.489264601614044e-05,
+          "min_return": -0.014589848170278022,
+          "max_return": -0.014251932633601049,
+          "median_return": -0.01442340703083507,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.07104849710453243,
+          "profitable_pct": 0.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.0003370819886741477,
+          "std_return": 5.921678832639279e-05,
+          "min_return": 0.00018223854097035048,
+          "max_return": 0.00047357706429617487,
+          "median_return": 0.0003413564160715055,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.0534644367429894,
+          "profitable_pct": 100.0
+        },
+        "TIGHT_SL": {
+          "avg_return": -0.01988961096102719,
+          "std_return": 5.457924763965594e-05,
+          "min_return": -0.02003547218183106,
+          "max_return": -0.019746431365421698,
+          "median_return": -0.01989102441881177,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.053392715513800156,
+          "profitable_pct": 0.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.04891890196127135,
+          "std_return": 0.000308597217571574,
+          "min_return": 0.04821977602387904,
+          "max_return": 0.0496719096432588,
+          "median_return": 0.048927167763968854,
+          "avg_trades": 7.0,
+          "avg_win_rate": 0.714285714285714,
+          "avg_fees": 0.1504635972610943,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": -0.010810108157497939,
+          "std_return": 5.6348452417169405e-05,
+          "min_return": -0.010934899320877206,
+          "max_return": -0.01068072371432796,
+          "median_return": -0.010809528726864338,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.0534644367429894,
+          "profitable_pct": 0.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": -0.010810108157497939,
+          "std_return": 5.6348452417169405e-05,
+          "min_return": -0.010934899320877206,
+          "max_return": -0.01068072371432796,
+          "median_return": -0.010809528726864338,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.0534644367429894,
+          "profitable_pct": 0.0
+        }
+      },
+      "200_tests": {
+        "BASE": {
+          "avg_return": 0.00033641164584702967,
+          "std_return": 6.180900753229365e-05,
+          "min_return": 0.00018223854097035048,
+          "max_return": 0.0004992565326860662,
+          "median_return": 0.0003438779611527328,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.05346452220009784,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": -0.00936032466370054,
+          "std_return": 3.594386459490112e-05,
+          "min_return": -0.009471471154250443,
+          "max_return": -0.009249139141287515,
+          "median_return": -0.0093601663103802,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.03572987560514388,
+          "profitable_pct": 0.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": -0.014424155094678783,
+          "std_return": 7.338349343963315e-05,
+          "min_return": -0.014589848170278022,
+          "max_return": -0.01419375797185997,
+          "median_return": -0.01442861880620389,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.07104864883905035,
+          "profitable_pct": 0.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.00033641164584702967,
+          "std_return": 6.180900753229365e-05,
+          "min_return": 0.00018223854097035048,
+          "max_return": 0.0004992565326860662,
+          "median_return": 0.0003438779611527328,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.05346452220009784,
+          "profitable_pct": 100.0
+        },
+        "TIGHT_SL": {
+          "avg_return": -0.019885932187387417,
+          "std_return": 5.468782084636153e-05,
+          "min_return": -0.02003547218183106,
+          "max_return": -0.019742211857804365,
+          "median_return": -0.01988754158615772,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.05339282679233449,
+          "profitable_pct": 0.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.04891607623005163,
+          "std_return": 0.00028798690114026907,
+          "min_return": 0.04821977602387904,
+          "max_return": 0.0496719096432588,
+          "median_return": 0.04891094027698889,
+          "avg_trades": 7.0,
+          "avg_win_rate": 0.7142857142857142,
+          "avg_fees": 0.15046339576332715,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": -0.010810092797909397,
+          "std_return": 5.519207725118817e-05,
+          "min_return": -0.010934899320877206,
+          "max_return": -0.010637050220505746,
+          "median_return": -0.01081326970398654,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.05346452220009784,
+          "profitable_pct": 0.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": -0.010810092797909397,
+          "std_return": 5.519207725118817e-05,
+          "min_return": -0.010934899320877206,
+          "max_return": -0.010637050220505746,
+          "median_return": -0.01081326970398654,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.05346452220009784,
+          "profitable_pct": 0.0
+        }
+      },
+      "300_tests": {
+        "BASE": {
+          "avg_return": 0.0003317959480161417,
+          "std_return": 5.9998914113677985e-05,
+          "min_return": 0.0001700933923344413,
+          "max_return": 0.0004992565326860662,
+          "median_return": 0.0003362680873993895,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.053464534697779294,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": -0.009361239399819414,
+          "std_return": 3.6034302115338925e-05,
+          "min_return": -0.009471471154250443,
+          "max_return": -0.009249139141287515,
+          "median_return": -0.00936129250595305,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.03572987938843835,
+          "profitable_pct": 0.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": -0.014426420398203825,
+          "std_return": 7.237181232903279e-05,
+          "min_return": -0.014603817846588072,
+          "max_return": -0.01419375797185997,
+          "median_return": -0.01442861880620389,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.07104867107960526,
+          "profitable_pct": 0.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.0003317959480161417,
+          "std_return": 5.9998914113677985e-05,
+          "min_return": 0.0001700933923344413,
+          "max_return": 0.0004992565326860662,
+          "median_return": 0.0003362680873993895,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.053464534697779294,
+          "profitable_pct": 100.0
+        },
+        "TIGHT_SL": {
+          "avg_return": -0.019886655644024965,
+          "std_return": 5.3032311631409944e-05,
+          "min_return": -0.02003547218183106,
+          "max_return": -0.01971783794245994,
+          "median_return": -0.01988849398320364,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.05339283531937396,
+          "profitable_pct": 0.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.04889980840741177,
+          "std_return": 0.0002887280770220251,
+          "min_return": 0.04821977602387904,
+          "max_return": 0.0496719096432588,
+          "median_return": 0.048896206136255393,
+          "avg_trades": 7.0,
+          "avg_win_rate": 0.7142857142857143,
+          "avg_fees": 0.1504620719864365,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": -0.010811800008453765,
+          "std_return": 5.4443626802102416e-05,
+          "min_return": -0.010945243401494623,
+          "max_return": -0.010637050220505746,
+          "median_return": -0.01081326970398654,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.053464534697779294,
+          "profitable_pct": 0.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": -0.010811800008453765,
+          "std_return": 5.4443626802102416e-05,
+          "min_return": -0.010945243401494623,
+          "max_return": -0.010637050220505746,
+          "median_return": -0.01081326970398654,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.053464534697779294,
+          "profitable_pct": 0.0
+        }
+      }
+    },
+    "SIDEWAYS": {
+      "100_tests": {
+        "BASE": {
+          "avg_return": 0.05334688991445943,
+          "std_return": 0.00891957001408068,
+          "min_return": 0.030449899375787293,
+          "max_return": 0.0579044336633109,
+          "median_return": 0.05687073788208788,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.1923310390781846,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": 0.007169377089751634,
+          "std_return": 0.002184464866335018,
+          "min_return": 0.006280840368713143,
+          "max_return": 0.02878439809575866,
+          "median_return": 0.006963256387771916,
+          "avg_trades": 7.99,
+          "avg_win_rate": 0.6258928571428571,
+          "avg_fees": 0.12841490788903392,
+          "profitable_pct": 100.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": 0.050877795594001636,
+          "std_return": 0.0003363181296040607,
+          "min_return": 0.05017093626080509,
+          "max_return": 0.051611739116429856,
+          "median_return": 0.050875310877285265,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.8333333333333331,
+          "avg_fees": 0.14543997069498793,
+          "profitable_pct": 100.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.07262662661017774,
+          "std_return": 0.003312781883035382,
+          "min_return": 0.03974813655940617,
+          "max_return": 0.073531714515802,
+          "median_return": 0.07295700080528178,
+          "avg_trades": 5.01,
+          "avg_win_rate": 0.7986666666666664,
+          "avg_fees": 0.09557164550447265,
+          "profitable_pct": 100.0
+        },
+        "TIGHT_SL": {
+          "avg_return": -0.02198899062076988,
+          "std_return": 0.00032436169863141173,
+          "min_return": -0.022762121729482675,
+          "max_return": -0.021151962593114793,
+          "median_return": -0.0219735731690551,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.625,
+          "avg_fees": 0.19161298625258655,
+          "profitable_pct": 0.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.0601236820411218,
+          "std_return": 0.005055703764937817,
+          "min_return": 0.013320955447883117,
+          "max_return": 0.062185529537159896,
+          "median_return": 0.061001087479365126,
+          "avg_trades": 10.03,
+          "avg_win_rate": 0.7976428571428569,
+          "avg_fees": 0.2472052552808561,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": 0.03152985424352748,
+          "std_return": 0.0051273097741118346,
+          "min_return": 0.018395342878196934,
+          "max_return": 0.03413182856421732,
+          "median_return": 0.033562475904026126,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.14987793760405282,
+          "profitable_pct": 100.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": 0.04457582150517287,
+          "std_return": 0.008844989269415446,
+          "min_return": 0.021902503235536795,
+          "max_return": 0.04904200431242146,
+          "median_return": 0.048080266243894415,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.19144375018199983,
+          "profitable_pct": 100.0
+        }
+      },
+      "200_tests": {
+        "BASE": {
+          "avg_return": 0.05435407766694047,
+          "std_return": 0.007741878319661642,
+          "min_return": 0.030449899375787293,
+          "max_return": 0.0579044336633109,
+          "median_return": 0.05687910591111697,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.19237806275318078,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": 0.007063823232092067,
+          "std_return": 0.001565089336107806,
+          "min_return": 0.006280840368713143,
+          "max_return": 0.02878439809575866,
+          "median_return": 0.006959666997448153,
+          "avg_trades": 7.995,
+          "avg_win_rate": 0.6254464285714286,
+          "avg_fees": 0.12855300409745157,
+          "profitable_pct": 100.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": 0.05093611870149228,
+          "std_return": 0.000904060179342113,
+          "min_return": 0.050161223594233965,
+          "max_return": 0.062845927319543,
+          "median_return": 0.050871464785494425,
+          "avg_trades": 6.015,
+          "avg_win_rate": 0.8330357142857143,
+          "avg_fees": 0.14608449615253324,
+          "profitable_pct": 100.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.0727847436992218,
+          "std_return": 0.0023560582777113937,
+          "min_return": 0.03974813655940617,
+          "max_return": 0.07364940240208967,
+          "median_return": 0.07296273543289222,
+          "avg_trades": 5.005,
+          "avg_win_rate": 0.7993333333333333,
+          "avg_fees": 0.09535667546259646,
+          "profitable_pct": 100.0
+        },
+        "TIGHT_SL": {
+          "avg_return": -0.022001606572244353,
+          "std_return": 0.00030528475214885856,
+          "min_return": -0.02284796840836748,
+          "max_return": -0.021151962593114793,
+          "median_return": -0.022008736009373045,
+          "avg_trades": 8.005,
+          "avg_win_rate": 0.6252083333333334,
+          "avg_fees": 0.19167830417301507,
+          "profitable_pct": 0.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.06020980282446568,
+          "std_return": 0.004961413747311937,
+          "min_return": 0.013320955447883117,
+          "max_return": 0.062185529537159896,
+          "median_return": 0.06100135342048854,
+          "avg_trades": 10.02,
+          "avg_win_rate": 0.7978928571428571,
+          "avg_fees": 0.24706546863647483,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": 0.03210610828390686,
+          "std_return": 0.0044519613582507875,
+          "min_return": 0.018328323722621463,
+          "max_return": 0.03413182856421732,
+          "median_return": 0.033568333218343294,
+          "avg_trades": 8.005,
+          "avg_win_rate": 0.7501388888888889,
+          "avg_fees": 0.1499633831234375,
+          "profitable_pct": 100.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": 0.045573431744300966,
+          "std_return": 0.007677559612059554,
+          "min_return": 0.021902503235536795,
+          "max_return": 0.04904200431242146,
+          "median_return": 0.04809238503365662,
+          "avg_trades": 8.005,
+          "avg_win_rate": 0.7501388888888889,
+          "avg_fees": 0.1915573844777409,
+          "profitable_pct": 100.0
+        }
+      },
+      "300_tests": {
+        "BASE": {
+          "avg_return": 0.05434939861054179,
+          "std_return": 0.007733202074560043,
+          "min_return": 0.030449899375787293,
+          "max_return": 0.0579044336633109,
+          "median_return": 0.05687816471383675,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.19237658609330624,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": 0.0070170676778169025,
+          "std_return": 0.0012903391370128559,
+          "min_return": 0.006280840368713143,
+          "max_return": 0.02878439809575866,
+          "median_return": 0.0069480377291859935,
+          "avg_trades": 7.996666666666667,
+          "avg_win_rate": 0.625297619047619,
+          "avg_fees": 0.1285985496629904,
+          "profitable_pct": 100.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": 0.050942875892687825,
+          "std_return": 0.0010329602190616194,
+          "min_return": 0.05004406506975253,
+          "max_return": 0.06295163028344423,
+          "median_return": 0.05087181388955543,
+          "avg_trades": 6.02,
+          "avg_win_rate": 0.8329365079365079,
+          "avg_fees": 0.1462986734169541,
+          "profitable_pct": 100.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.07282138987756312,
+          "std_return": 0.0019315831017109996,
+          "min_return": 0.03974813655940617,
+          "max_return": 0.07364940240208967,
+          "median_return": 0.07293755824099596,
+          "avg_trades": 5.003333333333333,
+          "avg_win_rate": 0.7995555555555555,
+          "avg_fees": 0.0952847267812471,
+          "profitable_pct": 100.0
+        },
+        "TIGHT_SL": {
+          "avg_return": -0.02202092147221375,
+          "std_return": 0.000315394778302837,
+          "min_return": -0.023200822774282794,
+          "max_return": -0.02113788857520717,
+          "median_return": -0.022017924313722688,
+          "avg_trades": 8.006666666666666,
+          "avg_win_rate": 0.6252777777777778,
+          "avg_fees": 0.19169930486599654,
+          "profitable_pct": 0.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.06024215437314718,
+          "std_return": 0.004953307440805761,
+          "min_return": 0.013320955447883117,
+          "max_return": 0.062185529537159896,
+          "median_return": 0.06099292133753095,
+          "avg_trades": 10.016666666666667,
+          "avg_win_rate": 0.7979761904761904,
+          "avg_fees": 0.2470173091809052,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": 0.03210420703220634,
+          "std_return": 0.004447103771396279,
+          "min_return": 0.018328323722621463,
+          "max_return": 0.03413182856421732,
+          "median_return": 0.033563754392595985,
+          "avg_trades": 8.006666666666666,
+          "avg_win_rate": 0.7501851851851852,
+          "avg_fees": 0.14998521924464375,
+          "profitable_pct": 100.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": 0.04556961859297181,
+          "std_return": 0.007668403660975342,
+          "min_return": 0.021902503235536795,
+          "max_return": 0.04904200431242146,
+          "median_return": 0.04809238503365662,
+          "avg_trades": 8.006666666666666,
+          "avg_win_rate": 0.7501851851851852,
+          "avg_fees": 0.19157855743756652,
+          "profitable_pct": 100.0
+        }
+      }
+    },
+    "CRASH": {
+      "100_tests": {
+        "BASE": {
+          "avg_return": 0.028029115579404743,
+          "std_return": 0.0004009097924799406,
+          "min_return": 0.027180344364177624,
+          "max_return": 0.029245915165243826,
+          "median_return": 0.027965094010001697,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.19093902590160206,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": 0.008734246377791254,
+          "std_return": 0.00023345442613489944,
+          "min_return": 0.008075594571711425,
+          "max_return": 0.009348289110511322,
+          "median_return": 0.008753377881828707,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.625,
+          "avg_fees": 0.12837974555827503,
+          "profitable_pct": 100.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": 0.023498263441567867,
+          "std_return": 0.0016883832631734682,
+          "min_return": 0.021942334123469322,
+          "max_return": 0.02964561771260075,
+          "median_return": 0.023055367763251032,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.25375167836935686,
+          "profitable_pct": 100.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.021762366953043667,
+          "std_return": 0.003147713860713487,
+          "min_return": 0.019478729382793176,
+          "max_return": 0.027586421038550763,
+          "median_return": 0.01995042537479852,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.6,
+          "avg_fees": 0.12011610912836783,
+          "profitable_pct": 100.0
+        },
+        "TIGHT_SL": {
+          "avg_return": -0.016983753477763878,
+          "std_return": 0.0012267831545237663,
+          "min_return": -0.01808796143695967,
+          "max_return": -0.012570170529679861,
+          "median_return": -0.01728535489002752,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.625,
+          "avg_fees": 0.19125852150712067,
+          "profitable_pct": 0.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.027259006276146063,
+          "std_return": 0.0005153673232346213,
+          "min_return": 0.025891631937425358,
+          "max_return": 0.028651203890856514,
+          "median_return": 0.027325802535885468,
+          "avg_trades": 11.92,
+          "avg_win_rate": 0.8321212121212119,
+          "avg_fees": 0.2451373089979192,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": 0.014405844508900777,
+          "std_return": 0.0011981768033621548,
+          "min_return": 0.01355361725466139,
+          "max_return": 0.018715065005486812,
+          "median_return": 0.014107498725038851,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.14915480631835806,
+          "profitable_pct": 100.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": 0.018352524284972808,
+          "std_return": 0.0012629192815048864,
+          "min_return": 0.017187034007799865,
+          "max_return": 0.022949823768537953,
+          "median_return": 0.01801888116195073,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.19000215507977028,
+          "profitable_pct": 100.0
+        }
+      },
+      "200_tests": {
+        "BASE": {
+          "avg_return": 0.02800385423243192,
+          "std_return": 0.00037014529924848423,
+          "min_return": 0.0271526732415568,
+          "max_return": 0.029245915165243826,
+          "median_return": 0.027967851353233375,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.1909383275486729,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": 0.00872729329981951,
+          "std_return": 0.0002339070035516644,
+          "min_return": 0.008075594571711425,
+          "max_return": 0.009348289110511322,
+          "median_return": 0.008736151578178902,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.625,
+          "avg_fees": 0.12837913185359168,
+          "profitable_pct": 100.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": 0.023297946912391065,
+          "std_return": 0.001346180882060752,
+          "min_return": 0.021942334123469322,
+          "max_return": 0.02964561771260075,
+          "median_return": 0.02301594894754269,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.2537342657519554,
+          "profitable_pct": 100.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.022298279754646454,
+          "std_return": 0.0033831342536204774,
+          "min_return": 0.019336292109165355,
+          "max_return": 0.027586421038550763,
+          "median_return": 0.02001917909127788,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.5999999999999999,
+          "avg_fees": 0.12014059333549927,
+          "profitable_pct": 100.0
+        },
+        "TIGHT_SL": {
+          "avg_return": -0.017119185134627957,
+          "std_return": 0.000987814550086577,
+          "min_return": -0.018172647243513137,
+          "max_return": -0.012570170529679861,
+          "median_return": -0.017315172261757918,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.625,
+          "avg_fees": 0.19124729519049288,
+          "profitable_pct": 0.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.02723185587136184,
+          "std_return": 0.00048947635375425,
+          "min_return": 0.025891631937425358,
+          "max_return": 0.028651203890856514,
+          "median_return": 0.027315075600679584,
+          "avg_trades": 11.95,
+          "avg_win_rate": 0.8325757575757575,
+          "avg_fees": 0.2455513795260221,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": 0.014264832042114753,
+          "std_return": 0.0009557941633594349,
+          "min_return": 0.01355361725466139,
+          "max_return": 0.018715065005486812,
+          "median_return": 0.014062591881437735,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.14914868765990444,
+          "profitable_pct": 100.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": 0.018202665811753106,
+          "std_return": 0.0010071170252048676,
+          "min_return": 0.017187034007799865,
+          "max_return": 0.022949823768537953,
+          "median_return": 0.01799224696531676,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.18999233910649163,
+          "profitable_pct": 100.0
+        }
+      },
+      "300_tests": {
+        "BASE": {
+          "avg_return": 0.02799330544841267,
+          "std_return": 0.00037338284770267976,
+          "min_return": 0.027051809135650917,
+          "max_return": 0.029245915165243826,
+          "median_return": 0.02797199143028384,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.19093602852129948,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": 0.00871385227303596,
+          "std_return": 0.0002396115153705789,
+          "min_return": 0.007991479009302414,
+          "max_return": 0.009380728280024377,
+          "median_return": 0.008733887613160789,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.625,
+          "avg_fees": 0.12837848726705772,
+          "profitable_pct": 100.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": 0.023289294951420524,
+          "std_return": 0.0013393420639591785,
+          "min_return": 0.02176049472591463,
+          "max_return": 0.02964561771260075,
+          "median_return": 0.02301594894754269,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.25373112817191484,
+          "profitable_pct": 100.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.022507855582599146,
+          "std_return": 0.0034584281912419875,
+          "min_return": 0.01931053000672667,
+          "max_return": 0.02773197253330333,
+          "median_return": 0.02005880353396255,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.6,
+          "avg_fees": 0.12014937664510848,
+          "profitable_pct": 100.0
+        },
+        "TIGHT_SL": {
+          "avg_return": -0.01713894922968953,
+          "std_return": 0.0009869067786129973,
+          "min_return": -0.018526316460576217,
+          "max_return": -0.012570170529679861,
+          "median_return": -0.01733386206299514,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.625,
+          "avg_fees": 0.19124586317171763,
+          "profitable_pct": 0.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.027229235104528845,
+          "std_return": 0.0004921298203765256,
+          "min_return": 0.025891631937425358,
+          "max_return": 0.028651203890856514,
+          "median_return": 0.027308043159146582,
+          "avg_trades": 11.95,
+          "avg_win_rate": 0.8325757575757574,
+          "avg_fees": 0.24554917568114015,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": 0.014261443873302273,
+          "std_return": 0.0009507070861248498,
+          "min_return": 0.013411089239232676,
+          "max_return": 0.018715065005486812,
+          "median_return": 0.01406252950263962,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.1491478775567434,
+          "profitable_pct": 100.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": 0.01819646031825897,
+          "std_return": 0.0010018402843058665,
+          "min_return": 0.01706389544334854,
+          "max_return": 0.022949823768537953,
+          "median_return": 0.01799224696531676,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.18999057181619114,
+          "profitable_pct": 100.0
+        }
+      }
+    },
+    "RECOVERY": {
+      "100_tests": {
+        "BASE": {
+          "avg_return": -0.018126776607764503,
+          "std_return": 5.010296921649564e-05,
+          "min_return": -0.018248670590461227,
+          "max_return": -0.017986822997134104,
+          "median_return": -0.018125644773546695,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.05323442623965474,
+          "profitable_pct": 0.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": -0.012058278246035246,
+          "std_return": 3.3465586455868404e-05,
+          "min_return": -0.012139616704605487,
+          "max_return": -0.01196479341243465,
+          "median_return": -0.012057325181150323,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.03565931232911893,
+          "profitable_pct": 0.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": -0.0336911920133378,
+          "std_return": 7.181806247317717e-05,
+          "min_return": -0.03388303228368405,
+          "max_return": -0.033502808282394575,
+          "median_return": -0.03369280591851729,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.07064071064674116,
+          "profitable_pct": 0.0
+        },
+        "HIGH_TP": {
+          "avg_return": -0.018126776607764503,
+          "std_return": 5.010296921649564e-05,
+          "min_return": -0.018248670590461227,
+          "max_return": -0.017986822997134104,
+          "median_return": -0.018125644773546695,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.05323442623965474,
+          "profitable_pct": 0.0
+        },
+        "TIGHT_SL": {
+          "avg_return": -0.025300987372192357,
+          "std_return": 5.4076318678072885e-05,
+          "min_return": -0.025445504920103872,
+          "max_return": -0.02515955175118696,
+          "median_return": -0.025302385440594908,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.05323442623965474,
+          "profitable_pct": 0.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.05339380246138163,
+          "std_return": 0.0033330030635411825,
+          "min_return": 0.048845061334483075,
+          "max_return": 0.05674757762025706,
+          "median_return": 0.05590722368189242,
+          "avg_trades": 7.0,
+          "avg_win_rate": 0.5714285714285712,
+          "avg_fees": 0.15047893464246873,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": -0.025300987372192357,
+          "std_return": 5.4076318678072885e-05,
+          "min_return": -0.025445504920103872,
+          "max_return": -0.02515955175118696,
+          "median_return": -0.025302385440594908,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.05323442623965474,
+          "profitable_pct": 0.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": -0.025300987372192357,
+          "std_return": 5.4076318678072885e-05,
+          "min_return": -0.025445504920103872,
+          "max_return": -0.02515955175118696,
+          "median_return": -0.025302385440594908,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.05323442623965474,
+          "profitable_pct": 0.0
+        }
+      },
+      "200_tests": {
+        "BASE": {
+          "avg_return": -0.01812581970230618,
+          "std_return": 5.3429944109639316e-05,
+          "min_return": -0.018291084895084662,
+          "max_return": -0.017960704355232338,
+          "median_return": -0.018125644773546695,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.053234536409353536,
+          "profitable_pct": 0.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": -0.012057661907937632,
+          "std_return": 3.567803037880016e-05,
+          "min_return": -0.012167997395316281,
+          "max_return": -0.011947275722810862,
+          "median_return": -0.012057419598144747,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.03565936143011676,
+          "profitable_pct": 0.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": -0.03368634953305197,
+          "std_return": 7.19558061424361e-05,
+          "min_return": -0.03388303228368405,
+          "max_return": -0.0334975469268259,
+          "median_return": -0.03368865907250608,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.07064090595723443,
+          "profitable_pct": 0.0
+        },
+        "HIGH_TP": {
+          "avg_return": -0.01812581970230618,
+          "std_return": 5.3429944109639316e-05,
+          "min_return": -0.018291084895084662,
+          "max_return": -0.017960704355232338,
+          "median_return": -0.018125644773546695,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.053234536409353536,
+          "profitable_pct": 0.0
+        },
+        "TIGHT_SL": {
+          "avg_return": -0.025297349184157866,
+          "std_return": 5.4169028260009326e-05,
+          "min_return": -0.025445504920103872,
+          "max_return": -0.025155172942952126,
+          "median_return": -0.025299155927395893,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.053234536409353536,
+          "profitable_pct": 0.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.053697562337967505,
+          "std_return": 0.0032669554062028233,
+          "min_return": 0.048845061334483075,
+          "max_return": 0.05674757762025706,
+          "median_return": 0.05594626241417036,
+          "avg_trades": 7.0,
+          "avg_win_rate": 0.5714285714285713,
+          "avg_fees": 0.15051081869004415,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": -0.025297349184157866,
+          "std_return": 5.4169028260009326e-05,
+          "min_return": -0.025445504920103872,
+          "max_return": -0.025155172942952126,
+          "median_return": -0.025299155927395893,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.053234536409353536,
+          "profitable_pct": 0.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": -0.025297349184157866,
+          "std_return": 5.4169028260009326e-05,
+          "min_return": -0.025445504920103872,
+          "max_return": -0.025155172942952126,
+          "median_return": -0.025299155927395893,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.053234536409353536,
+          "profitable_pct": 0.0
+        }
+      },
+      "300_tests": {
+        "BASE": {
+          "avg_return": -0.018127184564971206,
+          "std_return": 5.358436505227937e-05,
+          "min_return": -0.018291084895084662,
+          "max_return": -0.017960704355232338,
+          "median_return": -0.018127190698957824,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.053234544820902605,
+          "profitable_pct": 0.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": -0.012058578298937956,
+          "std_return": 3.577337090442968e-05,
+          "min_return": -0.012167997395316281,
+          "max_return": -0.011947275722810862,
+          "median_return": -0.012058593997671115,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.03565936516057659,
+          "profitable_pct": 0.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": -0.0336873056626552,
+          "std_return": 6.979332460467991e-05,
+          "min_return": -0.03388303228368405,
+          "max_return": -0.03346530580301703,
+          "median_return": -0.03368944104590782,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.0706409209431251,
+          "profitable_pct": 0.0
+        },
+        "HIGH_TP": {
+          "avg_return": -0.018127184564971206,
+          "std_return": 5.358436505227937e-05,
+          "min_return": -0.018291084895084662,
+          "max_return": -0.017960704355232338,
+          "median_return": -0.018127190698957824,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.053234544820902605,
+          "profitable_pct": 0.0
+        },
+        "TIGHT_SL": {
+          "avg_return": -0.02529807042969755,
+          "std_return": 5.2536411136449985e-05,
+          "min_return": -0.025445504920103872,
+          "max_return": -0.02513100011323502,
+          "median_return": -0.025299833832625514,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.053234544820902605,
+          "profitable_pct": 0.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.05374465811635051,
+          "std_return": 0.0038363776756906386,
+          "min_return": 0.017562175586581172,
+          "max_return": 0.05674757762025706,
+          "median_return": 0.055963729513352406,
+          "avg_trades": 6.996666666666667,
+          "avg_win_rate": 0.5711904761904759,
+          "avg_fees": 0.1503860574237542,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": -0.02529807042969755,
+          "std_return": 5.2536411136449985e-05,
+          "min_return": -0.025445504920103872,
+          "max_return": -0.02513100011323502,
+          "median_return": -0.025299833832625514,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.053234544820902605,
+          "profitable_pct": 0.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": -0.02529807042969755,
+          "std_return": 5.2536411136449985e-05,
+          "min_return": -0.025445504920103872,
+          "max_return": -0.02513100011323502,
+          "median_return": -0.025299833832625514,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.053234544820902605,
+          "profitable_pct": 0.0
+        }
+      }
+    },
+    "MIXED": {
+      "100_tests": {
+        "BASE": {
+          "avg_return": 0.007482708393842675,
+          "std_return": 0.00028899398541735435,
+          "min_return": 0.006893323589031866,
+          "max_return": 0.008102795776898498,
+          "median_return": 0.007519590053581927,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.6,
+          "avg_fees": 0.12045099074511231,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": 0.015559885243021149,
+          "std_return": 0.008286300694708433,
+          "min_return": 0.008135630381433808,
+          "max_return": 0.0256082860368709,
+          "median_return": 0.0086702344343009,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.6,
+          "avg_fees": 0.08059154620348535,
+          "profitable_pct": 100.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": 0.009334008674774644,
+          "std_return": 0.0003862579694887717,
+          "min_return": 0.00854392418537183,
+          "max_return": 0.010168754272552103,
+          "median_return": 0.009389941305904112,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666669,
+          "avg_fees": 0.17800234215478952,
+          "profitable_pct": 100.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.04674508532389215,
+          "std_return": 0.012398090778795124,
+          "min_return": 0.04115845439157056,
+          "max_return": 0.07786969515995831,
+          "median_return": 0.04176807715738391,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.6279999999999999,
+          "avg_fees": 0.1168634445727928,
+          "profitable_pct": 100.0
+        },
+        "TIGHT_SL": {
+          "avg_return": 0.006424304143511001,
+          "std_return": 0.00133062741389131,
+          "min_return": 0.004227798809567768,
+          "max_return": 0.008021533190742124,
+          "median_return": 0.007208653048941282,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666669,
+          "avg_fees": 0.13403977127291924,
+          "profitable_pct": 100.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.013439472106474752,
+          "std_return": 0.00036206756235787526,
+          "min_return": 0.012509766385240748,
+          "max_return": 0.014248895101036775,
+          "median_return": 0.013412959719268164,
+          "avg_trades": 9.0,
+          "avg_win_rate": 0.7777777777777776,
+          "avg_fees": 0.20340879676581372,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": 0.006970071918163961,
+          "std_return": 0.00019619692802485972,
+          "min_return": 0.006576904071036628,
+          "max_return": 0.007418473461215361,
+          "median_return": 0.006990014261629559,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666669,
+          "avg_fees": 0.10751197572487754,
+          "profitable_pct": 100.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": 0.007402620643350861,
+          "std_return": 0.00028871346370688356,
+          "min_return": 0.006813737764227502,
+          "max_return": 0.008021533190742124,
+          "median_return": 0.00743928388143028,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666669,
+          "avg_fees": 0.13388120381326682,
+          "profitable_pct": 100.0
+        }
+      },
+      "200_tests": {
+        "BASE": {
+          "avg_return": 0.007467353739552949,
+          "std_return": 0.0002722843461793418,
+          "min_return": 0.006640948528219989,
+          "max_return": 0.008102795776898498,
+          "median_return": 0.007483618045014756,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.5999999999999999,
+          "avg_fees": 0.12045019640836907,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": 0.015465606975720938,
+          "std_return": 0.008291693973856857,
+          "min_return": 0.008135630381433808,
+          "max_return": 0.0256082860368709,
+          "median_return": 0.008662178967706591,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.5999999999999999,
+          "avg_fees": 0.08059037484585926,
+          "profitable_pct": 100.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": 0.009313331122855973,
+          "std_return": 0.00036406860590312433,
+          "min_return": 0.008213672918744615,
+          "max_return": 0.010168754272552103,
+          "median_return": 0.009337783946924486,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666665,
+          "avg_fees": 0.17800095604367372,
+          "profitable_pct": 100.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.04566657049486997,
+          "std_return": 0.011188386650513256,
+          "min_return": 0.04115845439157056,
+          "max_return": 0.07792798815504208,
+          "median_return": 0.041761390987539546,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.6219999999999999,
+          "avg_fees": 0.11759847590271427,
+          "profitable_pct": 100.0
+        },
+        "TIGHT_SL": {
+          "avg_return": 0.006450535783312485,
+          "std_return": 0.001299379526066021,
+          "min_return": 0.004227798809567768,
+          "max_return": 0.008304320723558287,
+          "median_return": 0.007228243677975001,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666665,
+          "avg_fees": 0.1340369859982788,
+          "profitable_pct": 100.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.013409708508083974,
+          "std_return": 0.00036881369535903783,
+          "min_return": 0.012509766385240748,
+          "max_return": 0.014248895101036775,
+          "median_return": 0.01338316992996615,
+          "avg_trades": 9.0,
+          "avg_win_rate": 0.7777777777777779,
+          "avg_fees": 0.2034074300868489,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": 0.006959526284703299,
+          "std_return": 0.0001864739929603105,
+          "min_return": 0.006365756687063708,
+          "max_return": 0.007418473461215361,
+          "median_return": 0.006969840326713286,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666665,
+          "avg_fees": 0.10751161796720062,
+          "profitable_pct": 100.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": 0.007387298789432356,
+          "std_return": 0.0002720238521096561,
+          "min_return": 0.00656191482937686,
+          "max_return": 0.008021533190742124,
+          "median_return": 0.00740303173695556,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666665,
+          "avg_fees": 0.13388042206187484,
+          "profitable_pct": 100.0
+        }
+      },
+      "300_tests": {
+        "BASE": {
+          "avg_return": 0.007463198425624199,
+          "std_return": 0.00027852499482740003,
+          "min_return": 0.006640948528219989,
+          "max_return": 0.008198057191698542,
+          "median_return": 0.007481845707672411,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.6,
+          "avg_fees": 0.12044974544239807,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": 0.014978788108828352,
+          "std_return": 0.008195171990851338,
+          "min_return": 0.008060690717184875,
+          "max_return": 0.025679816848135792,
+          "median_return": 0.008640169720318624,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.6,
+          "avg_fees": 0.08058561282164459,
+          "profitable_pct": 100.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": 0.009307595608048207,
+          "std_return": 0.0003726047634971986,
+          "min_return": 0.008213672918744615,
+          "max_return": 0.01029171833483133,
+          "median_return": 0.009334047556274356,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666666,
+          "avg_fees": 0.17800016082778009,
+          "profitable_pct": 100.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.04458667141923836,
+          "std_return": 0.009703377502129136,
+          "min_return": 0.04105622623148141,
+          "max_return": 0.07792798815504208,
+          "median_return": 0.041750434841107256,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.616,
+          "avg_fees": 0.11833301909719623,
+          "profitable_pct": 100.0
+        },
+        "TIGHT_SL": {
+          "avg_return": 0.006505228276741262,
+          "std_return": 0.0012852287451559068,
+          "min_return": 0.004227798809567768,
+          "max_return": 0.008304320723558287,
+          "median_return": 0.007239776281551637,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666666,
+          "avg_fees": 0.13402625931922407,
+          "profitable_pct": 100.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.01341629565607564,
+          "std_return": 0.0003764078250987181,
+          "min_return": 0.012382199583512754,
+          "max_return": 0.014465498277925046,
+          "median_return": 0.013402310636064386,
+          "avg_trades": 9.0,
+          "avg_win_rate": 0.7777777777777777,
+          "avg_fees": 0.20340711120110797,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": 0.006956447673657019,
+          "std_return": 0.0001900552883728816,
+          "min_return": 0.006365756687063708,
+          "max_return": 0.00744430138350064,
+          "median_return": 0.006969840326713286,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666666,
+          "avg_fees": 0.10751141030756517,
+          "profitable_pct": 100.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": 0.0073831525907467,
+          "std_return": 0.0002782704061233981,
+          "min_return": 0.00656191482937686,
+          "max_return": 0.008118187889874472,
+          "median_return": 0.007401627487744046,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666666,
+          "avg_fees": 0.13387997401533594,
+          "profitable_pct": 100.0
+        }
+      }
+    }
+  },
+  "90d": {
+    "BULL": {
+      "100_tests": {
+        "BASE": {
+          "avg_return": 0.013045484761510216,
+          "std_return": 0.012282470962306932,
+          "min_return": 0.008858652757849276,
+          "max_return": 0.05516604357159622,
+          "median_return": 0.009486438293953275,
+          "avg_trades": 5.08,
+          "avg_win_rate": 0.6186666666666666,
+          "avg_fees": 0.11955490773720072,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": 0.010543417349947133,
+          "std_return": 0.0036841859877600872,
+          "min_return": 0.009343314181102376,
+          "max_return": 0.026714215060525626,
+          "median_return": 0.009734199041645297,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.6,
+          "avg_fees": 0.08054227332159555,
+          "profitable_pct": 100.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": 0.015853492436359064,
+          "std_return": 0.013319875232689418,
+          "min_return": 0.011183396889474768,
+          "max_return": 0.06422034586111049,
+          "median_return": 0.012030999023691417,
+          "avg_trades": 6.05,
+          "avg_win_rate": 0.6811904761904765,
+          "avg_fees": 0.17632566271924777,
+          "profitable_pct": 100.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.04134685642756483,
+          "std_return": 0.026636633519004,
+          "min_return": -0.047643377651995326,
+          "max_return": 0.07946393833175742,
+          "median_return": 0.0438468520713054,
+          "avg_trades": 5.14,
+          "avg_win_rate": 0.6199999999999999,
+          "avg_fees": 0.11957229108607043,
+          "profitable_pct": 93.0
+        },
+        "TIGHT_SL": {
+          "avg_return": 0.009174246713573602,
+          "std_return": 0.0009658009055612905,
+          "min_return": 0.0046392838881477395,
+          "max_return": 0.00998781959498198,
+          "median_return": 0.009405338366582423,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666669,
+          "avg_fees": 0.13391783788860023,
+          "profitable_pct": 100.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.01762649862229129,
+          "std_return": 0.000362627944186925,
+          "min_return": 0.016695270908537813,
+          "max_return": 0.018437809909242445,
+          "median_return": 0.0175999603616259,
+          "avg_trades": 9.0,
+          "avg_win_rate": 0.7777777777777776,
+          "avg_fees": 0.2036529519917779,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": 0.006246387322328134,
+          "std_return": 0.0057280784504005165,
+          "min_return": -0.013507314974741575,
+          "max_return": 0.008341736413454252,
+          "median_return": 0.007944692312270074,
+          "avg_trades": 6.24,
+          "avg_win_rate": 0.6666666666666669,
+          "avg_fees": 0.11200850637049768,
+          "profitable_pct": 92.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": 0.005988286501061764,
+          "std_return": 0.011387960951794722,
+          "min_return": -0.03303906880893597,
+          "max_return": 0.009965938123804866,
+          "median_return": 0.009352292887918261,
+          "avg_trades": 6.24,
+          "avg_win_rate": 0.6666666666666669,
+          "avg_fees": 0.1396381555312169,
+          "profitable_pct": 92.0
+        }
+      },
+      "200_tests": {
+        "BASE": {
+          "avg_return": 0.012580454966005034,
+          "std_return": 0.011559885659326459,
+          "min_return": 0.008605791834441826,
+          "max_return": 0.05516604357159622,
+          "median_return": 0.009450885014295049,
+          "avg_trades": 5.07,
+          "avg_win_rate": 0.6163333333333332,
+          "avg_fees": 0.11966883478837065,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": 0.010449450648552919,
+          "std_return": 0.0035057394861473705,
+          "min_return": 0.009153593169446405,
+          "max_return": 0.026714215060525626,
+          "median_return": 0.009707697480707034,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.5999999999999999,
+          "avg_fees": 0.08054126229286215,
+          "profitable_pct": 100.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": 0.015315973197389705,
+          "std_return": 0.0124251279729385,
+          "min_return": 0.010852240756945358,
+          "max_return": 0.06422034586111049,
+          "median_return": 0.011979086245299678,
+          "avg_trades": 6.04,
+          "avg_win_rate": 0.6792857142857143,
+          "avg_fees": 0.17646717495668418,
+          "profitable_pct": 100.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.042417991517783325,
+          "std_return": 0.025236811539455166,
+          "min_return": -0.047643377651995326,
+          "max_return": 0.07949238466582093,
+          "median_return": 0.0438522428194464,
+          "avg_trades": 5.12,
+          "avg_win_rate": 0.6212857142857142,
+          "avg_fees": 0.11917112686847407,
+          "profitable_pct": 94.0
+        },
+        "TIGHT_SL": {
+          "avg_return": 0.009179151706833573,
+          "std_return": 0.0009110929506959822,
+          "min_return": 0.0046392838881477395,
+          "max_return": 0.00998781959498198,
+          "median_return": 0.009367761979610995,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666665,
+          "avg_fees": 0.13391541538072804,
+          "profitable_pct": 100.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.017596681795706393,
+          "std_return": 0.00036935930970182835,
+          "min_return": 0.016695270908537813,
+          "max_return": 0.018437809909242445,
+          "median_return": 0.017570276871090203,
+          "avg_trades": 9.0,
+          "avg_win_rate": 0.7777777777777779,
+          "avg_fees": 0.20365158608937464,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": 0.0064482006073164014,
+          "std_return": 0.005383254457335136,
+          "min_return": -0.013507314974741575,
+          "max_return": 0.008341736413454252,
+          "median_return": 0.00791034497003892,
+          "avg_trades": 6.21,
+          "avg_win_rate": 0.6666666666666665,
+          "avg_fees": 0.11144558327617443,
+          "profitable_pct": 93.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": 0.006394719911831802,
+          "std_return": 0.010704659907240082,
+          "min_return": -0.03303906880893597,
+          "max_return": 0.009965938123804866,
+          "median_return": 0.009324155062020906,
+          "avg_trades": 6.21,
+          "avg_win_rate": 0.6666666666666665,
+          "avg_fees": 0.1389203304254339,
+          "profitable_pct": 93.0
+        }
+      },
+      "300_tests": {
+        "BASE": {
+          "avg_return": 0.012871882401196133,
+          "std_return": 0.012042176804252416,
+          "min_return": 0.008605791834441826,
+          "max_return": 0.05516604357159622,
+          "median_return": 0.00944883940557342,
+          "avg_trades": 5.076666666666667,
+          "avg_win_rate": 0.6178888888888888,
+          "avg_fees": 0.11959186633228235,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": 0.010360240821452354,
+          "std_return": 0.00331334033219949,
+          "min_return": 0.009153593169446405,
+          "max_return": 0.026714215060525626,
+          "median_return": 0.009700831576621737,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.6,
+          "avg_fees": 0.08054034973327467,
+          "profitable_pct": 100.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": 0.015680384342380605,
+          "std_return": 0.013127947223878287,
+          "min_return": 0.010852240756945358,
+          "max_return": 0.06422034586111049,
+          "median_return": 0.011975210517547907,
+          "avg_trades": 6.05,
+          "avg_win_rate": 0.6806349206349207,
+          "avg_fees": 0.17643437812549925,
+          "profitable_pct": 100.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.04092367382209198,
+          "std_return": 0.02558494967739524,
+          "min_return": -0.047643377651995326,
+          "max_return": 0.0795690302239268,
+          "median_return": 0.04383397882154204,
+          "avg_trades": 5.133333333333334,
+          "avg_win_rate": 0.616095238095238,
+          "avg_fees": 0.11996928137704614,
+          "profitable_pct": 93.33333333333333
+        },
+        "TIGHT_SL": {
+          "avg_return": 0.009193080079120008,
+          "std_return": 0.0008770055477191368,
+          "min_return": 0.0046392838881477395,
+          "max_return": 0.010084480920897173,
+          "median_return": 0.009360728193596325,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666666,
+          "avg_fees": 0.13391339802145583,
+          "profitable_pct": 100.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.01760331595495755,
+          "std_return": 0.0003769129885696593,
+          "min_return": 0.01656873042814046,
+          "max_return": 0.018653013571047837,
+          "median_return": 0.017589492427633503,
+          "avg_trades": 9.0,
+          "avg_win_rate": 0.7777777777777777,
+          "avg_fees": 0.2036512669590081,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": 0.006299694964684786,
+          "std_return": 0.005625046541830649,
+          "min_return": -0.013555055992855121,
+          "max_return": 0.008341736413454252,
+          "median_return": 0.007905818611760936,
+          "avg_trades": 6.23,
+          "avg_win_rate": 0.6666666666666666,
+          "avg_fees": 0.11182029897698328,
+          "profitable_pct": 92.33333333333333
+        },
+        "HIGH_RESERVE": {
+          "avg_return": 0.006103528377137024,
+          "std_return": 0.011178169209186213,
+          "min_return": -0.03314595556102499,
+          "max_return": 0.009965938123804866,
+          "median_return": 0.009308317354485212,
+          "avg_trades": 6.23,
+          "avg_win_rate": 0.6666666666666666,
+          "avg_fees": 0.13939771246216892,
+          "profitable_pct": 92.33333333333333
+        }
+      }
+    },
+    "BEAR": {
+      "100_tests": {
+        "BASE": {
+          "avg_return": 0.0003370819886741477,
+          "std_return": 5.921678832639279e-05,
+          "min_return": 0.00018223854097035048,
+          "max_return": 0.00047357706429617487,
+          "median_return": 0.0003413564160715055,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.0534644367429894,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": -0.009360972776918093,
+          "std_return": 3.370072181182815e-05,
+          "min_return": -0.009443186470454066,
+          "max_return": -0.009266815644688791,
+          "median_return": -0.0093601663103802,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.035729826039139205,
+          "profitable_pct": 0.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": -0.014424189004692646,
+          "std_return": 7.489264601614044e-05,
+          "min_return": -0.014589848170278022,
+          "max_return": -0.014251932633601049,
+          "median_return": -0.01442340703083507,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.07104849710453243,
+          "profitable_pct": 0.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.0003370819886741477,
+          "std_return": 5.921678832639279e-05,
+          "min_return": 0.00018223854097035048,
+          "max_return": 0.00047357706429617487,
+          "median_return": 0.0003413564160715055,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.0534644367429894,
+          "profitable_pct": 100.0
+        },
+        "TIGHT_SL": {
+          "avg_return": -0.01988961096102719,
+          "std_return": 5.457924763965594e-05,
+          "min_return": -0.02003547218183106,
+          "max_return": -0.019746431365421698,
+          "median_return": -0.01989102441881177,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.053392715513800156,
+          "profitable_pct": 0.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.04891890196127135,
+          "std_return": 0.000308597217571574,
+          "min_return": 0.04821977602387904,
+          "max_return": 0.0496719096432588,
+          "median_return": 0.048927167763968854,
+          "avg_trades": 7.0,
+          "avg_win_rate": 0.714285714285714,
+          "avg_fees": 0.1504635972610943,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": -0.010810108157497939,
+          "std_return": 5.6348452417169405e-05,
+          "min_return": -0.010934899320877206,
+          "max_return": -0.01068072371432796,
+          "median_return": -0.010809528726864338,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.0534644367429894,
+          "profitable_pct": 0.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": -0.010810108157497939,
+          "std_return": 5.6348452417169405e-05,
+          "min_return": -0.010934899320877206,
+          "max_return": -0.01068072371432796,
+          "median_return": -0.010809528726864338,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.0534644367429894,
+          "profitable_pct": 0.0
+        }
+      },
+      "200_tests": {
+        "BASE": {
+          "avg_return": 0.00033641164584702967,
+          "std_return": 6.180900753229365e-05,
+          "min_return": 0.00018223854097035048,
+          "max_return": 0.0004992565326860662,
+          "median_return": 0.0003438779611527328,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.05346452220009784,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": -0.00936032466370054,
+          "std_return": 3.594386459490112e-05,
+          "min_return": -0.009471471154250443,
+          "max_return": -0.009249139141287515,
+          "median_return": -0.0093601663103802,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.03572987560514388,
+          "profitable_pct": 0.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": -0.014424155094678783,
+          "std_return": 7.338349343963315e-05,
+          "min_return": -0.014589848170278022,
+          "max_return": -0.01419375797185997,
+          "median_return": -0.01442861880620389,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.07104864883905035,
+          "profitable_pct": 0.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.00033641164584702967,
+          "std_return": 6.180900753229365e-05,
+          "min_return": 0.00018223854097035048,
+          "max_return": 0.0004992565326860662,
+          "median_return": 0.0003438779611527328,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.05346452220009784,
+          "profitable_pct": 100.0
+        },
+        "TIGHT_SL": {
+          "avg_return": -0.019885932187387417,
+          "std_return": 5.468782084636153e-05,
+          "min_return": -0.02003547218183106,
+          "max_return": -0.019742211857804365,
+          "median_return": -0.01988754158615772,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.05339282679233449,
+          "profitable_pct": 0.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.04891607623005163,
+          "std_return": 0.00028798690114026907,
+          "min_return": 0.04821977602387904,
+          "max_return": 0.0496719096432588,
+          "median_return": 0.04891094027698889,
+          "avg_trades": 7.0,
+          "avg_win_rate": 0.7142857142857142,
+          "avg_fees": 0.15046339576332715,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": -0.010810092797909397,
+          "std_return": 5.519207725118817e-05,
+          "min_return": -0.010934899320877206,
+          "max_return": -0.010637050220505746,
+          "median_return": -0.01081326970398654,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.05346452220009784,
+          "profitable_pct": 0.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": -0.010810092797909397,
+          "std_return": 5.519207725118817e-05,
+          "min_return": -0.010934899320877206,
+          "max_return": -0.010637050220505746,
+          "median_return": -0.01081326970398654,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.05346452220009784,
+          "profitable_pct": 0.0
+        }
+      },
+      "300_tests": {
+        "BASE": {
+          "avg_return": 0.0003317959480161417,
+          "std_return": 5.9998914113677985e-05,
+          "min_return": 0.0001700933923344413,
+          "max_return": 0.0004992565326860662,
+          "median_return": 0.0003362680873993895,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.053464534697779294,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": -0.009361239399819414,
+          "std_return": 3.6034302115338925e-05,
+          "min_return": -0.009471471154250443,
+          "max_return": -0.009249139141287515,
+          "median_return": -0.00936129250595305,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.03572987938843835,
+          "profitable_pct": 0.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": -0.014426420398203825,
+          "std_return": 7.237181232903279e-05,
+          "min_return": -0.014603817846588072,
+          "max_return": -0.01419375797185997,
+          "median_return": -0.01442861880620389,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.07104867107960526,
+          "profitable_pct": 0.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.0003317959480161417,
+          "std_return": 5.9998914113677985e-05,
+          "min_return": 0.0001700933923344413,
+          "max_return": 0.0004992565326860662,
+          "median_return": 0.0003362680873993895,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.053464534697779294,
+          "profitable_pct": 100.0
+        },
+        "TIGHT_SL": {
+          "avg_return": -0.019886655644024965,
+          "std_return": 5.3032311631409944e-05,
+          "min_return": -0.02003547218183106,
+          "max_return": -0.01971783794245994,
+          "median_return": -0.01988849398320364,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.05339283531937396,
+          "profitable_pct": 0.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.04889980840741177,
+          "std_return": 0.0002887280770220251,
+          "min_return": 0.04821977602387904,
+          "max_return": 0.0496719096432588,
+          "median_return": 0.048896206136255393,
+          "avg_trades": 7.0,
+          "avg_win_rate": 0.7142857142857143,
+          "avg_fees": 0.1504620719864365,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": -0.010811800008453765,
+          "std_return": 5.4443626802102416e-05,
+          "min_return": -0.010945243401494623,
+          "max_return": -0.010637050220505746,
+          "median_return": -0.01081326970398654,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.053464534697779294,
+          "profitable_pct": 0.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": -0.010811800008453765,
+          "std_return": 5.4443626802102416e-05,
+          "min_return": -0.010945243401494623,
+          "max_return": -0.010637050220505746,
+          "median_return": -0.01081326970398654,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.053464534697779294,
+          "profitable_pct": 0.0
+        }
+      }
+    },
+    "SIDEWAYS": {
+      "100_tests": {
+        "BASE": {
+          "avg_return": 0.05334688991445943,
+          "std_return": 0.00891957001408068,
+          "min_return": 0.030449899375787293,
+          "max_return": 0.0579044336633109,
+          "median_return": 0.05687073788208788,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.1923310390781846,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": 0.007169377089751634,
+          "std_return": 0.002184464866335018,
+          "min_return": 0.006280840368713143,
+          "max_return": 0.02878439809575866,
+          "median_return": 0.006963256387771916,
+          "avg_trades": 7.99,
+          "avg_win_rate": 0.6258928571428571,
+          "avg_fees": 0.12841490788903392,
+          "profitable_pct": 100.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": 0.050877795594001636,
+          "std_return": 0.0003363181296040607,
+          "min_return": 0.05017093626080509,
+          "max_return": 0.051611739116429856,
+          "median_return": 0.050875310877285265,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.8333333333333331,
+          "avg_fees": 0.14543997069498793,
+          "profitable_pct": 100.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.07262662661017774,
+          "std_return": 0.003312781883035382,
+          "min_return": 0.03974813655940617,
+          "max_return": 0.073531714515802,
+          "median_return": 0.07295700080528178,
+          "avg_trades": 5.01,
+          "avg_win_rate": 0.7986666666666664,
+          "avg_fees": 0.09557164550447265,
+          "profitable_pct": 100.0
+        },
+        "TIGHT_SL": {
+          "avg_return": -0.02198899062076988,
+          "std_return": 0.00032436169863141173,
+          "min_return": -0.022762121729482675,
+          "max_return": -0.021151962593114793,
+          "median_return": -0.0219735731690551,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.625,
+          "avg_fees": 0.19161298625258655,
+          "profitable_pct": 0.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.0601236820411218,
+          "std_return": 0.005055703764937817,
+          "min_return": 0.013320955447883117,
+          "max_return": 0.062185529537159896,
+          "median_return": 0.061001087479365126,
+          "avg_trades": 10.03,
+          "avg_win_rate": 0.7976428571428569,
+          "avg_fees": 0.2472052552808561,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": 0.03152985424352748,
+          "std_return": 0.0051273097741118346,
+          "min_return": 0.018395342878196934,
+          "max_return": 0.03413182856421732,
+          "median_return": 0.033562475904026126,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.14987793760405282,
+          "profitable_pct": 100.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": 0.04457582150517287,
+          "std_return": 0.008844989269415446,
+          "min_return": 0.021902503235536795,
+          "max_return": 0.04904200431242146,
+          "median_return": 0.048080266243894415,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.19144375018199983,
+          "profitable_pct": 100.0
+        }
+      },
+      "200_tests": {
+        "BASE": {
+          "avg_return": 0.05435407766694047,
+          "std_return": 0.007741878319661642,
+          "min_return": 0.030449899375787293,
+          "max_return": 0.0579044336633109,
+          "median_return": 0.05687910591111697,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.19237806275318078,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": 0.007063823232092067,
+          "std_return": 0.001565089336107806,
+          "min_return": 0.006280840368713143,
+          "max_return": 0.02878439809575866,
+          "median_return": 0.006959666997448153,
+          "avg_trades": 7.995,
+          "avg_win_rate": 0.6254464285714286,
+          "avg_fees": 0.12855300409745157,
+          "profitable_pct": 100.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": 0.05093611870149228,
+          "std_return": 0.000904060179342113,
+          "min_return": 0.050161223594233965,
+          "max_return": 0.062845927319543,
+          "median_return": 0.050871464785494425,
+          "avg_trades": 6.015,
+          "avg_win_rate": 0.8330357142857143,
+          "avg_fees": 0.14608449615253324,
+          "profitable_pct": 100.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.0727847436992218,
+          "std_return": 0.0023560582777113937,
+          "min_return": 0.03974813655940617,
+          "max_return": 0.07364940240208967,
+          "median_return": 0.07296273543289222,
+          "avg_trades": 5.005,
+          "avg_win_rate": 0.7993333333333333,
+          "avg_fees": 0.09535667546259646,
+          "profitable_pct": 100.0
+        },
+        "TIGHT_SL": {
+          "avg_return": -0.022001606572244353,
+          "std_return": 0.00030528475214885856,
+          "min_return": -0.02284796840836748,
+          "max_return": -0.021151962593114793,
+          "median_return": -0.022008736009373045,
+          "avg_trades": 8.005,
+          "avg_win_rate": 0.6252083333333334,
+          "avg_fees": 0.19167830417301507,
+          "profitable_pct": 0.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.06020980282446568,
+          "std_return": 0.004961413747311937,
+          "min_return": 0.013320955447883117,
+          "max_return": 0.062185529537159896,
+          "median_return": 0.06100135342048854,
+          "avg_trades": 10.02,
+          "avg_win_rate": 0.7978928571428571,
+          "avg_fees": 0.24706546863647483,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": 0.03210610828390686,
+          "std_return": 0.0044519613582507875,
+          "min_return": 0.018328323722621463,
+          "max_return": 0.03413182856421732,
+          "median_return": 0.033568333218343294,
+          "avg_trades": 8.005,
+          "avg_win_rate": 0.7501388888888889,
+          "avg_fees": 0.1499633831234375,
+          "profitable_pct": 100.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": 0.045573431744300966,
+          "std_return": 0.007677559612059554,
+          "min_return": 0.021902503235536795,
+          "max_return": 0.04904200431242146,
+          "median_return": 0.04809238503365662,
+          "avg_trades": 8.005,
+          "avg_win_rate": 0.7501388888888889,
+          "avg_fees": 0.1915573844777409,
+          "profitable_pct": 100.0
+        }
+      },
+      "300_tests": {
+        "BASE": {
+          "avg_return": 0.05434939861054179,
+          "std_return": 0.007733202074560043,
+          "min_return": 0.030449899375787293,
+          "max_return": 0.0579044336633109,
+          "median_return": 0.05687816471383675,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.19237658609330624,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": 0.0070170676778169025,
+          "std_return": 0.0012903391370128559,
+          "min_return": 0.006280840368713143,
+          "max_return": 0.02878439809575866,
+          "median_return": 0.0069480377291859935,
+          "avg_trades": 7.996666666666667,
+          "avg_win_rate": 0.625297619047619,
+          "avg_fees": 0.1285985496629904,
+          "profitable_pct": 100.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": 0.050942875892687825,
+          "std_return": 0.0010329602190616194,
+          "min_return": 0.05004406506975253,
+          "max_return": 0.06295163028344423,
+          "median_return": 0.05087181388955543,
+          "avg_trades": 6.02,
+          "avg_win_rate": 0.8329365079365079,
+          "avg_fees": 0.1462986734169541,
+          "profitable_pct": 100.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.07282138987756312,
+          "std_return": 0.0019315831017109996,
+          "min_return": 0.03974813655940617,
+          "max_return": 0.07364940240208967,
+          "median_return": 0.07293755824099596,
+          "avg_trades": 5.003333333333333,
+          "avg_win_rate": 0.7995555555555555,
+          "avg_fees": 0.0952847267812471,
+          "profitable_pct": 100.0
+        },
+        "TIGHT_SL": {
+          "avg_return": -0.02202092147221375,
+          "std_return": 0.000315394778302837,
+          "min_return": -0.023200822774282794,
+          "max_return": -0.02113788857520717,
+          "median_return": -0.022017924313722688,
+          "avg_trades": 8.006666666666666,
+          "avg_win_rate": 0.6252777777777778,
+          "avg_fees": 0.19169930486599654,
+          "profitable_pct": 0.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.06024215437314718,
+          "std_return": 0.004953307440805761,
+          "min_return": 0.013320955447883117,
+          "max_return": 0.062185529537159896,
+          "median_return": 0.06099292133753095,
+          "avg_trades": 10.016666666666667,
+          "avg_win_rate": 0.7979761904761904,
+          "avg_fees": 0.2470173091809052,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": 0.03210420703220634,
+          "std_return": 0.004447103771396279,
+          "min_return": 0.018328323722621463,
+          "max_return": 0.03413182856421732,
+          "median_return": 0.033563754392595985,
+          "avg_trades": 8.006666666666666,
+          "avg_win_rate": 0.7501851851851852,
+          "avg_fees": 0.14998521924464375,
+          "profitable_pct": 100.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": 0.04556961859297181,
+          "std_return": 0.007668403660975342,
+          "min_return": 0.021902503235536795,
+          "max_return": 0.04904200431242146,
+          "median_return": 0.04809238503365662,
+          "avg_trades": 8.006666666666666,
+          "avg_win_rate": 0.7501851851851852,
+          "avg_fees": 0.19157855743756652,
+          "profitable_pct": 100.0
+        }
+      }
+    },
+    "CRASH": {
+      "100_tests": {
+        "BASE": {
+          "avg_return": 0.028029115579404743,
+          "std_return": 0.0004009097924799406,
+          "min_return": 0.027180344364177624,
+          "max_return": 0.029245915165243826,
+          "median_return": 0.027965094010001697,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.19093902590160206,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": 0.008734246377791254,
+          "std_return": 0.00023345442613489944,
+          "min_return": 0.008075594571711425,
+          "max_return": 0.009348289110511322,
+          "median_return": 0.008753377881828707,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.625,
+          "avg_fees": 0.12837974555827503,
+          "profitable_pct": 100.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": 0.023498263441567867,
+          "std_return": 0.0016883832631734682,
+          "min_return": 0.021942334123469322,
+          "max_return": 0.02964561771260075,
+          "median_return": 0.023055367763251032,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.25375167836935686,
+          "profitable_pct": 100.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.021762366953043667,
+          "std_return": 0.003147713860713487,
+          "min_return": 0.019478729382793176,
+          "max_return": 0.027586421038550763,
+          "median_return": 0.01995042537479852,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.6,
+          "avg_fees": 0.12011610912836783,
+          "profitable_pct": 100.0
+        },
+        "TIGHT_SL": {
+          "avg_return": -0.016983753477763878,
+          "std_return": 0.0012267831545237663,
+          "min_return": -0.01808796143695967,
+          "max_return": -0.012570170529679861,
+          "median_return": -0.01728535489002752,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.625,
+          "avg_fees": 0.19125852150712067,
+          "profitable_pct": 0.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.027259006276146063,
+          "std_return": 0.0005153673232346213,
+          "min_return": 0.025891631937425358,
+          "max_return": 0.028651203890856514,
+          "median_return": 0.027325802535885468,
+          "avg_trades": 11.92,
+          "avg_win_rate": 0.8321212121212119,
+          "avg_fees": 0.2451373089979192,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": 0.014405844508900777,
+          "std_return": 0.0011981768033621548,
+          "min_return": 0.01355361725466139,
+          "max_return": 0.018715065005486812,
+          "median_return": 0.014107498725038851,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.14915480631835806,
+          "profitable_pct": 100.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": 0.018352524284972808,
+          "std_return": 0.0012629192815048864,
+          "min_return": 0.017187034007799865,
+          "max_return": 0.022949823768537953,
+          "median_return": 0.01801888116195073,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.19000215507977028,
+          "profitable_pct": 100.0
+        }
+      },
+      "200_tests": {
+        "BASE": {
+          "avg_return": 0.02800385423243192,
+          "std_return": 0.00037014529924848423,
+          "min_return": 0.0271526732415568,
+          "max_return": 0.029245915165243826,
+          "median_return": 0.027967851353233375,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.1909383275486729,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": 0.00872729329981951,
+          "std_return": 0.0002339070035516644,
+          "min_return": 0.008075594571711425,
+          "max_return": 0.009348289110511322,
+          "median_return": 0.008736151578178902,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.625,
+          "avg_fees": 0.12837913185359168,
+          "profitable_pct": 100.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": 0.023297946912391065,
+          "std_return": 0.001346180882060752,
+          "min_return": 0.021942334123469322,
+          "max_return": 0.02964561771260075,
+          "median_return": 0.02301594894754269,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.2537342657519554,
+          "profitable_pct": 100.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.022298279754646454,
+          "std_return": 0.0033831342536204774,
+          "min_return": 0.019336292109165355,
+          "max_return": 0.027586421038550763,
+          "median_return": 0.02001917909127788,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.5999999999999999,
+          "avg_fees": 0.12014059333549927,
+          "profitable_pct": 100.0
+        },
+        "TIGHT_SL": {
+          "avg_return": -0.017119185134627957,
+          "std_return": 0.000987814550086577,
+          "min_return": -0.018172647243513137,
+          "max_return": -0.012570170529679861,
+          "median_return": -0.017315172261757918,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.625,
+          "avg_fees": 0.19124729519049288,
+          "profitable_pct": 0.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.02723185587136184,
+          "std_return": 0.00048947635375425,
+          "min_return": 0.025891631937425358,
+          "max_return": 0.028651203890856514,
+          "median_return": 0.027315075600679584,
+          "avg_trades": 11.95,
+          "avg_win_rate": 0.8325757575757575,
+          "avg_fees": 0.2455513795260221,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": 0.014264832042114753,
+          "std_return": 0.0009557941633594349,
+          "min_return": 0.01355361725466139,
+          "max_return": 0.018715065005486812,
+          "median_return": 0.014062591881437735,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.14914868765990444,
+          "profitable_pct": 100.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": 0.018202665811753106,
+          "std_return": 0.0010071170252048676,
+          "min_return": 0.017187034007799865,
+          "max_return": 0.022949823768537953,
+          "median_return": 0.01799224696531676,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.18999233910649163,
+          "profitable_pct": 100.0
+        }
+      },
+      "300_tests": {
+        "BASE": {
+          "avg_return": 0.02799330544841267,
+          "std_return": 0.00037338284770267976,
+          "min_return": 0.027051809135650917,
+          "max_return": 0.029245915165243826,
+          "median_return": 0.02797199143028384,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.19093602852129948,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": 0.00871385227303596,
+          "std_return": 0.0002396115153705789,
+          "min_return": 0.007991479009302414,
+          "max_return": 0.009380728280024377,
+          "median_return": 0.008733887613160789,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.625,
+          "avg_fees": 0.12837848726705772,
+          "profitable_pct": 100.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": 0.023289294951420524,
+          "std_return": 0.0013393420639591785,
+          "min_return": 0.02176049472591463,
+          "max_return": 0.02964561771260075,
+          "median_return": 0.02301594894754269,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.25373112817191484,
+          "profitable_pct": 100.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.022507855582599146,
+          "std_return": 0.0034584281912419875,
+          "min_return": 0.01931053000672667,
+          "max_return": 0.02773197253330333,
+          "median_return": 0.02005880353396255,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.6,
+          "avg_fees": 0.12014937664510848,
+          "profitable_pct": 100.0
+        },
+        "TIGHT_SL": {
+          "avg_return": -0.01713894922968953,
+          "std_return": 0.0009869067786129973,
+          "min_return": -0.018526316460576217,
+          "max_return": -0.012570170529679861,
+          "median_return": -0.01733386206299514,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.625,
+          "avg_fees": 0.19124586317171763,
+          "profitable_pct": 0.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.027229235104528845,
+          "std_return": 0.0004921298203765256,
+          "min_return": 0.025891631937425358,
+          "max_return": 0.028651203890856514,
+          "median_return": 0.027308043159146582,
+          "avg_trades": 11.95,
+          "avg_win_rate": 0.8325757575757574,
+          "avg_fees": 0.24554917568114015,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": 0.014261443873302273,
+          "std_return": 0.0009507070861248498,
+          "min_return": 0.013411089239232676,
+          "max_return": 0.018715065005486812,
+          "median_return": 0.01406252950263962,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.1491478775567434,
+          "profitable_pct": 100.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": 0.01819646031825897,
+          "std_return": 0.0010018402843058665,
+          "min_return": 0.01706389544334854,
+          "max_return": 0.022949823768537953,
+          "median_return": 0.01799224696531676,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.18999057181619114,
+          "profitable_pct": 100.0
+        }
+      }
+    },
+    "RECOVERY": {
+      "100_tests": {
+        "BASE": {
+          "avg_return": -0.018126776607764503,
+          "std_return": 5.010296921649564e-05,
+          "min_return": -0.018248670590461227,
+          "max_return": -0.017986822997134104,
+          "median_return": -0.018125644773546695,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.05323442623965474,
+          "profitable_pct": 0.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": -0.012058278246035246,
+          "std_return": 3.3465586455868404e-05,
+          "min_return": -0.012139616704605487,
+          "max_return": -0.01196479341243465,
+          "median_return": -0.012057325181150323,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.03565931232911893,
+          "profitable_pct": 0.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": -0.0336911920133378,
+          "std_return": 7.181806247317717e-05,
+          "min_return": -0.03388303228368405,
+          "max_return": -0.033502808282394575,
+          "median_return": -0.03369280591851729,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.07064071064674116,
+          "profitable_pct": 0.0
+        },
+        "HIGH_TP": {
+          "avg_return": -0.018126776607764503,
+          "std_return": 5.010296921649564e-05,
+          "min_return": -0.018248670590461227,
+          "max_return": -0.017986822997134104,
+          "median_return": -0.018125644773546695,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.05323442623965474,
+          "profitable_pct": 0.0
+        },
+        "TIGHT_SL": {
+          "avg_return": -0.025300987372192357,
+          "std_return": 5.4076318678072885e-05,
+          "min_return": -0.025445504920103872,
+          "max_return": -0.02515955175118696,
+          "median_return": -0.025302385440594908,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.05323442623965474,
+          "profitable_pct": 0.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.05339380246138163,
+          "std_return": 0.0033330030635411825,
+          "min_return": 0.048845061334483075,
+          "max_return": 0.05674757762025706,
+          "median_return": 0.05590722368189242,
+          "avg_trades": 7.0,
+          "avg_win_rate": 0.5714285714285712,
+          "avg_fees": 0.15047893464246873,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": -0.025300987372192357,
+          "std_return": 5.4076318678072885e-05,
+          "min_return": -0.025445504920103872,
+          "max_return": -0.02515955175118696,
+          "median_return": -0.025302385440594908,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.05323442623965474,
+          "profitable_pct": 0.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": -0.025300987372192357,
+          "std_return": 5.4076318678072885e-05,
+          "min_return": -0.025445504920103872,
+          "max_return": -0.02515955175118696,
+          "median_return": -0.025302385440594908,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.05323442623965474,
+          "profitable_pct": 0.0
+        }
+      },
+      "200_tests": {
+        "BASE": {
+          "avg_return": -0.01812581970230618,
+          "std_return": 5.3429944109639316e-05,
+          "min_return": -0.018291084895084662,
+          "max_return": -0.017960704355232338,
+          "median_return": -0.018125644773546695,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.053234536409353536,
+          "profitable_pct": 0.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": -0.012057661907937632,
+          "std_return": 3.567803037880016e-05,
+          "min_return": -0.012167997395316281,
+          "max_return": -0.011947275722810862,
+          "median_return": -0.012057419598144747,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.03565936143011676,
+          "profitable_pct": 0.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": -0.03368634953305197,
+          "std_return": 7.19558061424361e-05,
+          "min_return": -0.03388303228368405,
+          "max_return": -0.0334975469268259,
+          "median_return": -0.03368865907250608,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.07064090595723443,
+          "profitable_pct": 0.0
+        },
+        "HIGH_TP": {
+          "avg_return": -0.01812581970230618,
+          "std_return": 5.3429944109639316e-05,
+          "min_return": -0.018291084895084662,
+          "max_return": -0.017960704355232338,
+          "median_return": -0.018125644773546695,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.053234536409353536,
+          "profitable_pct": 0.0
+        },
+        "TIGHT_SL": {
+          "avg_return": -0.025297349184157866,
+          "std_return": 5.4169028260009326e-05,
+          "min_return": -0.025445504920103872,
+          "max_return": -0.025155172942952126,
+          "median_return": -0.025299155927395893,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.053234536409353536,
+          "profitable_pct": 0.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.053697562337967505,
+          "std_return": 0.0032669554062028233,
+          "min_return": 0.048845061334483075,
+          "max_return": 0.05674757762025706,
+          "median_return": 0.05594626241417036,
+          "avg_trades": 7.0,
+          "avg_win_rate": 0.5714285714285713,
+          "avg_fees": 0.15051081869004415,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": -0.025297349184157866,
+          "std_return": 5.4169028260009326e-05,
+          "min_return": -0.025445504920103872,
+          "max_return": -0.025155172942952126,
+          "median_return": -0.025299155927395893,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.053234536409353536,
+          "profitable_pct": 0.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": -0.025297349184157866,
+          "std_return": 5.4169028260009326e-05,
+          "min_return": -0.025445504920103872,
+          "max_return": -0.025155172942952126,
+          "median_return": -0.025299155927395893,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.053234536409353536,
+          "profitable_pct": 0.0
+        }
+      },
+      "300_tests": {
+        "BASE": {
+          "avg_return": -0.018127184564971206,
+          "std_return": 5.358436505227937e-05,
+          "min_return": -0.018291084895084662,
+          "max_return": -0.017960704355232338,
+          "median_return": -0.018127190698957824,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.053234544820902605,
+          "profitable_pct": 0.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": -0.012058578298937956,
+          "std_return": 3.577337090442968e-05,
+          "min_return": -0.012167997395316281,
+          "max_return": -0.011947275722810862,
+          "median_return": -0.012058593997671115,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.03565936516057659,
+          "profitable_pct": 0.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": -0.0336873056626552,
+          "std_return": 6.979332460467991e-05,
+          "min_return": -0.03388303228368405,
+          "max_return": -0.03346530580301703,
+          "median_return": -0.03368944104590782,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.0706409209431251,
+          "profitable_pct": 0.0
+        },
+        "HIGH_TP": {
+          "avg_return": -0.018127184564971206,
+          "std_return": 5.358436505227937e-05,
+          "min_return": -0.018291084895084662,
+          "max_return": -0.017960704355232338,
+          "median_return": -0.018127190698957824,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.053234544820902605,
+          "profitable_pct": 0.0
+        },
+        "TIGHT_SL": {
+          "avg_return": -0.02529807042969755,
+          "std_return": 5.2536411136449985e-05,
+          "min_return": -0.025445504920103872,
+          "max_return": -0.02513100011323502,
+          "median_return": -0.025299833832625514,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.053234544820902605,
+          "profitable_pct": 0.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.05374465811635051,
+          "std_return": 0.0038363776756906386,
+          "min_return": 0.017562175586581172,
+          "max_return": 0.05674757762025706,
+          "median_return": 0.055963729513352406,
+          "avg_trades": 6.996666666666667,
+          "avg_win_rate": 0.5711904761904759,
+          "avg_fees": 0.1503860574237542,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": -0.02529807042969755,
+          "std_return": 5.2536411136449985e-05,
+          "min_return": -0.025445504920103872,
+          "max_return": -0.02513100011323502,
+          "median_return": -0.025299833832625514,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.053234544820902605,
+          "profitable_pct": 0.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": -0.02529807042969755,
+          "std_return": 5.2536411136449985e-05,
+          "min_return": -0.025445504920103872,
+          "max_return": -0.02513100011323502,
+          "median_return": -0.025299833832625514,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.053234544820902605,
+          "profitable_pct": 0.0
+        }
+      }
+    },
+    "MIXED": {
+      "100_tests": {
+        "BASE": {
+          "avg_return": 0.007482708393842675,
+          "std_return": 0.00028899398541735435,
+          "min_return": 0.006893323589031866,
+          "max_return": 0.008102795776898498,
+          "median_return": 0.007519590053581927,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.6,
+          "avg_fees": 0.12045099074511231,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": 0.015559885243021149,
+          "std_return": 0.008286300694708433,
+          "min_return": 0.008135630381433808,
+          "max_return": 0.0256082860368709,
+          "median_return": 0.0086702344343009,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.6,
+          "avg_fees": 0.08059154620348535,
+          "profitable_pct": 100.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": 0.009334008674774644,
+          "std_return": 0.0003862579694887717,
+          "min_return": 0.00854392418537183,
+          "max_return": 0.010168754272552103,
+          "median_return": 0.009389941305904112,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666669,
+          "avg_fees": 0.17800234215478952,
+          "profitable_pct": 100.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.04674508532389215,
+          "std_return": 0.012398090778795124,
+          "min_return": 0.04115845439157056,
+          "max_return": 0.07786969515995831,
+          "median_return": 0.04176807715738391,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.6279999999999999,
+          "avg_fees": 0.1168634445727928,
+          "profitable_pct": 100.0
+        },
+        "TIGHT_SL": {
+          "avg_return": 0.006424304143511001,
+          "std_return": 0.00133062741389131,
+          "min_return": 0.004227798809567768,
+          "max_return": 0.008021533190742124,
+          "median_return": 0.007208653048941282,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666669,
+          "avg_fees": 0.13403977127291924,
+          "profitable_pct": 100.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.013439472106474752,
+          "std_return": 0.00036206756235787526,
+          "min_return": 0.012509766385240748,
+          "max_return": 0.014248895101036775,
+          "median_return": 0.013412959719268164,
+          "avg_trades": 9.0,
+          "avg_win_rate": 0.7777777777777776,
+          "avg_fees": 0.20340879676581372,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": 0.006970071918163961,
+          "std_return": 0.00019619692802485972,
+          "min_return": 0.006576904071036628,
+          "max_return": 0.007418473461215361,
+          "median_return": 0.006990014261629559,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666669,
+          "avg_fees": 0.10751197572487754,
+          "profitable_pct": 100.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": 0.007402620643350861,
+          "std_return": 0.00028871346370688356,
+          "min_return": 0.006813737764227502,
+          "max_return": 0.008021533190742124,
+          "median_return": 0.00743928388143028,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666669,
+          "avg_fees": 0.13388120381326682,
+          "profitable_pct": 100.0
+        }
+      },
+      "200_tests": {
+        "BASE": {
+          "avg_return": 0.007467353739552949,
+          "std_return": 0.0002722843461793418,
+          "min_return": 0.006640948528219989,
+          "max_return": 0.008102795776898498,
+          "median_return": 0.007483618045014756,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.5999999999999999,
+          "avg_fees": 0.12045019640836907,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": 0.015465606975720938,
+          "std_return": 0.008291693973856857,
+          "min_return": 0.008135630381433808,
+          "max_return": 0.0256082860368709,
+          "median_return": 0.008662178967706591,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.5999999999999999,
+          "avg_fees": 0.08059037484585926,
+          "profitable_pct": 100.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": 0.009313331122855973,
+          "std_return": 0.00036406860590312433,
+          "min_return": 0.008213672918744615,
+          "max_return": 0.010168754272552103,
+          "median_return": 0.009337783946924486,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666665,
+          "avg_fees": 0.17800095604367372,
+          "profitable_pct": 100.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.04566657049486997,
+          "std_return": 0.011188386650513256,
+          "min_return": 0.04115845439157056,
+          "max_return": 0.07792798815504208,
+          "median_return": 0.041761390987539546,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.6219999999999999,
+          "avg_fees": 0.11759847590271427,
+          "profitable_pct": 100.0
+        },
+        "TIGHT_SL": {
+          "avg_return": 0.006450535783312485,
+          "std_return": 0.001299379526066021,
+          "min_return": 0.004227798809567768,
+          "max_return": 0.008304320723558287,
+          "median_return": 0.007228243677975001,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666665,
+          "avg_fees": 0.1340369859982788,
+          "profitable_pct": 100.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.013409708508083974,
+          "std_return": 0.00036881369535903783,
+          "min_return": 0.012509766385240748,
+          "max_return": 0.014248895101036775,
+          "median_return": 0.01338316992996615,
+          "avg_trades": 9.0,
+          "avg_win_rate": 0.7777777777777779,
+          "avg_fees": 0.2034074300868489,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": 0.006959526284703299,
+          "std_return": 0.0001864739929603105,
+          "min_return": 0.006365756687063708,
+          "max_return": 0.007418473461215361,
+          "median_return": 0.006969840326713286,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666665,
+          "avg_fees": 0.10751161796720062,
+          "profitable_pct": 100.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": 0.007387298789432356,
+          "std_return": 0.0002720238521096561,
+          "min_return": 0.00656191482937686,
+          "max_return": 0.008021533190742124,
+          "median_return": 0.00740303173695556,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666665,
+          "avg_fees": 0.13388042206187484,
+          "profitable_pct": 100.0
+        }
+      },
+      "300_tests": {
+        "BASE": {
+          "avg_return": 0.007463198425624199,
+          "std_return": 0.00027852499482740003,
+          "min_return": 0.006640948528219989,
+          "max_return": 0.008198057191698542,
+          "median_return": 0.007481845707672411,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.6,
+          "avg_fees": 0.12044974544239807,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": 0.014978788108828352,
+          "std_return": 0.008195171990851338,
+          "min_return": 0.008060690717184875,
+          "max_return": 0.025679816848135792,
+          "median_return": 0.008640169720318624,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.6,
+          "avg_fees": 0.08058561282164459,
+          "profitable_pct": 100.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": 0.009307595608048207,
+          "std_return": 0.0003726047634971986,
+          "min_return": 0.008213672918744615,
+          "max_return": 0.01029171833483133,
+          "median_return": 0.009334047556274356,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666666,
+          "avg_fees": 0.17800016082778009,
+          "profitable_pct": 100.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.04458667141923836,
+          "std_return": 0.009703377502129136,
+          "min_return": 0.04105622623148141,
+          "max_return": 0.07792798815504208,
+          "median_return": 0.041750434841107256,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.616,
+          "avg_fees": 0.11833301909719623,
+          "profitable_pct": 100.0
+        },
+        "TIGHT_SL": {
+          "avg_return": 0.006505228276741262,
+          "std_return": 0.0012852287451559068,
+          "min_return": 0.004227798809567768,
+          "max_return": 0.008304320723558287,
+          "median_return": 0.007239776281551637,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666666,
+          "avg_fees": 0.13402625931922407,
+          "profitable_pct": 100.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.01341629565607564,
+          "std_return": 0.0003764078250987181,
+          "min_return": 0.012382199583512754,
+          "max_return": 0.014465498277925046,
+          "median_return": 0.013402310636064386,
+          "avg_trades": 9.0,
+          "avg_win_rate": 0.7777777777777777,
+          "avg_fees": 0.20340711120110797,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": 0.006956447673657019,
+          "std_return": 0.0001900552883728816,
+          "min_return": 0.006365756687063708,
+          "max_return": 0.00744430138350064,
+          "median_return": 0.006969840326713286,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666666,
+          "avg_fees": 0.10751141030756517,
+          "profitable_pct": 100.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": 0.0073831525907467,
+          "std_return": 0.0002782704061233981,
+          "min_return": 0.00656191482937686,
+          "max_return": 0.008118187889874472,
+          "median_return": 0.007401627487744046,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666666,
+          "avg_fees": 0.13387997401533594,
+          "profitable_pct": 100.0
+        }
+      }
+    }
+  },
+  "180d": {
+    "BULL": {
+      "100_tests": {
+        "BASE": {
+          "avg_return": 0.013045484761510216,
+          "std_return": 0.012282470962306932,
+          "min_return": 0.008858652757849276,
+          "max_return": 0.05516604357159622,
+          "median_return": 0.009486438293953275,
+          "avg_trades": 5.08,
+          "avg_win_rate": 0.6186666666666666,
+          "avg_fees": 0.11955490773720072,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": 0.010543417349947133,
+          "std_return": 0.0036841859877600872,
+          "min_return": 0.009343314181102376,
+          "max_return": 0.026714215060525626,
+          "median_return": 0.009734199041645297,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.6,
+          "avg_fees": 0.08054227332159555,
+          "profitable_pct": 100.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": 0.015853492436359064,
+          "std_return": 0.013319875232689418,
+          "min_return": 0.011183396889474768,
+          "max_return": 0.06422034586111049,
+          "median_return": 0.012030999023691417,
+          "avg_trades": 6.05,
+          "avg_win_rate": 0.6811904761904765,
+          "avg_fees": 0.17632566271924777,
+          "profitable_pct": 100.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.04134685642756483,
+          "std_return": 0.026636633519004,
+          "min_return": -0.047643377651995326,
+          "max_return": 0.07946393833175742,
+          "median_return": 0.0438468520713054,
+          "avg_trades": 5.14,
+          "avg_win_rate": 0.6199999999999999,
+          "avg_fees": 0.11957229108607043,
+          "profitable_pct": 93.0
+        },
+        "TIGHT_SL": {
+          "avg_return": 0.009174246713573602,
+          "std_return": 0.0009658009055612905,
+          "min_return": 0.0046392838881477395,
+          "max_return": 0.00998781959498198,
+          "median_return": 0.009405338366582423,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666669,
+          "avg_fees": 0.13391783788860023,
+          "profitable_pct": 100.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.01762649862229129,
+          "std_return": 0.000362627944186925,
+          "min_return": 0.016695270908537813,
+          "max_return": 0.018437809909242445,
+          "median_return": 0.0175999603616259,
+          "avg_trades": 9.0,
+          "avg_win_rate": 0.7777777777777776,
+          "avg_fees": 0.2036529519917779,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": 0.006246387322328134,
+          "std_return": 0.0057280784504005165,
+          "min_return": -0.013507314974741575,
+          "max_return": 0.008341736413454252,
+          "median_return": 0.007944692312270074,
+          "avg_trades": 6.24,
+          "avg_win_rate": 0.6666666666666669,
+          "avg_fees": 0.11200850637049768,
+          "profitable_pct": 92.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": 0.005988286501061764,
+          "std_return": 0.011387960951794722,
+          "min_return": -0.03303906880893597,
+          "max_return": 0.009965938123804866,
+          "median_return": 0.009352292887918261,
+          "avg_trades": 6.24,
+          "avg_win_rate": 0.6666666666666669,
+          "avg_fees": 0.1396381555312169,
+          "profitable_pct": 92.0
+        }
+      },
+      "200_tests": {
+        "BASE": {
+          "avg_return": 0.012580454966005034,
+          "std_return": 0.011559885659326459,
+          "min_return": 0.008605791834441826,
+          "max_return": 0.05516604357159622,
+          "median_return": 0.009450885014295049,
+          "avg_trades": 5.07,
+          "avg_win_rate": 0.6163333333333332,
+          "avg_fees": 0.11966883478837065,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": 0.010449450648552919,
+          "std_return": 0.0035057394861473705,
+          "min_return": 0.009153593169446405,
+          "max_return": 0.026714215060525626,
+          "median_return": 0.009707697480707034,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.5999999999999999,
+          "avg_fees": 0.08054126229286215,
+          "profitable_pct": 100.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": 0.015315973197389705,
+          "std_return": 0.0124251279729385,
+          "min_return": 0.010852240756945358,
+          "max_return": 0.06422034586111049,
+          "median_return": 0.011979086245299678,
+          "avg_trades": 6.04,
+          "avg_win_rate": 0.6792857142857143,
+          "avg_fees": 0.17646717495668418,
+          "profitable_pct": 100.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.042417991517783325,
+          "std_return": 0.025236811539455166,
+          "min_return": -0.047643377651995326,
+          "max_return": 0.07949238466582093,
+          "median_return": 0.0438522428194464,
+          "avg_trades": 5.12,
+          "avg_win_rate": 0.6212857142857142,
+          "avg_fees": 0.11917112686847407,
+          "profitable_pct": 94.0
+        },
+        "TIGHT_SL": {
+          "avg_return": 0.009179151706833573,
+          "std_return": 0.0009110929506959822,
+          "min_return": 0.0046392838881477395,
+          "max_return": 0.00998781959498198,
+          "median_return": 0.009367761979610995,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666665,
+          "avg_fees": 0.13391541538072804,
+          "profitable_pct": 100.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.017596681795706393,
+          "std_return": 0.00036935930970182835,
+          "min_return": 0.016695270908537813,
+          "max_return": 0.018437809909242445,
+          "median_return": 0.017570276871090203,
+          "avg_trades": 9.0,
+          "avg_win_rate": 0.7777777777777779,
+          "avg_fees": 0.20365158608937464,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": 0.0064482006073164014,
+          "std_return": 0.005383254457335136,
+          "min_return": -0.013507314974741575,
+          "max_return": 0.008341736413454252,
+          "median_return": 0.00791034497003892,
+          "avg_trades": 6.21,
+          "avg_win_rate": 0.6666666666666665,
+          "avg_fees": 0.11144558327617443,
+          "profitable_pct": 93.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": 0.006394719911831802,
+          "std_return": 0.010704659907240082,
+          "min_return": -0.03303906880893597,
+          "max_return": 0.009965938123804866,
+          "median_return": 0.009324155062020906,
+          "avg_trades": 6.21,
+          "avg_win_rate": 0.6666666666666665,
+          "avg_fees": 0.1389203304254339,
+          "profitable_pct": 93.0
+        }
+      },
+      "300_tests": {
+        "BASE": {
+          "avg_return": 0.012871882401196133,
+          "std_return": 0.012042176804252416,
+          "min_return": 0.008605791834441826,
+          "max_return": 0.05516604357159622,
+          "median_return": 0.00944883940557342,
+          "avg_trades": 5.076666666666667,
+          "avg_win_rate": 0.6178888888888888,
+          "avg_fees": 0.11959186633228235,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": 0.010360240821452354,
+          "std_return": 0.00331334033219949,
+          "min_return": 0.009153593169446405,
+          "max_return": 0.026714215060525626,
+          "median_return": 0.009700831576621737,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.6,
+          "avg_fees": 0.08054034973327467,
+          "profitable_pct": 100.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": 0.015680384342380605,
+          "std_return": 0.013127947223878287,
+          "min_return": 0.010852240756945358,
+          "max_return": 0.06422034586111049,
+          "median_return": 0.011975210517547907,
+          "avg_trades": 6.05,
+          "avg_win_rate": 0.6806349206349207,
+          "avg_fees": 0.17643437812549925,
+          "profitable_pct": 100.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.04092367382209198,
+          "std_return": 0.02558494967739524,
+          "min_return": -0.047643377651995326,
+          "max_return": 0.0795690302239268,
+          "median_return": 0.04383397882154204,
+          "avg_trades": 5.133333333333334,
+          "avg_win_rate": 0.616095238095238,
+          "avg_fees": 0.11996928137704614,
+          "profitable_pct": 93.33333333333333
+        },
+        "TIGHT_SL": {
+          "avg_return": 0.009193080079120008,
+          "std_return": 0.0008770055477191368,
+          "min_return": 0.0046392838881477395,
+          "max_return": 0.010084480920897173,
+          "median_return": 0.009360728193596325,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666666,
+          "avg_fees": 0.13391339802145583,
+          "profitable_pct": 100.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.01760331595495755,
+          "std_return": 0.0003769129885696593,
+          "min_return": 0.01656873042814046,
+          "max_return": 0.018653013571047837,
+          "median_return": 0.017589492427633503,
+          "avg_trades": 9.0,
+          "avg_win_rate": 0.7777777777777777,
+          "avg_fees": 0.2036512669590081,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": 0.006299694964684786,
+          "std_return": 0.005625046541830649,
+          "min_return": -0.013555055992855121,
+          "max_return": 0.008341736413454252,
+          "median_return": 0.007905818611760936,
+          "avg_trades": 6.23,
+          "avg_win_rate": 0.6666666666666666,
+          "avg_fees": 0.11182029897698328,
+          "profitable_pct": 92.33333333333333
+        },
+        "HIGH_RESERVE": {
+          "avg_return": 0.006103528377137024,
+          "std_return": 0.011178169209186213,
+          "min_return": -0.03314595556102499,
+          "max_return": 0.009965938123804866,
+          "median_return": 0.009308317354485212,
+          "avg_trades": 6.23,
+          "avg_win_rate": 0.6666666666666666,
+          "avg_fees": 0.13939771246216892,
+          "profitable_pct": 92.33333333333333
+        }
+      }
+    },
+    "BEAR": {
+      "100_tests": {
+        "BASE": {
+          "avg_return": 0.0003370819886741477,
+          "std_return": 5.921678832639279e-05,
+          "min_return": 0.00018223854097035048,
+          "max_return": 0.00047357706429617487,
+          "median_return": 0.0003413564160715055,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.0534644367429894,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": -0.009360972776918093,
+          "std_return": 3.370072181182815e-05,
+          "min_return": -0.009443186470454066,
+          "max_return": -0.009266815644688791,
+          "median_return": -0.0093601663103802,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.035729826039139205,
+          "profitable_pct": 0.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": -0.014424189004692646,
+          "std_return": 7.489264601614044e-05,
+          "min_return": -0.014589848170278022,
+          "max_return": -0.014251932633601049,
+          "median_return": -0.01442340703083507,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.07104849710453243,
+          "profitable_pct": 0.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.0003370819886741477,
+          "std_return": 5.921678832639279e-05,
+          "min_return": 0.00018223854097035048,
+          "max_return": 0.00047357706429617487,
+          "median_return": 0.0003413564160715055,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.0534644367429894,
+          "profitable_pct": 100.0
+        },
+        "TIGHT_SL": {
+          "avg_return": -0.01988961096102719,
+          "std_return": 5.457924763965594e-05,
+          "min_return": -0.02003547218183106,
+          "max_return": -0.019746431365421698,
+          "median_return": -0.01989102441881177,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.053392715513800156,
+          "profitable_pct": 0.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.04891890196127135,
+          "std_return": 0.000308597217571574,
+          "min_return": 0.04821977602387904,
+          "max_return": 0.0496719096432588,
+          "median_return": 0.048927167763968854,
+          "avg_trades": 7.0,
+          "avg_win_rate": 0.714285714285714,
+          "avg_fees": 0.1504635972610943,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": -0.010810108157497939,
+          "std_return": 5.6348452417169405e-05,
+          "min_return": -0.010934899320877206,
+          "max_return": -0.01068072371432796,
+          "median_return": -0.010809528726864338,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.0534644367429894,
+          "profitable_pct": 0.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": -0.010810108157497939,
+          "std_return": 5.6348452417169405e-05,
+          "min_return": -0.010934899320877206,
+          "max_return": -0.01068072371432796,
+          "median_return": -0.010809528726864338,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.0534644367429894,
+          "profitable_pct": 0.0
+        }
+      },
+      "200_tests": {
+        "BASE": {
+          "avg_return": 0.00033641164584702967,
+          "std_return": 6.180900753229365e-05,
+          "min_return": 0.00018223854097035048,
+          "max_return": 0.0004992565326860662,
+          "median_return": 0.0003438779611527328,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.05346452220009784,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": -0.00936032466370054,
+          "std_return": 3.594386459490112e-05,
+          "min_return": -0.009471471154250443,
+          "max_return": -0.009249139141287515,
+          "median_return": -0.0093601663103802,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.03572987560514388,
+          "profitable_pct": 0.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": -0.014424155094678783,
+          "std_return": 7.338349343963315e-05,
+          "min_return": -0.014589848170278022,
+          "max_return": -0.01419375797185997,
+          "median_return": -0.01442861880620389,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.07104864883905035,
+          "profitable_pct": 0.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.00033641164584702967,
+          "std_return": 6.180900753229365e-05,
+          "min_return": 0.00018223854097035048,
+          "max_return": 0.0004992565326860662,
+          "median_return": 0.0003438779611527328,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.05346452220009784,
+          "profitable_pct": 100.0
+        },
+        "TIGHT_SL": {
+          "avg_return": -0.019885932187387417,
+          "std_return": 5.468782084636153e-05,
+          "min_return": -0.02003547218183106,
+          "max_return": -0.019742211857804365,
+          "median_return": -0.01988754158615772,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.05339282679233449,
+          "profitable_pct": 0.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.04891607623005163,
+          "std_return": 0.00028798690114026907,
+          "min_return": 0.04821977602387904,
+          "max_return": 0.0496719096432588,
+          "median_return": 0.04891094027698889,
+          "avg_trades": 7.0,
+          "avg_win_rate": 0.7142857142857142,
+          "avg_fees": 0.15046339576332715,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": -0.010810092797909397,
+          "std_return": 5.519207725118817e-05,
+          "min_return": -0.010934899320877206,
+          "max_return": -0.010637050220505746,
+          "median_return": -0.01081326970398654,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.05346452220009784,
+          "profitable_pct": 0.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": -0.010810092797909397,
+          "std_return": 5.519207725118817e-05,
+          "min_return": -0.010934899320877206,
+          "max_return": -0.010637050220505746,
+          "median_return": -0.01081326970398654,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.05346452220009784,
+          "profitable_pct": 0.0
+        }
+      },
+      "300_tests": {
+        "BASE": {
+          "avg_return": 0.0003317959480161417,
+          "std_return": 5.9998914113677985e-05,
+          "min_return": 0.0001700933923344413,
+          "max_return": 0.0004992565326860662,
+          "median_return": 0.0003362680873993895,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.053464534697779294,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": -0.009361239399819414,
+          "std_return": 3.6034302115338925e-05,
+          "min_return": -0.009471471154250443,
+          "max_return": -0.009249139141287515,
+          "median_return": -0.00936129250595305,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.03572987938843835,
+          "profitable_pct": 0.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": -0.014426420398203825,
+          "std_return": 7.237181232903279e-05,
+          "min_return": -0.014603817846588072,
+          "max_return": -0.01419375797185997,
+          "median_return": -0.01442861880620389,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.07104867107960526,
+          "profitable_pct": 0.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.0003317959480161417,
+          "std_return": 5.9998914113677985e-05,
+          "min_return": 0.0001700933923344413,
+          "max_return": 0.0004992565326860662,
+          "median_return": 0.0003362680873993895,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.053464534697779294,
+          "profitable_pct": 100.0
+        },
+        "TIGHT_SL": {
+          "avg_return": -0.019886655644024965,
+          "std_return": 5.3032311631409944e-05,
+          "min_return": -0.02003547218183106,
+          "max_return": -0.01971783794245994,
+          "median_return": -0.01988849398320364,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.05339283531937396,
+          "profitable_pct": 0.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.04889980840741177,
+          "std_return": 0.0002887280770220251,
+          "min_return": 0.04821977602387904,
+          "max_return": 0.0496719096432588,
+          "median_return": 0.048896206136255393,
+          "avg_trades": 7.0,
+          "avg_win_rate": 0.7142857142857143,
+          "avg_fees": 0.1504620719864365,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": -0.010811800008453765,
+          "std_return": 5.4443626802102416e-05,
+          "min_return": -0.010945243401494623,
+          "max_return": -0.010637050220505746,
+          "median_return": -0.01081326970398654,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.053464534697779294,
+          "profitable_pct": 0.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": -0.010811800008453765,
+          "std_return": 5.4443626802102416e-05,
+          "min_return": -0.010945243401494623,
+          "max_return": -0.010637050220505746,
+          "median_return": -0.01081326970398654,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.5,
+          "avg_fees": 0.053464534697779294,
+          "profitable_pct": 0.0
+        }
+      }
+    },
+    "SIDEWAYS": {
+      "100_tests": {
+        "BASE": {
+          "avg_return": 0.05334688991445943,
+          "std_return": 0.00891957001408068,
+          "min_return": 0.030449899375787293,
+          "max_return": 0.0579044336633109,
+          "median_return": 0.05687073788208788,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.1923310390781846,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": 0.007169377089751634,
+          "std_return": 0.002184464866335018,
+          "min_return": 0.006280840368713143,
+          "max_return": 0.02878439809575866,
+          "median_return": 0.006963256387771916,
+          "avg_trades": 7.99,
+          "avg_win_rate": 0.6258928571428571,
+          "avg_fees": 0.12841490788903392,
+          "profitable_pct": 100.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": 0.050877795594001636,
+          "std_return": 0.0003363181296040607,
+          "min_return": 0.05017093626080509,
+          "max_return": 0.051611739116429856,
+          "median_return": 0.050875310877285265,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.8333333333333331,
+          "avg_fees": 0.14543997069498793,
+          "profitable_pct": 100.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.07262662661017774,
+          "std_return": 0.003312781883035382,
+          "min_return": 0.03974813655940617,
+          "max_return": 0.073531714515802,
+          "median_return": 0.07295700080528178,
+          "avg_trades": 5.01,
+          "avg_win_rate": 0.7986666666666664,
+          "avg_fees": 0.09557164550447265,
+          "profitable_pct": 100.0
+        },
+        "TIGHT_SL": {
+          "avg_return": -0.02198899062076988,
+          "std_return": 0.00032436169863141173,
+          "min_return": -0.022762121729482675,
+          "max_return": -0.021151962593114793,
+          "median_return": -0.0219735731690551,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.625,
+          "avg_fees": 0.19161298625258655,
+          "profitable_pct": 0.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.0601236820411218,
+          "std_return": 0.005055703764937817,
+          "min_return": 0.013320955447883117,
+          "max_return": 0.062185529537159896,
+          "median_return": 0.061001087479365126,
+          "avg_trades": 10.03,
+          "avg_win_rate": 0.7976428571428569,
+          "avg_fees": 0.2472052552808561,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": 0.03152985424352748,
+          "std_return": 0.0051273097741118346,
+          "min_return": 0.018395342878196934,
+          "max_return": 0.03413182856421732,
+          "median_return": 0.033562475904026126,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.14987793760405282,
+          "profitable_pct": 100.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": 0.04457582150517287,
+          "std_return": 0.008844989269415446,
+          "min_return": 0.021902503235536795,
+          "max_return": 0.04904200431242146,
+          "median_return": 0.048080266243894415,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.19144375018199983,
+          "profitable_pct": 100.0
+        }
+      },
+      "200_tests": {
+        "BASE": {
+          "avg_return": 0.05435407766694047,
+          "std_return": 0.007741878319661642,
+          "min_return": 0.030449899375787293,
+          "max_return": 0.0579044336633109,
+          "median_return": 0.05687910591111697,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.19237806275318078,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": 0.007063823232092067,
+          "std_return": 0.001565089336107806,
+          "min_return": 0.006280840368713143,
+          "max_return": 0.02878439809575866,
+          "median_return": 0.006959666997448153,
+          "avg_trades": 7.995,
+          "avg_win_rate": 0.6254464285714286,
+          "avg_fees": 0.12855300409745157,
+          "profitable_pct": 100.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": 0.05093611870149228,
+          "std_return": 0.000904060179342113,
+          "min_return": 0.050161223594233965,
+          "max_return": 0.062845927319543,
+          "median_return": 0.050871464785494425,
+          "avg_trades": 6.015,
+          "avg_win_rate": 0.8330357142857143,
+          "avg_fees": 0.14608449615253324,
+          "profitable_pct": 100.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.0727847436992218,
+          "std_return": 0.0023560582777113937,
+          "min_return": 0.03974813655940617,
+          "max_return": 0.07364940240208967,
+          "median_return": 0.07296273543289222,
+          "avg_trades": 5.005,
+          "avg_win_rate": 0.7993333333333333,
+          "avg_fees": 0.09535667546259646,
+          "profitable_pct": 100.0
+        },
+        "TIGHT_SL": {
+          "avg_return": -0.022001606572244353,
+          "std_return": 0.00030528475214885856,
+          "min_return": -0.02284796840836748,
+          "max_return": -0.021151962593114793,
+          "median_return": -0.022008736009373045,
+          "avg_trades": 8.005,
+          "avg_win_rate": 0.6252083333333334,
+          "avg_fees": 0.19167830417301507,
+          "profitable_pct": 0.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.06020980282446568,
+          "std_return": 0.004961413747311937,
+          "min_return": 0.013320955447883117,
+          "max_return": 0.062185529537159896,
+          "median_return": 0.06100135342048854,
+          "avg_trades": 10.02,
+          "avg_win_rate": 0.7978928571428571,
+          "avg_fees": 0.24706546863647483,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": 0.03210610828390686,
+          "std_return": 0.0044519613582507875,
+          "min_return": 0.018328323722621463,
+          "max_return": 0.03413182856421732,
+          "median_return": 0.033568333218343294,
+          "avg_trades": 8.005,
+          "avg_win_rate": 0.7501388888888889,
+          "avg_fees": 0.1499633831234375,
+          "profitable_pct": 100.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": 0.045573431744300966,
+          "std_return": 0.007677559612059554,
+          "min_return": 0.021902503235536795,
+          "max_return": 0.04904200431242146,
+          "median_return": 0.04809238503365662,
+          "avg_trades": 8.005,
+          "avg_win_rate": 0.7501388888888889,
+          "avg_fees": 0.1915573844777409,
+          "profitable_pct": 100.0
+        }
+      },
+      "300_tests": {
+        "BASE": {
+          "avg_return": 0.05434939861054179,
+          "std_return": 0.007733202074560043,
+          "min_return": 0.030449899375787293,
+          "max_return": 0.0579044336633109,
+          "median_return": 0.05687816471383675,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.19237658609330624,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": 0.0070170676778169025,
+          "std_return": 0.0012903391370128559,
+          "min_return": 0.006280840368713143,
+          "max_return": 0.02878439809575866,
+          "median_return": 0.0069480377291859935,
+          "avg_trades": 7.996666666666667,
+          "avg_win_rate": 0.625297619047619,
+          "avg_fees": 0.1285985496629904,
+          "profitable_pct": 100.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": 0.050942875892687825,
+          "std_return": 0.0010329602190616194,
+          "min_return": 0.05004406506975253,
+          "max_return": 0.06295163028344423,
+          "median_return": 0.05087181388955543,
+          "avg_trades": 6.02,
+          "avg_win_rate": 0.8329365079365079,
+          "avg_fees": 0.1462986734169541,
+          "profitable_pct": 100.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.07282138987756312,
+          "std_return": 0.0019315831017109996,
+          "min_return": 0.03974813655940617,
+          "max_return": 0.07364940240208967,
+          "median_return": 0.07293755824099596,
+          "avg_trades": 5.003333333333333,
+          "avg_win_rate": 0.7995555555555555,
+          "avg_fees": 0.0952847267812471,
+          "profitable_pct": 100.0
+        },
+        "TIGHT_SL": {
+          "avg_return": -0.02202092147221375,
+          "std_return": 0.000315394778302837,
+          "min_return": -0.023200822774282794,
+          "max_return": -0.02113788857520717,
+          "median_return": -0.022017924313722688,
+          "avg_trades": 8.006666666666666,
+          "avg_win_rate": 0.6252777777777778,
+          "avg_fees": 0.19169930486599654,
+          "profitable_pct": 0.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.06024215437314718,
+          "std_return": 0.004953307440805761,
+          "min_return": 0.013320955447883117,
+          "max_return": 0.062185529537159896,
+          "median_return": 0.06099292133753095,
+          "avg_trades": 10.016666666666667,
+          "avg_win_rate": 0.7979761904761904,
+          "avg_fees": 0.2470173091809052,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": 0.03210420703220634,
+          "std_return": 0.004447103771396279,
+          "min_return": 0.018328323722621463,
+          "max_return": 0.03413182856421732,
+          "median_return": 0.033563754392595985,
+          "avg_trades": 8.006666666666666,
+          "avg_win_rate": 0.7501851851851852,
+          "avg_fees": 0.14998521924464375,
+          "profitable_pct": 100.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": 0.04556961859297181,
+          "std_return": 0.007668403660975342,
+          "min_return": 0.021902503235536795,
+          "max_return": 0.04904200431242146,
+          "median_return": 0.04809238503365662,
+          "avg_trades": 8.006666666666666,
+          "avg_win_rate": 0.7501851851851852,
+          "avg_fees": 0.19157855743756652,
+          "profitable_pct": 100.0
+        }
+      }
+    },
+    "CRASH": {
+      "100_tests": {
+        "BASE": {
+          "avg_return": 0.028029115579404743,
+          "std_return": 0.0004009097924799406,
+          "min_return": 0.027180344364177624,
+          "max_return": 0.029245915165243826,
+          "median_return": 0.027965094010001697,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.19093902590160206,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": 0.008734246377791254,
+          "std_return": 0.00023345442613489944,
+          "min_return": 0.008075594571711425,
+          "max_return": 0.009348289110511322,
+          "median_return": 0.008753377881828707,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.625,
+          "avg_fees": 0.12837974555827503,
+          "profitable_pct": 100.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": 0.023498263441567867,
+          "std_return": 0.0016883832631734682,
+          "min_return": 0.021942334123469322,
+          "max_return": 0.02964561771260075,
+          "median_return": 0.023055367763251032,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.25375167836935686,
+          "profitable_pct": 100.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.021762366953043667,
+          "std_return": 0.003147713860713487,
+          "min_return": 0.019478729382793176,
+          "max_return": 0.027586421038550763,
+          "median_return": 0.01995042537479852,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.6,
+          "avg_fees": 0.12011610912836783,
+          "profitable_pct": 100.0
+        },
+        "TIGHT_SL": {
+          "avg_return": -0.016983753477763878,
+          "std_return": 0.0012267831545237663,
+          "min_return": -0.01808796143695967,
+          "max_return": -0.012570170529679861,
+          "median_return": -0.01728535489002752,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.625,
+          "avg_fees": 0.19125852150712067,
+          "profitable_pct": 0.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.027259006276146063,
+          "std_return": 0.0005153673232346213,
+          "min_return": 0.025891631937425358,
+          "max_return": 0.028651203890856514,
+          "median_return": 0.027325802535885468,
+          "avg_trades": 11.92,
+          "avg_win_rate": 0.8321212121212119,
+          "avg_fees": 0.2451373089979192,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": 0.014405844508900777,
+          "std_return": 0.0011981768033621548,
+          "min_return": 0.01355361725466139,
+          "max_return": 0.018715065005486812,
+          "median_return": 0.014107498725038851,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.14915480631835806,
+          "profitable_pct": 100.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": 0.018352524284972808,
+          "std_return": 0.0012629192815048864,
+          "min_return": 0.017187034007799865,
+          "max_return": 0.022949823768537953,
+          "median_return": 0.01801888116195073,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.19000215507977028,
+          "profitable_pct": 100.0
+        }
+      },
+      "200_tests": {
+        "BASE": {
+          "avg_return": 0.02800385423243192,
+          "std_return": 0.00037014529924848423,
+          "min_return": 0.0271526732415568,
+          "max_return": 0.029245915165243826,
+          "median_return": 0.027967851353233375,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.1909383275486729,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": 0.00872729329981951,
+          "std_return": 0.0002339070035516644,
+          "min_return": 0.008075594571711425,
+          "max_return": 0.009348289110511322,
+          "median_return": 0.008736151578178902,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.625,
+          "avg_fees": 0.12837913185359168,
+          "profitable_pct": 100.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": 0.023297946912391065,
+          "std_return": 0.001346180882060752,
+          "min_return": 0.021942334123469322,
+          "max_return": 0.02964561771260075,
+          "median_return": 0.02301594894754269,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.2537342657519554,
+          "profitable_pct": 100.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.022298279754646454,
+          "std_return": 0.0033831342536204774,
+          "min_return": 0.019336292109165355,
+          "max_return": 0.027586421038550763,
+          "median_return": 0.02001917909127788,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.5999999999999999,
+          "avg_fees": 0.12014059333549927,
+          "profitable_pct": 100.0
+        },
+        "TIGHT_SL": {
+          "avg_return": -0.017119185134627957,
+          "std_return": 0.000987814550086577,
+          "min_return": -0.018172647243513137,
+          "max_return": -0.012570170529679861,
+          "median_return": -0.017315172261757918,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.625,
+          "avg_fees": 0.19124729519049288,
+          "profitable_pct": 0.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.02723185587136184,
+          "std_return": 0.00048947635375425,
+          "min_return": 0.025891631937425358,
+          "max_return": 0.028651203890856514,
+          "median_return": 0.027315075600679584,
+          "avg_trades": 11.95,
+          "avg_win_rate": 0.8325757575757575,
+          "avg_fees": 0.2455513795260221,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": 0.014264832042114753,
+          "std_return": 0.0009557941633594349,
+          "min_return": 0.01355361725466139,
+          "max_return": 0.018715065005486812,
+          "median_return": 0.014062591881437735,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.14914868765990444,
+          "profitable_pct": 100.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": 0.018202665811753106,
+          "std_return": 0.0010071170252048676,
+          "min_return": 0.017187034007799865,
+          "max_return": 0.022949823768537953,
+          "median_return": 0.01799224696531676,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.18999233910649163,
+          "profitable_pct": 100.0
+        }
+      },
+      "300_tests": {
+        "BASE": {
+          "avg_return": 0.02799330544841267,
+          "std_return": 0.00037338284770267976,
+          "min_return": 0.027051809135650917,
+          "max_return": 0.029245915165243826,
+          "median_return": 0.02797199143028384,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.19093602852129948,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": 0.00871385227303596,
+          "std_return": 0.0002396115153705789,
+          "min_return": 0.007991479009302414,
+          "max_return": 0.009380728280024377,
+          "median_return": 0.008733887613160789,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.625,
+          "avg_fees": 0.12837848726705772,
+          "profitable_pct": 100.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": 0.023289294951420524,
+          "std_return": 0.0013393420639591785,
+          "min_return": 0.02176049472591463,
+          "max_return": 0.02964561771260075,
+          "median_return": 0.02301594894754269,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.25373112817191484,
+          "profitable_pct": 100.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.022507855582599146,
+          "std_return": 0.0034584281912419875,
+          "min_return": 0.01931053000672667,
+          "max_return": 0.02773197253330333,
+          "median_return": 0.02005880353396255,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.6,
+          "avg_fees": 0.12014937664510848,
+          "profitable_pct": 100.0
+        },
+        "TIGHT_SL": {
+          "avg_return": -0.01713894922968953,
+          "std_return": 0.0009869067786129973,
+          "min_return": -0.018526316460576217,
+          "max_return": -0.012570170529679861,
+          "median_return": -0.01733386206299514,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.625,
+          "avg_fees": 0.19124586317171763,
+          "profitable_pct": 0.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.027229235104528845,
+          "std_return": 0.0004921298203765256,
+          "min_return": 0.025891631937425358,
+          "max_return": 0.028651203890856514,
+          "median_return": 0.027308043159146582,
+          "avg_trades": 11.95,
+          "avg_win_rate": 0.8325757575757574,
+          "avg_fees": 0.24554917568114015,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": 0.014261443873302273,
+          "std_return": 0.0009507070861248498,
+          "min_return": 0.013411089239232676,
+          "max_return": 0.018715065005486812,
+          "median_return": 0.01406252950263962,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.1491478775567434,
+          "profitable_pct": 100.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": 0.01819646031825897,
+          "std_return": 0.0010018402843058665,
+          "min_return": 0.01706389544334854,
+          "max_return": 0.022949823768537953,
+          "median_return": 0.01799224696531676,
+          "avg_trades": 8.0,
+          "avg_win_rate": 0.75,
+          "avg_fees": 0.18999057181619114,
+          "profitable_pct": 100.0
+        }
+      }
+    },
+    "RECOVERY": {
+      "100_tests": {
+        "BASE": {
+          "avg_return": -0.018126776607764503,
+          "std_return": 5.010296921649564e-05,
+          "min_return": -0.018248670590461227,
+          "max_return": -0.017986822997134104,
+          "median_return": -0.018125644773546695,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.05323442623965474,
+          "profitable_pct": 0.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": -0.012058278246035246,
+          "std_return": 3.3465586455868404e-05,
+          "min_return": -0.012139616704605487,
+          "max_return": -0.01196479341243465,
+          "median_return": -0.012057325181150323,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.03565931232911893,
+          "profitable_pct": 0.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": -0.0336911920133378,
+          "std_return": 7.181806247317717e-05,
+          "min_return": -0.03388303228368405,
+          "max_return": -0.033502808282394575,
+          "median_return": -0.03369280591851729,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.07064071064674116,
+          "profitable_pct": 0.0
+        },
+        "HIGH_TP": {
+          "avg_return": -0.018126776607764503,
+          "std_return": 5.010296921649564e-05,
+          "min_return": -0.018248670590461227,
+          "max_return": -0.017986822997134104,
+          "median_return": -0.018125644773546695,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.05323442623965474,
+          "profitable_pct": 0.0
+        },
+        "TIGHT_SL": {
+          "avg_return": -0.025300987372192357,
+          "std_return": 5.4076318678072885e-05,
+          "min_return": -0.025445504920103872,
+          "max_return": -0.02515955175118696,
+          "median_return": -0.025302385440594908,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.05323442623965474,
+          "profitable_pct": 0.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.05339380246138163,
+          "std_return": 0.0033330030635411825,
+          "min_return": 0.048845061334483075,
+          "max_return": 0.05674757762025706,
+          "median_return": 0.05590722368189242,
+          "avg_trades": 7.0,
+          "avg_win_rate": 0.5714285714285712,
+          "avg_fees": 0.15047893464246873,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": -0.025300987372192357,
+          "std_return": 5.4076318678072885e-05,
+          "min_return": -0.025445504920103872,
+          "max_return": -0.02515955175118696,
+          "median_return": -0.025302385440594908,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.05323442623965474,
+          "profitable_pct": 0.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": -0.025300987372192357,
+          "std_return": 5.4076318678072885e-05,
+          "min_return": -0.025445504920103872,
+          "max_return": -0.02515955175118696,
+          "median_return": -0.025302385440594908,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.05323442623965474,
+          "profitable_pct": 0.0
+        }
+      },
+      "200_tests": {
+        "BASE": {
+          "avg_return": -0.01812581970230618,
+          "std_return": 5.3429944109639316e-05,
+          "min_return": -0.018291084895084662,
+          "max_return": -0.017960704355232338,
+          "median_return": -0.018125644773546695,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.053234536409353536,
+          "profitable_pct": 0.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": -0.012057661907937632,
+          "std_return": 3.567803037880016e-05,
+          "min_return": -0.012167997395316281,
+          "max_return": -0.011947275722810862,
+          "median_return": -0.012057419598144747,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.03565936143011676,
+          "profitable_pct": 0.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": -0.03368634953305197,
+          "std_return": 7.19558061424361e-05,
+          "min_return": -0.03388303228368405,
+          "max_return": -0.0334975469268259,
+          "median_return": -0.03368865907250608,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.07064090595723443,
+          "profitable_pct": 0.0
+        },
+        "HIGH_TP": {
+          "avg_return": -0.01812581970230618,
+          "std_return": 5.3429944109639316e-05,
+          "min_return": -0.018291084895084662,
+          "max_return": -0.017960704355232338,
+          "median_return": -0.018125644773546695,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.053234536409353536,
+          "profitable_pct": 0.0
+        },
+        "TIGHT_SL": {
+          "avg_return": -0.025297349184157866,
+          "std_return": 5.4169028260009326e-05,
+          "min_return": -0.025445504920103872,
+          "max_return": -0.025155172942952126,
+          "median_return": -0.025299155927395893,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.053234536409353536,
+          "profitable_pct": 0.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.053697562337967505,
+          "std_return": 0.0032669554062028233,
+          "min_return": 0.048845061334483075,
+          "max_return": 0.05674757762025706,
+          "median_return": 0.05594626241417036,
+          "avg_trades": 7.0,
+          "avg_win_rate": 0.5714285714285713,
+          "avg_fees": 0.15051081869004415,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": -0.025297349184157866,
+          "std_return": 5.4169028260009326e-05,
+          "min_return": -0.025445504920103872,
+          "max_return": -0.025155172942952126,
+          "median_return": -0.025299155927395893,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.053234536409353536,
+          "profitable_pct": 0.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": -0.025297349184157866,
+          "std_return": 5.4169028260009326e-05,
+          "min_return": -0.025445504920103872,
+          "max_return": -0.025155172942952126,
+          "median_return": -0.025299155927395893,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.053234536409353536,
+          "profitable_pct": 0.0
+        }
+      },
+      "300_tests": {
+        "BASE": {
+          "avg_return": -0.018127184564971206,
+          "std_return": 5.358436505227937e-05,
+          "min_return": -0.018291084895084662,
+          "max_return": -0.017960704355232338,
+          "median_return": -0.018127190698957824,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.053234544820902605,
+          "profitable_pct": 0.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": -0.012058578298937956,
+          "std_return": 3.577337090442968e-05,
+          "min_return": -0.012167997395316281,
+          "max_return": -0.011947275722810862,
+          "median_return": -0.012058593997671115,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.03565936516057659,
+          "profitable_pct": 0.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": -0.0336873056626552,
+          "std_return": 6.979332460467991e-05,
+          "min_return": -0.03388303228368405,
+          "max_return": -0.03346530580301703,
+          "median_return": -0.03368944104590782,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.0706409209431251,
+          "profitable_pct": 0.0
+        },
+        "HIGH_TP": {
+          "avg_return": -0.018127184564971206,
+          "std_return": 5.358436505227937e-05,
+          "min_return": -0.018291084895084662,
+          "max_return": -0.017960704355232338,
+          "median_return": -0.018127190698957824,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.053234544820902605,
+          "profitable_pct": 0.0
+        },
+        "TIGHT_SL": {
+          "avg_return": -0.02529807042969755,
+          "std_return": 5.2536411136449985e-05,
+          "min_return": -0.025445504920103872,
+          "max_return": -0.02513100011323502,
+          "median_return": -0.025299833832625514,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.053234544820902605,
+          "profitable_pct": 0.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.05374465811635051,
+          "std_return": 0.0038363776756906386,
+          "min_return": 0.017562175586581172,
+          "max_return": 0.05674757762025706,
+          "median_return": 0.055963729513352406,
+          "avg_trades": 6.996666666666667,
+          "avg_win_rate": 0.5711904761904759,
+          "avg_fees": 0.1503860574237542,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": -0.02529807042969755,
+          "std_return": 5.2536411136449985e-05,
+          "min_return": -0.025445504920103872,
+          "max_return": -0.02513100011323502,
+          "median_return": -0.025299833832625514,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.053234544820902605,
+          "profitable_pct": 0.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": -0.02529807042969755,
+          "std_return": 5.2536411136449985e-05,
+          "min_return": -0.025445504920103872,
+          "max_return": -0.02513100011323502,
+          "median_return": -0.025299833832625514,
+          "avg_trades": 4.0,
+          "avg_win_rate": 0.25,
+          "avg_fees": 0.053234544820902605,
+          "profitable_pct": 0.0
+        }
+      }
+    },
+    "MIXED": {
+      "100_tests": {
+        "BASE": {
+          "avg_return": 0.007482708393842675,
+          "std_return": 0.00028899398541735435,
+          "min_return": 0.006893323589031866,
+          "max_return": 0.008102795776898498,
+          "median_return": 0.007519590053581927,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.6,
+          "avg_fees": 0.12045099074511231,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": 0.015559885243021149,
+          "std_return": 0.008286300694708433,
+          "min_return": 0.008135630381433808,
+          "max_return": 0.0256082860368709,
+          "median_return": 0.0086702344343009,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.6,
+          "avg_fees": 0.08059154620348535,
+          "profitable_pct": 100.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": 0.009334008674774644,
+          "std_return": 0.0003862579694887717,
+          "min_return": 0.00854392418537183,
+          "max_return": 0.010168754272552103,
+          "median_return": 0.009389941305904112,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666669,
+          "avg_fees": 0.17800234215478952,
+          "profitable_pct": 100.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.04674508532389215,
+          "std_return": 0.012398090778795124,
+          "min_return": 0.04115845439157056,
+          "max_return": 0.07786969515995831,
+          "median_return": 0.04176807715738391,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.6279999999999999,
+          "avg_fees": 0.1168634445727928,
+          "profitable_pct": 100.0
+        },
+        "TIGHT_SL": {
+          "avg_return": 0.006424304143511001,
+          "std_return": 0.00133062741389131,
+          "min_return": 0.004227798809567768,
+          "max_return": 0.008021533190742124,
+          "median_return": 0.007208653048941282,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666669,
+          "avg_fees": 0.13403977127291924,
+          "profitable_pct": 100.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.013439472106474752,
+          "std_return": 0.00036206756235787526,
+          "min_return": 0.012509766385240748,
+          "max_return": 0.014248895101036775,
+          "median_return": 0.013412959719268164,
+          "avg_trades": 9.0,
+          "avg_win_rate": 0.7777777777777776,
+          "avg_fees": 0.20340879676581372,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": 0.006970071918163961,
+          "std_return": 0.00019619692802485972,
+          "min_return": 0.006576904071036628,
+          "max_return": 0.007418473461215361,
+          "median_return": 0.006990014261629559,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666669,
+          "avg_fees": 0.10751197572487754,
+          "profitable_pct": 100.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": 0.007402620643350861,
+          "std_return": 0.00028871346370688356,
+          "min_return": 0.006813737764227502,
+          "max_return": 0.008021533190742124,
+          "median_return": 0.00743928388143028,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666669,
+          "avg_fees": 0.13388120381326682,
+          "profitable_pct": 100.0
+        }
+      },
+      "200_tests": {
+        "BASE": {
+          "avg_return": 0.007467353739552949,
+          "std_return": 0.0002722843461793418,
+          "min_return": 0.006640948528219989,
+          "max_return": 0.008102795776898498,
+          "median_return": 0.007483618045014756,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.5999999999999999,
+          "avg_fees": 0.12045019640836907,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": 0.015465606975720938,
+          "std_return": 0.008291693973856857,
+          "min_return": 0.008135630381433808,
+          "max_return": 0.0256082860368709,
+          "median_return": 0.008662178967706591,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.5999999999999999,
+          "avg_fees": 0.08059037484585926,
+          "profitable_pct": 100.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": 0.009313331122855973,
+          "std_return": 0.00036406860590312433,
+          "min_return": 0.008213672918744615,
+          "max_return": 0.010168754272552103,
+          "median_return": 0.009337783946924486,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666665,
+          "avg_fees": 0.17800095604367372,
+          "profitable_pct": 100.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.04566657049486997,
+          "std_return": 0.011188386650513256,
+          "min_return": 0.04115845439157056,
+          "max_return": 0.07792798815504208,
+          "median_return": 0.041761390987539546,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.6219999999999999,
+          "avg_fees": 0.11759847590271427,
+          "profitable_pct": 100.0
+        },
+        "TIGHT_SL": {
+          "avg_return": 0.006450535783312485,
+          "std_return": 0.001299379526066021,
+          "min_return": 0.004227798809567768,
+          "max_return": 0.008304320723558287,
+          "median_return": 0.007228243677975001,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666665,
+          "avg_fees": 0.1340369859982788,
+          "profitable_pct": 100.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.013409708508083974,
+          "std_return": 0.00036881369535903783,
+          "min_return": 0.012509766385240748,
+          "max_return": 0.014248895101036775,
+          "median_return": 0.01338316992996615,
+          "avg_trades": 9.0,
+          "avg_win_rate": 0.7777777777777779,
+          "avg_fees": 0.2034074300868489,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": 0.006959526284703299,
+          "std_return": 0.0001864739929603105,
+          "min_return": 0.006365756687063708,
+          "max_return": 0.007418473461215361,
+          "median_return": 0.006969840326713286,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666665,
+          "avg_fees": 0.10751161796720062,
+          "profitable_pct": 100.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": 0.007387298789432356,
+          "std_return": 0.0002720238521096561,
+          "min_return": 0.00656191482937686,
+          "max_return": 0.008021533190742124,
+          "median_return": 0.00740303173695556,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666665,
+          "avg_fees": 0.13388042206187484,
+          "profitable_pct": 100.0
+        }
+      },
+      "300_tests": {
+        "BASE": {
+          "avg_return": 0.007463198425624199,
+          "std_return": 0.00027852499482740003,
+          "min_return": 0.006640948528219989,
+          "max_return": 0.008198057191698542,
+          "median_return": 0.007481845707672411,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.6,
+          "avg_fees": 0.12044974544239807,
+          "profitable_pct": 100.0
+        },
+        "CONSERVATIVE": {
+          "avg_return": 0.014978788108828352,
+          "std_return": 0.008195171990851338,
+          "min_return": 0.008060690717184875,
+          "max_return": 0.025679816848135792,
+          "median_return": 0.008640169720318624,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.6,
+          "avg_fees": 0.08058561282164459,
+          "profitable_pct": 100.0
+        },
+        "AGGRESSIVE": {
+          "avg_return": 0.009307595608048207,
+          "std_return": 0.0003726047634971986,
+          "min_return": 0.008213672918744615,
+          "max_return": 0.01029171833483133,
+          "median_return": 0.009334047556274356,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666666,
+          "avg_fees": 0.17800016082778009,
+          "profitable_pct": 100.0
+        },
+        "HIGH_TP": {
+          "avg_return": 0.04458667141923836,
+          "std_return": 0.009703377502129136,
+          "min_return": 0.04105622623148141,
+          "max_return": 0.07792798815504208,
+          "median_return": 0.041750434841107256,
+          "avg_trades": 5.0,
+          "avg_win_rate": 0.616,
+          "avg_fees": 0.11833301909719623,
+          "profitable_pct": 100.0
+        },
+        "TIGHT_SL": {
+          "avg_return": 0.006505228276741262,
+          "std_return": 0.0012852287451559068,
+          "min_return": 0.004227798809567768,
+          "max_return": 0.008304320723558287,
+          "median_return": 0.007239776281551637,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666666,
+          "avg_fees": 0.13402625931922407,
+          "profitable_pct": 100.0
+        },
+        "WIDE_SL": {
+          "avg_return": 0.01341629565607564,
+          "std_return": 0.0003764078250987181,
+          "min_return": 0.012382199583512754,
+          "max_return": 0.014465498277925046,
+          "median_return": 0.013402310636064386,
+          "avg_trades": 9.0,
+          "avg_win_rate": 0.7777777777777777,
+          "avg_fees": 0.20340711120110797,
+          "profitable_pct": 100.0
+        },
+        "LOW_LEV": {
+          "avg_return": 0.006956447673657019,
+          "std_return": 0.0001900552883728816,
+          "min_return": 0.006365756687063708,
+          "max_return": 0.00744430138350064,
+          "median_return": 0.006969840326713286,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666666,
+          "avg_fees": 0.10751141030756517,
+          "profitable_pct": 100.0
+        },
+        "HIGH_RESERVE": {
+          "avg_return": 0.0073831525907467,
+          "std_return": 0.0002782704061233981,
+          "min_return": 0.00656191482937686,
+          "max_return": 0.008118187889874472,
+          "median_return": 0.007401627487744046,
+          "avg_trades": 6.0,
+          "avg_win_rate": 0.6666666666666666,
+          "avg_fees": 0.13387997401533594,
+          "profitable_pct": 100.0
+        }
+      }
+    }
+  }
+}

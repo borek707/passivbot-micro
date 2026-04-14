@@ -1,0 +1,54 @@
+{
+  "BULL": {
+    "initial_capital": 150.0,
+    "final_balance": 152.2118285836005,
+    "total_return": 0.014745523890669953,
+    "total_trades": 6,
+    "wins": 4,
+    "losses": 2,
+    "win_rate": 0.6666666666666666,
+    "profit_factor": 0,
+    "total_fees": 0.13356491651494404,
+    "consecutive_losses": 2,
+    "max_drawdown": 0.03855497053685383
+  },
+  "BEAR": {
+    "initial_capital": 150.0,
+    "final_balance": 145.95099934023557,
+    "total_return": -0.026993337731762875,
+    "total_trades": 2,
+    "wins": 1,
+    "losses": 1,
+    "win_rate": 0.5,
+    "profit_factor": 0,
+    "total_fees": 0.07895562375588855,
+    "consecutive_losses": 1,
+    "max_drawdown": 0.0504784257805295
+  },
+  "SIDEWAYS": {
+    "initial_capital": 150.0,
+    "final_balance": 148.59797047575697,
+    "total_return": -0.009346863494953558,
+    "total_trades": 3,
+    "wins": 1,
+    "losses": 2,
+    "win_rate": 0.3333333333333333,
+    "profit_factor": 0,
+    "total_fees": 0.04031861747533566,
+    "consecutive_losses": 2,
+    "max_drawdown": 0.013435742567728729
+  },
+  "CRASH": {
+    "initial_capital": 150.0,
+    "final_balance": 152.14817143704371,
+    "total_return": 0.014321142913624765,
+    "total_trades": 7,
+    "wins": 3,
+    "losses": 4,
+    "win_rate": 0.42857142857142855,
+    "profit_factor": 0,
+    "total_fees": 0.12371939098590247,
+    "consecutive_losses": 4,
+    "max_drawdown": 0.030481663849233696
+  }
+}

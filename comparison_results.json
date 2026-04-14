@@ -1,0 +1,20 @@
+{
+  "timestamp": "2026-03-27T13:06:47.344029",
+  "days": 180,
+  "original": {
+    "final_balance": 100.0,
+    "total_return": 0.0,
+    "max_drawdown": 0.0,
+    "trades": 0,
+    "win_rate": 0,
+    "profit_factor": 1.0
+  },
+  "enhanced": {
+    "final_balance": 115.17463136908498,
+    "total_return": 0.1517463136908498,
+    "max_drawdown": 0.13175324451837692,
+    "trades": 23,
+    "win_rate": 1.0,
+    "profit_factor": 1.1517463136908497
+  }
+}

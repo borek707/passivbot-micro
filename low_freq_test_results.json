@@ -1,0 +1,3254 @@
+{
+  "30d_6h": {
+    "BULL": {
+      "BASE_2.5%": {
+        "avg_return": 0.07237857565165123,
+        "std_return": 0.00024096585295773536,
+        "min_return": 0.07159987288338528,
+        "max_return": 0.07317283155248674,
+        "avg_trades": 3.0,
+        "trades_per_month": 3.0,
+        "avg_win_rate": 1.0,
+        "avg_fees": 0.06864884231461982,
+        "profitable_pct": 100.0
+      },
+      "HIGH_4%": {
+        "avg_return": 0.0070011429814605276,
+        "std_return": 0.00020752196745792338,
+        "min_return": 0.00640910221884667,
+        "max_return": 0.0075960441687472745,
+        "avg_trades": 3.0,
+        "trades_per_month": 3.0,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.11746700863149065,
+        "profitable_pct": 100.0
+      },
+      "CONSERVATIVE": {
+        "avg_return": 0.05887933447781104,
+        "std_return": 0.0001769462891279764,
+        "min_return": 0.05828120872274572,
+        "max_return": 0.05951022557447762,
+        "avg_trades": 4.0,
+        "trades_per_month": 4.0,
+        "avg_win_rate": 1.0,
+        "avg_fees": 0.05501609920688801,
+        "profitable_pct": 100.0
+      },
+      "AGGRESSIVE_RARE": {
+        "avg_return": -0.10653509707440881,
+        "std_return": 0.0002828181624695803,
+        "min_return": -0.10746826591068213,
+        "max_return": -0.10571959143827674,
+        "avg_trades": 3.0,
+        "trades_per_month": 3.0,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.12275385218918777,
+        "profitable_pct": 0.0
+      },
+      "TREND_FOLLOW": {
+        "avg_return": 0.03372566644032222,
+        "std_return": 0.0014935222571516497,
+        "min_return": 0.03295119203782557,
+        "max_return": 0.046160958333881584,
+        "avg_trades": 4.985,
+        "trades_per_month": 4.985,
+        "avg_win_rate": 0.6022499999999997,
+        "avg_fees": 0.12577612795540102,
+        "profitable_pct": 100.0
+      },
+      "HIGH_RESERVE": {
+        "avg_return": 0.06016906943542335,
+        "std_return": 0.00019997296204393389,
+        "min_return": 0.059523104275527886,
+        "max_return": 0.0608287778337846,
+        "avg_trades": 3.0,
+        "trades_per_month": 3.0,
+        "avg_win_rate": 1.0,
+        "avg_fees": 0.05704715273933372,
+        "profitable_pct": 100.0
+      },
+      "SAFE_3x": {
+        "avg_return": 0.06702014293636262,
+        "std_return": 0.00018721015220599734,
+        "min_return": 0.06640060422441328,
+        "max_return": 0.06766797007680186,
+        "avg_trades": 4.0,
+        "trades_per_month": 4.0,
+        "avg_win_rate": 1.0,
+        "avg_fees": 0.06904302629803945,
+        "profitable_pct": 100.0
+      },
+      "ULTRA_RARE": {
+        "avg_return": -0.031858729794658314,
+        "std_return": 0.00021841457372975085,
+        "min_return": -0.032529103832003824,
+        "max_return": -0.031166921926661265,
+        "avg_trades": 1.0,
+        "trades_per_month": 1.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.04049999999999999,
+        "profitable_pct": 0.0
+      }
+    },
+    "BEAR": {
+      "BASE_2.5%": {
+        "avg_return": 0.0024128957476329174,
+        "std_return": 0.06224265270048023,
+        "min_return": -0.05908197918888978,
+        "max_return": 0.0668460805339843,
+        "avg_trades": 5.743,
+        "trades_per_month": 5.743,
+        "avg_win_rate": 0.666892857142857,
+        "avg_fees": 0.1187007589485301,
+        "profitable_pct": 48.699999999999996
+      },
+      "HIGH_4%": {
+        "avg_return": -0.04499359824843055,
+        "std_return": 0.00023157052764770543,
+        "min_return": -0.04569832267289561,
+        "max_return": -0.04430640937312243,
+        "avg_trades": 6.0,
+        "trades_per_month": 6.0,
+        "avg_win_rate": 0.5,
+        "avg_fees": 0.1363771793230699,
+        "profitable_pct": 0.0
+      },
+      "CONSERVATIVE": {
+        "avg_return": -0.004718619375082466,
+        "std_return": 2.801641817369924e-05,
+        "min_return": -0.004801247909011484,
+        "max_return": -0.004622972765139745,
+        "avg_trades": 3.0,
+        "trades_per_month": 3.0,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.026836930287873654,
+        "profitable_pct": 0.0
+      },
+      "AGGRESSIVE_RARE": {
+        "avg_return": 0.022363820897381804,
+        "std_return": 8.526374438348854e-05,
+        "min_return": 0.022107245510021394,
+        "max_return": 0.022616569706072863,
+        "avg_trades": 4.0,
+        "trades_per_month": 4.0,
+        "avg_win_rate": 0.5,
+        "avg_fees": 0.07096810673202414,
+        "profitable_pct": 100.0
+      },
+      "TREND_FOLLOW": {
+        "avg_return": 0.07464189229001938,
+        "std_return": 0.0002611380553421401,
+        "min_return": 0.07366196611794218,
+        "max_return": 0.07558025931297796,
+        "avg_trades": 6.0,
+        "trades_per_month": 6.0,
+        "avg_win_rate": 0.5,
+        "avg_fees": 0.11013554034931175,
+        "profitable_pct": 100.0
+      },
+      "HIGH_RESERVE": {
+        "avg_return": 0.0020210494491058905,
+        "std_return": 0.051807900581464214,
+        "min_return": -0.049170113510274026,
+        "max_return": 0.05567400512735541,
+        "avg_trades": 5.743,
+        "trades_per_month": 5.743,
+        "avg_win_rate": 0.666892857142857,
+        "avg_fees": 0.09887681323374091,
+        "profitable_pct": 48.699999999999996
+      },
+      "SAFE_3x": {
+        "avg_return": 0.023737202147251245,
+        "std_return": 0.04430212520555026,
+        "min_return": -0.02004280686983331,
+        "max_return": 0.06956343138349495,
+        "avg_trades": 6.513,
+        "trades_per_month": 6.513,
+        "avg_win_rate": 0.6989761904761904,
+        "avg_fees": 0.10936069954412492,
+        "profitable_pct": 48.699999999999996
+      },
+      "ULTRA_RARE": {
+        "avg_return": 0.08724239413953057,
+        "std_return": 0.0003091153686499788,
+        "min_return": 0.08636767248553251,
+        "max_return": 0.08809147966421865,
+        "avg_trades": 2.0,
+        "trades_per_month": 2.0,
+        "avg_win_rate": 0.5,
+        "avg_fees": 0.07966877973813231,
+        "profitable_pct": 100.0
+      }
+    },
+    "SIDEWAYS": {
+      "BASE_2.5%": {
+        "avg_return": -0.007621510055939336,
+        "std_return": 0.0009644829960715818,
+        "min_return": -0.008364367695834669,
+        "max_return": 0.005377130910446794,
+        "avg_trades": 2.018,
+        "trades_per_month": 2.018,
+        "avg_win_rate": 0.5006,
+        "avg_fees": 0.0791421978874292,
+        "profitable_pct": 0.6
+      },
+      "HIGH_4%": {
+        "avg_return": -0.05200689522198735,
+        "std_return": 0.00022275687377690603,
+        "min_return": -0.05265245134877148,
+        "max_return": -0.05129744470582826,
+        "avg_trades": 1.0,
+        "trades_per_month": 1.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.04049999999999999,
+        "profitable_pct": 0.0
+      },
+      "CONSERVATIVE": {
+        "avg_return": -0.004100802260346801,
+        "std_return": 0.0005197073773665152,
+        "min_return": -0.0045805632763474095,
+        "max_return": 0.0027202827412194587,
+        "avg_trades": 3.006,
+        "trades_per_month": 3.006,
+        "avg_win_rate": 0.33433333333333326,
+        "avg_fees": 0.07970874195821444,
+        "profitable_pct": 0.6
+      },
+      "AGGRESSIVE_RARE": {
+        "avg_return": 0.028058910733218288,
+        "std_return": 0.0014625306216332554,
+        "min_return": 0.027062938288486483,
+        "max_return": 0.0502572111620547,
+        "avg_trades": 2.012,
+        "trades_per_month": 2.012,
+        "avg_win_rate": 0.5,
+        "avg_fees": 0.1044744824815401,
+        "profitable_pct": 100.0
+      },
+      "TREND_FOLLOW": {
+        "avg_return": 0.0755408093960983,
+        "std_return": 0.0014189673506175508,
+        "min_return": 0.07480926995202594,
+        "max_return": 0.09612783072012916,
+        "avg_trades": 1.006,
+        "trades_per_month": 1.006,
+        "avg_win_rate": 1.0,
+        "avg_fees": 0.05408246936038979,
+        "profitable_pct": 100.0
+      },
+      "HIGH_RESERVE": {
+        "avg_return": -0.0038230493477495824,
+        "std_return": 0.0006416175150169461,
+        "min_return": -0.004416069963817979,
+        "max_return": 0.00483591176123582,
+        "avg_trades": 4.006,
+        "trades_per_month": 4.006,
+        "avg_win_rate": 0.5006,
+        "avg_fees": 0.08855522247393693,
+        "profitable_pct": 0.6
+      },
+      "SAFE_3x": {
+        "avg_return": -0.015146047240904776,
+        "std_return": 0.0045493787023876235,
+        "min_return": -0.01710475526376039,
+        "max_return": 0.008705851275733683,
+        "avg_trades": 4.006,
+        "trades_per_month": 4.006,
+        "avg_win_rate": 0.27435,
+        "avg_fees": 0.08014559032832518,
+        "profitable_pct": 0.1
+      },
+      "ULTRA_RARE": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      }
+    },
+    "CRASH": {
+      "BASE_2.5%": {
+        "avg_return": -0.051125824768950966,
+        "std_return": 0.0005169349706721298,
+        "min_return": -0.05135649578690997,
+        "max_return": -0.034925327268994506,
+        "avg_trades": 4.0,
+        "trades_per_month": 4.0,
+        "avg_win_rate": 0.00025,
+        "avg_fees": 0.05299892964865746,
+        "profitable_pct": 0.0
+      },
+      "HIGH_4%": {
+        "avg_return": -0.051125824768950966,
+        "std_return": 0.0005169349706721298,
+        "min_return": -0.05135649578690997,
+        "max_return": -0.034925327268994506,
+        "avg_trades": 4.0,
+        "trades_per_month": 4.0,
+        "avg_win_rate": 0.00025,
+        "avg_fees": 0.05299892964865746,
+        "profitable_pct": 0.0
+      },
+      "CONSERVATIVE": {
+        "avg_return": -0.03425456202070657,
+        "std_return": 4.515533465129834e-05,
+        "min_return": -0.03439896048703872,
+        "max_return": -0.034071595081698165,
+        "avg_trades": 4.0,
+        "trades_per_month": 4.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0355549336300674,
+        "profitable_pct": 0.0
+      },
+      "AGGRESSIVE_RARE": {
+        "avg_return": -0.06784885731334421,
+        "std_return": 0.0006764801927166905,
+        "min_return": -0.06815314405434605,
+        "max_return": -0.04665170976383668,
+        "avg_trades": 4.0,
+        "trades_per_month": 4.0,
+        "avg_win_rate": 0.00025,
+        "avg_fees": 0.07022144364015387,
+        "profitable_pct": 0.0
+      },
+      "TREND_FOLLOW": {
+        "avg_return": -0.03494506721676591,
+        "std_return": 5.59033819638451e-05,
+        "min_return": -0.03512934512266687,
+        "max_return": -0.03476414502828637,
+        "avg_trades": 4.0,
+        "trades_per_month": 4.0,
+        "avg_win_rate": 0.25,
+        "avg_fees": 0.05269904964541406,
+        "profitable_pct": 0.0
+      },
+      "HIGH_RESERVE": {
+        "avg_return": -0.042704606176426664,
+        "std_return": 0.0004347961078142844,
+        "min_return": -0.04289785821587259,
+        "max_return": -0.029077227400031044,
+        "avg_trades": 4.0,
+        "trades_per_month": 4.0,
+        "avg_win_rate": 0.00025,
+        "avg_fees": 0.04430459267305063,
+        "profitable_pct": 0.0
+      },
+      "SAFE_3x": {
+        "avg_return": -0.051125824768950966,
+        "std_return": 0.0005169349706721298,
+        "min_return": -0.05135649578690997,
+        "max_return": -0.034925327268994506,
+        "avg_trades": 4.0,
+        "trades_per_month": 4.0,
+        "avg_win_rate": 0.00025,
+        "avg_fees": 0.05299892964865746,
+        "profitable_pct": 0.0
+      },
+      "ULTRA_RARE": {
+        "avg_return": -0.00959282399986629,
+        "std_return": 4.362039468958643e-05,
+        "min_return": -0.009716586570077653,
+        "max_return": -0.009449198894245683,
+        "avg_trades": 3.0,
+        "trades_per_month": 3.0,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.03971124436972534,
+        "profitable_pct": 0.0
+      }
+    },
+    "RECOVERY": {
+      "BASE_2.5%": {
+        "avg_return": -0.00930699260231034,
+        "std_return": 4.1815576661956486e-05,
+        "min_return": -0.009430505254697815,
+        "max_return": -0.009164472768695949,
+        "avg_trades": 3.0,
+        "trades_per_month": 3.0,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.040037422696598116,
+        "profitable_pct": 0.0
+      },
+      "HIGH_4%": {
+        "avg_return": -0.08758846540958955,
+        "std_return": 0.0002303198616146048,
+        "min_return": -0.08832483870362277,
+        "max_return": -0.08685198258360856,
+        "avg_trades": 5.0,
+        "trades_per_month": 5.0,
+        "avg_win_rate": 0.4000000000000001,
+        "avg_fees": 0.12081378177076539,
+        "profitable_pct": 0.0
+      },
+      "CONSERVATIVE": {
+        "avg_return": -0.006173530304396871,
+        "std_return": 2.796955301515081e-05,
+        "min_return": -0.006256346873615447,
+        "max_return": -0.006078468999536995,
+        "avg_trades": 3.0,
+        "trades_per_month": 3.0,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.026794220099712048,
+        "profitable_pct": 0.0
+      },
+      "AGGRESSIVE_RARE": {
+        "avg_return": -0.003671675408648329,
+        "std_return": 5.834540465658246e-05,
+        "min_return": -0.0038346848021420027,
+        "max_return": -0.003475966360284891,
+        "avg_trades": 3.0,
+        "trades_per_month": 3.0,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.053178400300167294,
+        "profitable_pct": 0.0
+      },
+      "TREND_FOLLOW": {
+        "avg_return": 0.12250928518612045,
+        "std_return": 0.0002685338245694336,
+        "min_return": 0.12162209912600436,
+        "max_return": 0.12350234188234784,
+        "avg_trades": 5.0,
+        "trades_per_month": 5.0,
+        "avg_win_rate": 0.8000000000000002,
+        "avg_fees": 0.09543622914438393,
+        "profitable_pct": 100.0
+      },
+      "HIGH_RESERVE": {
+        "avg_return": -0.007736395260560881,
+        "std_return": 3.490393890284525e-05,
+        "min_return": -0.007839618891915734,
+        "max_return": -0.007617598466744842,
+        "avg_trades": 3.0,
+        "trades_per_month": 3.0,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.03342861733366327,
+        "profitable_pct": 0.0
+      },
+      "SAFE_3x": {
+        "avg_return": -0.00930699260231034,
+        "std_return": 4.1815576661956486e-05,
+        "min_return": -0.009430505254697815,
+        "max_return": -0.009164472768695949,
+        "avg_trades": 3.0,
+        "trades_per_month": 3.0,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.040037422696598116,
+        "profitable_pct": 0.0
+      },
+      "ULTRA_RARE": {
+        "avg_return": 0.02960477361575551,
+        "std_return": 0.00022093110477817223,
+        "min_return": 0.028866881944700065,
+        "max_return": 0.030277552513371497,
+        "avg_trades": 5.0,
+        "trades_per_month": 5.0,
+        "avg_win_rate": 0.5999999999999998,
+        "avg_fees": 0.14697502216618563,
+        "profitable_pct": 100.0
+      }
+    },
+    "MIXED": {
+      "BASE_2.5%": {
+        "avg_return": 0.024962056688330236,
+        "std_return": 0.000245407342739715,
+        "min_return": 0.024206059970614053,
+        "max_return": 0.02569569080710323,
+        "avg_trades": 5.0,
+        "trades_per_month": 5.0,
+        "avg_win_rate": 0.5999999999999998,
+        "avg_fees": 0.1189764506957361,
+        "profitable_pct": 100.0
+      },
+      "HIGH_4%": {
+        "avg_return": 0.05602256192900877,
+        "std_return": 0.035413593515219215,
+        "min_return": -0.10370914096691554,
+        "max_return": 0.06495895866183161,
+        "avg_trades": 4.05,
+        "trades_per_month": 4.05,
+        "avg_win_rate": 0.7325,
+        "avg_fees": 0.08249276021346791,
+        "profitable_pct": 95.0
+      },
+      "CONSERVATIVE": {
+        "avg_return": -0.0014108514092719805,
+        "std_return": 4.049858781997908e-05,
+        "min_return": -0.0015277657290585012,
+        "max_return": -0.0012766564583290574,
+        "avg_trades": 4.0,
+        "trades_per_month": 4.0,
+        "avg_win_rate": 0.5,
+        "avg_fees": 0.035566058617460185,
+        "profitable_pct": 0.0
+      },
+      "AGGRESSIVE_RARE": {
+        "avg_return": 0.14754854321126842,
+        "std_return": 0.0003977397280724738,
+        "min_return": 0.14640124737819898,
+        "max_return": 0.14892331936059955,
+        "avg_trades": 5.0,
+        "trades_per_month": 5.0,
+        "avg_win_rate": 0.8000000000000002,
+        "avg_fees": 0.12773938399036935,
+        "profitable_pct": 100.0
+      },
+      "TREND_FOLLOW": {
+        "avg_return": -0.06473241139339629,
+        "std_return": 0.058905735926223814,
+        "min_return": -0.08633789157658346,
+        "max_return": 0.11074040468522772,
+        "avg_trades": 6.796,
+        "trades_per_month": 6.796,
+        "avg_win_rate": 0.594742857142857,
+        "avg_fees": 0.14107044374630323,
+        "profitable_pct": 10.2
+      },
+      "HIGH_RESERVE": {
+        "avg_return": 0.021079775225117534,
+        "std_return": 0.00020421967045954038,
+        "min_return": 0.020451911845099743,
+        "max_return": 0.021687861169125237,
+        "avg_trades": 5.0,
+        "trades_per_month": 5.0,
+        "avg_win_rate": 0.5999999999999998,
+        "avg_fees": 0.09949845705515815,
+        "profitable_pct": 100.0
+      },
+      "SAFE_3x": {
+        "avg_return": 0.026149214298318582,
+        "std_return": 0.015132517694835163,
+        "min_return": 0.020600277582660358,
+        "max_return": 0.07159067805141679,
+        "avg_trades": 5.102,
+        "trades_per_month": 5.102,
+        "avg_win_rate": 0.6237999999999998,
+        "avg_fees": 0.09312126612194337,
+        "profitable_pct": 100.0
+      },
+      "ULTRA_RARE": {
+        "avg_return": -0.08204355793779929,
+        "std_return": 0.00022633054141721795,
+        "min_return": -0.08273558839783239,
+        "max_return": -0.08135532444702695,
+        "avg_trades": 5.0,
+        "trades_per_month": 5.0,
+        "avg_win_rate": 0.4000000000000001,
+        "avg_fees": 0.12025916132976201,
+        "profitable_pct": 0.0
+      }
+    }
+  },
+  "90d_6h": {
+    "BULL": {
+      "BASE_2.5%": {
+        "avg_return": 0.07237857565165123,
+        "std_return": 0.00024096585295773536,
+        "min_return": 0.07159987288338528,
+        "max_return": 0.07317283155248674,
+        "avg_trades": 3.0,
+        "trades_per_month": 1.0,
+        "avg_win_rate": 1.0,
+        "avg_fees": 0.06864884231461982,
+        "profitable_pct": 100.0
+      },
+      "HIGH_4%": {
+        "avg_return": 0.0070011429814605276,
+        "std_return": 0.00020752196745792338,
+        "min_return": 0.00640910221884667,
+        "max_return": 0.0075960441687472745,
+        "avg_trades": 3.0,
+        "trades_per_month": 1.0,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.11746700863149065,
+        "profitable_pct": 100.0
+      },
+      "CONSERVATIVE": {
+        "avg_return": 0.05887933447781104,
+        "std_return": 0.0001769462891279764,
+        "min_return": 0.05828120872274572,
+        "max_return": 0.05951022557447762,
+        "avg_trades": 4.0,
+        "trades_per_month": 1.3333333333333333,
+        "avg_win_rate": 1.0,
+        "avg_fees": 0.05501609920688801,
+        "profitable_pct": 100.0
+      },
+      "AGGRESSIVE_RARE": {
+        "avg_return": -0.10653509707440881,
+        "std_return": 0.0002828181624695803,
+        "min_return": -0.10746826591068213,
+        "max_return": -0.10571959143827674,
+        "avg_trades": 3.0,
+        "trades_per_month": 1.0,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.12275385218918777,
+        "profitable_pct": 0.0
+      },
+      "TREND_FOLLOW": {
+        "avg_return": 0.04496735878879447,
+        "std_return": 0.016646670658738188,
+        "min_return": -0.0944704584824901,
+        "max_return": 0.049146966083085504,
+        "avg_trades": 5.927,
+        "trades_per_month": 1.9756666666666665,
+        "avg_win_rate": 0.6594869047619047,
+        "avg_fees": 0.1328120125933331,
+        "profitable_pct": 98.7
+      },
+      "HIGH_RESERVE": {
+        "avg_return": 0.06016906943542335,
+        "std_return": 0.00019997296204393389,
+        "min_return": 0.059523104275527886,
+        "max_return": 0.0608287778337846,
+        "avg_trades": 3.0,
+        "trades_per_month": 1.0,
+        "avg_win_rate": 1.0,
+        "avg_fees": 0.05704715273933372,
+        "profitable_pct": 100.0
+      },
+      "SAFE_3x": {
+        "avg_return": 0.06702014293636262,
+        "std_return": 0.00018721015220599734,
+        "min_return": 0.06640060422441328,
+        "max_return": 0.06766797007680186,
+        "avg_trades": 4.0,
+        "trades_per_month": 1.3333333333333333,
+        "avg_win_rate": 1.0,
+        "avg_fees": 0.06904302629803945,
+        "profitable_pct": 100.0
+      },
+      "ULTRA_RARE": {
+        "avg_return": -0.06472315641935933,
+        "std_return": 0.00030112445601690035,
+        "min_return": -0.06559341318290421,
+        "max_return": -0.06372130315035066,
+        "avg_trades": 2.0,
+        "trades_per_month": 0.6666666666666666,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.07970972144331634,
+        "profitable_pct": 0.0
+      }
+    },
+    "BEAR": {
+      "BASE_2.5%": {
+        "avg_return": 0.0024128957476329174,
+        "std_return": 0.06224265270048023,
+        "min_return": -0.05908197918888978,
+        "max_return": 0.0668460805339843,
+        "avg_trades": 5.743,
+        "trades_per_month": 1.9143333333333334,
+        "avg_win_rate": 0.666892857142857,
+        "avg_fees": 0.1187007589485301,
+        "profitable_pct": 48.699999999999996
+      },
+      "HIGH_4%": {
+        "avg_return": -0.04499359824843055,
+        "std_return": 0.00023157052764770543,
+        "min_return": -0.04569832267289561,
+        "max_return": -0.04430640937312243,
+        "avg_trades": 6.0,
+        "trades_per_month": 2.0,
+        "avg_win_rate": 0.5,
+        "avg_fees": 0.1363771793230699,
+        "profitable_pct": 0.0
+      },
+      "CONSERVATIVE": {
+        "avg_return": -0.004718619375082466,
+        "std_return": 2.801641817369924e-05,
+        "min_return": -0.004801247909011484,
+        "max_return": -0.004622972765139745,
+        "avg_trades": 3.0,
+        "trades_per_month": 1.0,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.026836930287873654,
+        "profitable_pct": 0.0
+      },
+      "AGGRESSIVE_RARE": {
+        "avg_return": 0.022363820897381804,
+        "std_return": 8.526374438348854e-05,
+        "min_return": 0.022107245510021394,
+        "max_return": 0.022616569706072863,
+        "avg_trades": 4.0,
+        "trades_per_month": 1.3333333333333333,
+        "avg_win_rate": 0.5,
+        "avg_fees": 0.07096810673202414,
+        "profitable_pct": 100.0
+      },
+      "TREND_FOLLOW": {
+        "avg_return": 0.07464189229001938,
+        "std_return": 0.0002611380553421401,
+        "min_return": 0.07366196611794218,
+        "max_return": 0.07558025931297796,
+        "avg_trades": 6.0,
+        "trades_per_month": 2.0,
+        "avg_win_rate": 0.5,
+        "avg_fees": 0.11013554034931175,
+        "profitable_pct": 100.0
+      },
+      "HIGH_RESERVE": {
+        "avg_return": 0.0020210494491058905,
+        "std_return": 0.051807900581464214,
+        "min_return": -0.049170113510274026,
+        "max_return": 0.05567400512735541,
+        "avg_trades": 5.743,
+        "trades_per_month": 1.9143333333333334,
+        "avg_win_rate": 0.666892857142857,
+        "avg_fees": 0.09887681323374091,
+        "profitable_pct": 48.699999999999996
+      },
+      "SAFE_3x": {
+        "avg_return": 0.023737202147251245,
+        "std_return": 0.04430212520555026,
+        "min_return": -0.02004280686983331,
+        "max_return": 0.06956343138349495,
+        "avg_trades": 6.513,
+        "trades_per_month": 2.171,
+        "avg_win_rate": 0.6989761904761904,
+        "avg_fees": 0.10936069954412492,
+        "profitable_pct": 48.699999999999996
+      },
+      "ULTRA_RARE": {
+        "avg_return": 0.08724239413953057,
+        "std_return": 0.0003091153686499788,
+        "min_return": 0.08636767248553251,
+        "max_return": 0.08809147966421865,
+        "avg_trades": 2.0,
+        "trades_per_month": 0.6666666666666666,
+        "avg_win_rate": 0.5,
+        "avg_fees": 0.07966877973813231,
+        "profitable_pct": 100.0
+      }
+    },
+    "SIDEWAYS": {
+      "BASE_2.5%": {
+        "avg_return": -0.007621510055939336,
+        "std_return": 0.0009644829960715818,
+        "min_return": -0.008364367695834669,
+        "max_return": 0.005377130910446794,
+        "avg_trades": 2.018,
+        "trades_per_month": 0.6726666666666666,
+        "avg_win_rate": 0.5006,
+        "avg_fees": 0.0791421978874292,
+        "profitable_pct": 0.6
+      },
+      "HIGH_4%": {
+        "avg_return": -0.05200689522198735,
+        "std_return": 0.00022275687377690603,
+        "min_return": -0.05265245134877148,
+        "max_return": -0.05129744470582826,
+        "avg_trades": 1.0,
+        "trades_per_month": 0.3333333333333333,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.04049999999999999,
+        "profitable_pct": 0.0
+      },
+      "CONSERVATIVE": {
+        "avg_return": -0.004100802260346801,
+        "std_return": 0.0005197073773665152,
+        "min_return": -0.0045805632763474095,
+        "max_return": 0.0027202827412194587,
+        "avg_trades": 3.006,
+        "trades_per_month": 1.002,
+        "avg_win_rate": 0.33433333333333326,
+        "avg_fees": 0.07970874195821444,
+        "profitable_pct": 0.6
+      },
+      "AGGRESSIVE_RARE": {
+        "avg_return": 0.028058910733218288,
+        "std_return": 0.0014625306216332554,
+        "min_return": 0.027062938288486483,
+        "max_return": 0.0502572111620547,
+        "avg_trades": 2.012,
+        "trades_per_month": 0.6706666666666666,
+        "avg_win_rate": 0.5,
+        "avg_fees": 0.1044744824815401,
+        "profitable_pct": 100.0
+      },
+      "TREND_FOLLOW": {
+        "avg_return": 0.11039621944740557,
+        "std_return": 0.0014701271593188733,
+        "min_return": 0.1096661938181516,
+        "max_return": 0.13157834764029946,
+        "avg_trades": 3.006,
+        "trades_per_month": 1.002,
+        "avg_win_rate": 1.0,
+        "avg_fees": 0.06758393872077954,
+        "profitable_pct": 100.0
+      },
+      "HIGH_RESERVE": {
+        "avg_return": -0.0038230493477495824,
+        "std_return": 0.0006416175150169461,
+        "min_return": -0.004416069963817979,
+        "max_return": 0.00483591176123582,
+        "avg_trades": 4.006,
+        "trades_per_month": 1.3353333333333335,
+        "avg_win_rate": 0.5006,
+        "avg_fees": 0.08855522247393693,
+        "profitable_pct": 0.6
+      },
+      "SAFE_3x": {
+        "avg_return": -0.015146047240904776,
+        "std_return": 0.0045493787023876235,
+        "min_return": -0.01710475526376039,
+        "max_return": 0.008705851275733683,
+        "avg_trades": 4.006,
+        "trades_per_month": 1.3353333333333335,
+        "avg_win_rate": 0.27435,
+        "avg_fees": 0.08014559032832518,
+        "profitable_pct": 0.1
+      },
+      "ULTRA_RARE": {
+        "avg_return": -0.10155886858626233,
+        "std_return": 0.0002087506338373938,
+        "min_return": -0.10234882399124805,
+        "max_return": -0.10068393844724918,
+        "avg_trades": 3.0,
+        "trades_per_month": 1.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.11728268839235363,
+        "profitable_pct": 0.0
+      }
+    },
+    "CRASH": {
+      "BASE_2.5%": {
+        "avg_return": -0.0021986762511424854,
+        "std_return": 0.041406490793741625,
+        "min_return": -0.012575965508025888,
+        "max_return": 0.17641917144386943,
+        "avg_trades": 3.156,
+        "trades_per_month": 1.052,
+        "avg_win_rate": 0.3593333333333333,
+        "avg_fees": 0.09631688524732704,
+        "profitable_pct": 5.2
+      },
+      "HIGH_4%": {
+        "avg_return": 0.05234585974993231,
+        "std_return": 8.008955683023977e-05,
+        "min_return": 0.05209221965892576,
+        "max_return": 0.05262035603703017,
+        "avg_trades": 2.0,
+        "trades_per_month": 0.6666666666666666,
+        "avg_win_rate": 1.0,
+        "avg_fees": 0.027,
+        "profitable_pct": 100.0
+      },
+      "CONSERVATIVE": {
+        "avg_return": 0.01036434035936783,
+        "std_return": 0.02342960972225413,
+        "min_return": 0.004445205105820567,
+        "max_return": 0.11089544304710841,
+        "avg_trades": 3.156,
+        "trades_per_month": 1.052,
+        "avg_win_rate": 0.3506666666666666,
+        "avg_fees": 0.06471090892679938,
+        "profitable_pct": 100.0
+      },
+      "AGGRESSIVE_RARE": {
+        "avg_return": 0.04593464221155804,
+        "std_return": 0.00029653736161806225,
+        "min_return": 0.045031583694345914,
+        "max_return": 0.04684227386767986,
+        "avg_trades": 2.0,
+        "trades_per_month": 0.6666666666666666,
+        "avg_win_rate": 0.5,
+        "avg_fees": 0.10490999262522709,
+        "profitable_pct": 100.0
+      },
+      "TREND_FOLLOW": {
+        "avg_return": 0.13666178383488972,
+        "std_return": 0.0019295445681518145,
+        "min_return": 0.13557452152884064,
+        "max_return": 0.14537940775015368,
+        "avg_trades": 4.0,
+        "trades_per_month": 1.3333333333333333,
+        "avg_win_rate": 0.5,
+        "avg_fees": 0.08246802629616007,
+        "profitable_pct": 100.0
+      },
+      "HIGH_RESERVE": {
+        "avg_return": -0.0016406657846578447,
+        "std_return": 0.03435879993645257,
+        "min_return": -0.010255214487162524,
+        "max_return": 0.14655130567896058,
+        "avg_trades": 3.156,
+        "trades_per_month": 1.052,
+        "avg_win_rate": 0.3593333333333333,
+        "avg_fees": 0.08050245193849781,
+        "profitable_pct": 5.2
+      },
+      "SAFE_3x": {
+        "avg_return": 0.006830617470561915,
+        "std_return": 0.023317186080648658,
+        "min_return": 0.0009150162536199483,
+        "max_return": 0.10681239090874764,
+        "avg_trades": 3.156,
+        "trades_per_month": 1.052,
+        "avg_win_rate": 0.3506666666666666,
+        "avg_fees": 0.0698012719588699,
+        "profitable_pct": 100.0
+      },
+      "ULTRA_RARE": {
+        "avg_return": 0.05234585974993231,
+        "std_return": 8.008955683023977e-05,
+        "min_return": 0.05209221965892576,
+        "max_return": 0.05262035603703017,
+        "avg_trades": 2.0,
+        "trades_per_month": 0.6666666666666666,
+        "avg_win_rate": 1.0,
+        "avg_fees": 0.027,
+        "profitable_pct": 100.0
+      }
+    },
+    "RECOVERY": {
+      "BASE_2.5%": {
+        "avg_return": -0.00930699260231034,
+        "std_return": 4.1815576661956486e-05,
+        "min_return": -0.009430505254697815,
+        "max_return": -0.009164472768695949,
+        "avg_trades": 3.0,
+        "trades_per_month": 1.0,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.040037422696598116,
+        "profitable_pct": 0.0
+      },
+      "HIGH_4%": {
+        "avg_return": 0.05727143785338905,
+        "std_return": 0.00010314587062926885,
+        "min_return": 0.056992493859311634,
+        "max_return": 0.05763026143347436,
+        "avg_trades": 5.0,
+        "trades_per_month": 1.6666666666666667,
+        "avg_win_rate": 0.8000000000000002,
+        "avg_fees": 0.06798930888305917,
+        "profitable_pct": 100.0
+      },
+      "CONSERVATIVE": {
+        "avg_return": -0.006173530304396871,
+        "std_return": 2.796955301515081e-05,
+        "min_return": -0.006256346873615447,
+        "max_return": -0.006078468999536995,
+        "avg_trades": 3.0,
+        "trades_per_month": 1.0,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.026794220099712048,
+        "profitable_pct": 0.0
+      },
+      "AGGRESSIVE_RARE": {
+        "avg_return": -0.003671675408648329,
+        "std_return": 5.834540465658246e-05,
+        "min_return": -0.0038346848021420027,
+        "max_return": -0.003475966360284891,
+        "avg_trades": 3.0,
+        "trades_per_month": 1.0,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.053178400300167294,
+        "profitable_pct": 0.0
+      },
+      "TREND_FOLLOW": {
+        "avg_return": 0.06646144325549633,
+        "std_return": 0.0002381136035251663,
+        "min_return": 0.06553927743536482,
+        "max_return": 0.0671362237348516,
+        "avg_trades": 4.0,
+        "trades_per_month": 1.3333333333333333,
+        "avg_win_rate": 0.5,
+        "avg_fees": 0.08080352516670729,
+        "profitable_pct": 100.0
+      },
+      "HIGH_RESERVE": {
+        "avg_return": -0.007736395260560881,
+        "std_return": 3.490393890284525e-05,
+        "min_return": -0.007839618891915734,
+        "max_return": -0.007617598466744842,
+        "avg_trades": 3.0,
+        "trades_per_month": 1.0,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.03342861733366327,
+        "profitable_pct": 0.0
+      },
+      "SAFE_3x": {
+        "avg_return": -0.00930699260231034,
+        "std_return": 4.1815576661956486e-05,
+        "min_return": -0.009430505254697815,
+        "max_return": -0.009164472768695949,
+        "avg_trades": 3.0,
+        "trades_per_month": 1.0,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.040037422696598116,
+        "profitable_pct": 0.0
+      },
+      "ULTRA_RARE": {
+        "avg_return": -0.04744261605548586,
+        "std_return": 0.0002528230624025025,
+        "min_return": -0.04825220120741922,
+        "max_return": -0.04668940433604841,
+        "avg_trades": 6.0,
+        "trades_per_month": 2.0,
+        "avg_win_rate": 0.5,
+        "avg_fees": 0.1373423929757543,
+        "profitable_pct": 0.0
+      }
+    },
+    "MIXED": {
+      "BASE_2.5%": {
+        "avg_return": 0.06373517595670267,
+        "std_return": 0.005518779410491135,
+        "min_return": 0.05856796939966746,
+        "max_return": 0.07106328101551583,
+        "avg_trades": 2.406,
+        "trades_per_month": 0.802,
+        "avg_win_rate": 1.0,
+        "avg_fees": 0.06013030338542057,
+        "profitable_pct": 100.0
+      },
+      "HIGH_4%": {
+        "avg_return": 0.0038156309240690504,
+        "std_return": 0.00020725711647431413,
+        "min_return": 0.003224723748196349,
+        "max_return": 0.0044101500722763375,
+        "avg_trades": 3.0,
+        "trades_per_month": 1.0,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.11737064126345126,
+        "profitable_pct": 100.0
+      },
+      "CONSERVATIVE": {
+        "avg_return": 0.026759478727547106,
+        "std_return": 0.011324770192094989,
+        "min_return": 0.01978616885169913,
+        "max_return": 0.058267143218729035,
+        "avg_trades": 4.314,
+        "trades_per_month": 1.438,
+        "avg_win_rate": 0.7912333333333333,
+        "avg_fees": 0.0752107959647762,
+        "profitable_pct": 100.0
+      },
+      "AGGRESSIVE_RARE": {
+        "avg_return": -0.11091512612647068,
+        "std_return": 0.0002735133213906334,
+        "min_return": -0.11182496232909386,
+        "max_return": -0.11012864341280287,
+        "avg_trades": 4.0,
+        "trades_per_month": 1.3333333333333333,
+        "avg_win_rate": 0.25,
+        "avg_fees": 0.17540586171861713,
+        "profitable_pct": 0.0
+      },
+      "TREND_FOLLOW": {
+        "avg_return": 0.10612474280933136,
+        "std_return": 0.005355255441275558,
+        "min_return": 0.08838127529378653,
+        "max_return": 0.1104696333858838,
+        "avg_trades": 7.906,
+        "trades_per_month": 2.635333333333333,
+        "avg_win_rate": 0.6199642857142856,
+        "avg_fees": 0.1604300340377115,
+        "profitable_pct": 100.0
+      },
+      "HIGH_RESERVE": {
+        "avg_return": 0.040506857244193555,
+        "std_return": 0.02303419593139544,
+        "min_return": 0.020587124774786313,
+        "max_return": 0.06895145269257247,
+        "avg_trades": 4.0,
+        "trades_per_month": 1.3333333333333333,
+        "avg_win_rate": 0.8515,
+        "avg_fees": 0.08305512053418752,
+        "profitable_pct": 100.0
+      },
+      "SAFE_3x": {
+        "avg_return": 0.04362290664943563,
+        "std_return": 0.01865602345975197,
+        "min_return": 0.027521089923191654,
+        "max_return": 0.06673975591478837,
+        "avg_trades": 4.0,
+        "trades_per_month": 1.3333333333333333,
+        "avg_win_rate": 0.8515,
+        "avg_fees": 0.07757069066090007,
+        "profitable_pct": 100.0
+      },
+      "ULTRA_RARE": {
+        "avg_return": -0.07764962889738308,
+        "std_return": 0.00021670367385587686,
+        "min_return": -0.07832605943390017,
+        "max_return": -0.07690779837213407,
+        "avg_trades": 4.0,
+        "trades_per_month": 1.3333333333333333,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.07914577801703246,
+        "profitable_pct": 0.0
+      }
+    }
+  },
+  "180d_6h": {
+    "BULL": {
+      "BASE_2.5%": {
+        "avg_return": 0.07237857565165123,
+        "std_return": 0.00024096585295773536,
+        "min_return": 0.07159987288338528,
+        "max_return": 0.07317283155248674,
+        "avg_trades": 3.0,
+        "trades_per_month": 0.5,
+        "avg_win_rate": 1.0,
+        "avg_fees": 0.06864884231461982,
+        "profitable_pct": 100.0
+      },
+      "HIGH_4%": {
+        "avg_return": 0.0070011429814605276,
+        "std_return": 0.00020752196745792338,
+        "min_return": 0.00640910221884667,
+        "max_return": 0.0075960441687472745,
+        "avg_trades": 3.0,
+        "trades_per_month": 0.5,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.11746700863149065,
+        "profitable_pct": 100.0
+      },
+      "CONSERVATIVE": {
+        "avg_return": 0.05887933447781104,
+        "std_return": 0.0001769462891279764,
+        "min_return": 0.05828120872274572,
+        "max_return": 0.05951022557447762,
+        "avg_trades": 4.0,
+        "trades_per_month": 0.6666666666666666,
+        "avg_win_rate": 1.0,
+        "avg_fees": 0.05501609920688801,
+        "profitable_pct": 100.0
+      },
+      "AGGRESSIVE_RARE": {
+        "avg_return": -0.10653509707440881,
+        "std_return": 0.0002828181624695803,
+        "min_return": -0.10746826591068213,
+        "max_return": -0.10571959143827674,
+        "avg_trades": 3.0,
+        "trades_per_month": 0.5,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.12275385218918777,
+        "profitable_pct": 0.0
+      },
+      "TREND_FOLLOW": {
+        "avg_return": 0.04496735878879447,
+        "std_return": 0.016646670658738188,
+        "min_return": -0.0944704584824901,
+        "max_return": 0.049146966083085504,
+        "avg_trades": 5.927,
+        "trades_per_month": 0.9878333333333332,
+        "avg_win_rate": 0.6594869047619047,
+        "avg_fees": 0.1328120125933331,
+        "profitable_pct": 98.7
+      },
+      "HIGH_RESERVE": {
+        "avg_return": 0.06016906943542335,
+        "std_return": 0.00019997296204393389,
+        "min_return": 0.059523104275527886,
+        "max_return": 0.0608287778337846,
+        "avg_trades": 3.0,
+        "trades_per_month": 0.5,
+        "avg_win_rate": 1.0,
+        "avg_fees": 0.05704715273933372,
+        "profitable_pct": 100.0
+      },
+      "SAFE_3x": {
+        "avg_return": 0.06702014293636262,
+        "std_return": 0.00018721015220599734,
+        "min_return": 0.06640060422441328,
+        "max_return": 0.06766797007680186,
+        "avg_trades": 4.0,
+        "trades_per_month": 0.6666666666666666,
+        "avg_win_rate": 1.0,
+        "avg_fees": 0.06904302629803945,
+        "profitable_pct": 100.0
+      },
+      "ULTRA_RARE": {
+        "avg_return": -0.06472315641935933,
+        "std_return": 0.00030112445601690035,
+        "min_return": -0.06559341318290421,
+        "max_return": -0.06372130315035066,
+        "avg_trades": 2.0,
+        "trades_per_month": 0.3333333333333333,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.07970972144331634,
+        "profitable_pct": 0.0
+      }
+    },
+    "BEAR": {
+      "BASE_2.5%": {
+        "avg_return": 0.0024128957476329174,
+        "std_return": 0.06224265270048023,
+        "min_return": -0.05908197918888978,
+        "max_return": 0.0668460805339843,
+        "avg_trades": 5.743,
+        "trades_per_month": 0.9571666666666667,
+        "avg_win_rate": 0.666892857142857,
+        "avg_fees": 0.1187007589485301,
+        "profitable_pct": 48.699999999999996
+      },
+      "HIGH_4%": {
+        "avg_return": -0.04499359824843055,
+        "std_return": 0.00023157052764770543,
+        "min_return": -0.04569832267289561,
+        "max_return": -0.04430640937312243,
+        "avg_trades": 6.0,
+        "trades_per_month": 1.0,
+        "avg_win_rate": 0.5,
+        "avg_fees": 0.1363771793230699,
+        "profitable_pct": 0.0
+      },
+      "CONSERVATIVE": {
+        "avg_return": -0.004718619375082466,
+        "std_return": 2.801641817369924e-05,
+        "min_return": -0.004801247909011484,
+        "max_return": -0.004622972765139745,
+        "avg_trades": 3.0,
+        "trades_per_month": 0.5,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.026836930287873654,
+        "profitable_pct": 0.0
+      },
+      "AGGRESSIVE_RARE": {
+        "avg_return": 0.022363820897381804,
+        "std_return": 8.526374438348854e-05,
+        "min_return": 0.022107245510021394,
+        "max_return": 0.022616569706072863,
+        "avg_trades": 4.0,
+        "trades_per_month": 0.6666666666666666,
+        "avg_win_rate": 0.5,
+        "avg_fees": 0.07096810673202414,
+        "profitable_pct": 100.0
+      },
+      "TREND_FOLLOW": {
+        "avg_return": 0.07464189229001938,
+        "std_return": 0.0002611380553421401,
+        "min_return": 0.07366196611794218,
+        "max_return": 0.07558025931297796,
+        "avg_trades": 6.0,
+        "trades_per_month": 1.0,
+        "avg_win_rate": 0.5,
+        "avg_fees": 0.11013554034931175,
+        "profitable_pct": 100.0
+      },
+      "HIGH_RESERVE": {
+        "avg_return": 0.0020210494491058905,
+        "std_return": 0.051807900581464214,
+        "min_return": -0.049170113510274026,
+        "max_return": 0.05567400512735541,
+        "avg_trades": 5.743,
+        "trades_per_month": 0.9571666666666667,
+        "avg_win_rate": 0.666892857142857,
+        "avg_fees": 0.09887681323374091,
+        "profitable_pct": 48.699999999999996
+      },
+      "SAFE_3x": {
+        "avg_return": 0.023737202147251245,
+        "std_return": 0.04430212520555026,
+        "min_return": -0.02004280686983331,
+        "max_return": 0.06956343138349495,
+        "avg_trades": 6.513,
+        "trades_per_month": 1.0855,
+        "avg_win_rate": 0.6989761904761904,
+        "avg_fees": 0.10936069954412492,
+        "profitable_pct": 48.699999999999996
+      },
+      "ULTRA_RARE": {
+        "avg_return": 0.08724239413953057,
+        "std_return": 0.0003091153686499788,
+        "min_return": 0.08636767248553251,
+        "max_return": 0.08809147966421865,
+        "avg_trades": 2.0,
+        "trades_per_month": 0.3333333333333333,
+        "avg_win_rate": 0.5,
+        "avg_fees": 0.07966877973813231,
+        "profitable_pct": 100.0
+      }
+    },
+    "SIDEWAYS": {
+      "BASE_2.5%": {
+        "avg_return": -0.007621510055939336,
+        "std_return": 0.0009644829960715818,
+        "min_return": -0.008364367695834669,
+        "max_return": 0.005377130910446794,
+        "avg_trades": 2.018,
+        "trades_per_month": 0.3363333333333333,
+        "avg_win_rate": 0.5006,
+        "avg_fees": 0.0791421978874292,
+        "profitable_pct": 0.6
+      },
+      "HIGH_4%": {
+        "avg_return": -0.05200689522198735,
+        "std_return": 0.00022275687377690603,
+        "min_return": -0.05265245134877148,
+        "max_return": -0.05129744470582826,
+        "avg_trades": 1.0,
+        "trades_per_month": 0.16666666666666666,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.04049999999999999,
+        "profitable_pct": 0.0
+      },
+      "CONSERVATIVE": {
+        "avg_return": -0.004100802260346801,
+        "std_return": 0.0005197073773665152,
+        "min_return": -0.0045805632763474095,
+        "max_return": 0.0027202827412194587,
+        "avg_trades": 3.006,
+        "trades_per_month": 0.501,
+        "avg_win_rate": 0.33433333333333326,
+        "avg_fees": 0.07970874195821444,
+        "profitable_pct": 0.6
+      },
+      "AGGRESSIVE_RARE": {
+        "avg_return": 0.028058910733218288,
+        "std_return": 0.0014625306216332554,
+        "min_return": 0.027062938288486483,
+        "max_return": 0.0502572111620547,
+        "avg_trades": 2.012,
+        "trades_per_month": 0.3353333333333333,
+        "avg_win_rate": 0.5,
+        "avg_fees": 0.1044744824815401,
+        "profitable_pct": 100.0
+      },
+      "TREND_FOLLOW": {
+        "avg_return": 0.11039621944740557,
+        "std_return": 0.0014701271593188733,
+        "min_return": 0.1096661938181516,
+        "max_return": 0.13157834764029946,
+        "avg_trades": 3.006,
+        "trades_per_month": 0.501,
+        "avg_win_rate": 1.0,
+        "avg_fees": 0.06758393872077954,
+        "profitable_pct": 100.0
+      },
+      "HIGH_RESERVE": {
+        "avg_return": -0.0038230493477495824,
+        "std_return": 0.0006416175150169461,
+        "min_return": -0.004416069963817979,
+        "max_return": 0.00483591176123582,
+        "avg_trades": 4.006,
+        "trades_per_month": 0.6676666666666667,
+        "avg_win_rate": 0.5006,
+        "avg_fees": 0.08855522247393693,
+        "profitable_pct": 0.6
+      },
+      "SAFE_3x": {
+        "avg_return": -0.015146047240904776,
+        "std_return": 0.0045493787023876235,
+        "min_return": -0.01710475526376039,
+        "max_return": 0.008705851275733683,
+        "avg_trades": 4.006,
+        "trades_per_month": 0.6676666666666667,
+        "avg_win_rate": 0.27435,
+        "avg_fees": 0.08014559032832518,
+        "profitable_pct": 0.1
+      },
+      "ULTRA_RARE": {
+        "avg_return": -0.10155886858626233,
+        "std_return": 0.0002087506338373938,
+        "min_return": -0.10234882399124805,
+        "max_return": -0.10068393844724918,
+        "avg_trades": 3.0,
+        "trades_per_month": 0.5,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.11728268839235363,
+        "profitable_pct": 0.0
+      }
+    },
+    "CRASH": {
+      "BASE_2.5%": {
+        "avg_return": -0.012486800502967868,
+        "std_return": 0.002532200965478794,
+        "min_return": -0.02420853817027478,
+        "max_return": -0.011132950804213048,
+        "avg_trades": 3.104,
+        "trades_per_month": 0.5173333333333333,
+        "avg_win_rate": 0.34719999999999995,
+        "avg_fees": 0.09551029779986402,
+        "profitable_pct": 0.0
+      },
+      "HIGH_4%": {
+        "avg_return": 0.015194745105010104,
+        "std_return": 0.00021348250528043495,
+        "min_return": 0.014483129093094741,
+        "max_return": 0.015892576535684193,
+        "avg_trades": 3.0,
+        "trades_per_month": 0.5,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.11728863827584537,
+        "profitable_pct": 100.0
+      },
+      "CONSERVATIVE": {
+        "avg_return": 0.0045887393711963945,
+        "std_return": 0.0012398149042050905,
+        "min_return": -0.0011685302781828948,
+        "max_return": 0.005345001550344743,
+        "avg_trades": 3.104,
+        "trades_per_month": 0.5173333333333333,
+        "avg_win_rate": 0.34719999999999995,
+        "avg_fees": 0.06419123271745303,
+        "profitable_pct": 94.8
+      },
+      "AGGRESSIVE_RARE": {
+        "avg_return": 0.04593464221155804,
+        "std_return": 0.00029653736161806225,
+        "min_return": 0.045031583694345914,
+        "max_return": 0.04684227386767986,
+        "avg_trades": 2.0,
+        "trades_per_month": 0.3333333333333333,
+        "avg_win_rate": 0.5,
+        "avg_fees": 0.10490999262522709,
+        "profitable_pct": 100.0
+      },
+      "TREND_FOLLOW": {
+        "avg_return": -0.010803056288127506,
+        "std_return": 0.006170748661886859,
+        "min_return": -0.013047615076947825,
+        "max_return": 0.017287910452451646,
+        "avg_trades": 6.104,
+        "trades_per_month": 1.0173333333333334,
+        "avg_win_rate": 0.6709999999999999,
+        "avg_fees": 0.15886282787075665,
+        "profitable_pct": 5.2
+      },
+      "HIGH_RESERVE": {
+        "avg_return": -0.010176659818587265,
+        "std_return": 0.0020969530833262664,
+        "min_return": -0.019891305218750023,
+        "max_return": -0.009052582637059837,
+        "avg_trades": 3.104,
+        "trades_per_month": 0.5173333333333333,
+        "avg_win_rate": 0.34719999999999995,
+        "avg_fees": 0.07984477675514899,
+        "profitable_pct": 0.0
+      },
+      "SAFE_3x": {
+        "avg_return": 0.0018469289595646966,
+        "std_return": 0.002913664011989768,
+        "min_return": 0.0009150162536199483,
+        "max_return": 0.036108128267892614,
+        "avg_trades": 3.11,
+        "trades_per_month": 0.5183333333333333,
+        "avg_win_rate": 0.3475999999999999,
+        "avg_fees": 0.06919727044665147,
+        "profitable_pct": 100.0
+      },
+      "ULTRA_RARE": {
+        "avg_return": 0.0858642204190646,
+        "std_return": 0.00025151822450721853,
+        "min_return": 0.08501251633509468,
+        "max_return": 0.08687803562439418,
+        "avg_trades": 3.0,
+        "trades_per_month": 0.5,
+        "avg_win_rate": 0.6666666666666665,
+        "avg_fees": 0.09399494723692017,
+        "profitable_pct": 100.0
+      }
+    },
+    "RECOVERY": {
+      "BASE_2.5%": {
+        "avg_return": -0.00930699260231034,
+        "std_return": 4.1815576661956486e-05,
+        "min_return": -0.009430505254697815,
+        "max_return": -0.009164472768695949,
+        "avg_trades": 3.0,
+        "trades_per_month": 0.5,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.040037422696598116,
+        "profitable_pct": 0.0
+      },
+      "HIGH_4%": {
+        "avg_return": 0.05727143785338905,
+        "std_return": 0.00010314587062926885,
+        "min_return": 0.056992493859311634,
+        "max_return": 0.05763026143347436,
+        "avg_trades": 5.0,
+        "trades_per_month": 0.8333333333333334,
+        "avg_win_rate": 0.8000000000000002,
+        "avg_fees": 0.06798930888305917,
+        "profitable_pct": 100.0
+      },
+      "CONSERVATIVE": {
+        "avg_return": -0.006173530304396871,
+        "std_return": 2.796955301515081e-05,
+        "min_return": -0.006256346873615447,
+        "max_return": -0.006078468999536995,
+        "avg_trades": 3.0,
+        "trades_per_month": 0.5,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.026794220099712048,
+        "profitable_pct": 0.0
+      },
+      "AGGRESSIVE_RARE": {
+        "avg_return": -0.003671675408648329,
+        "std_return": 5.834540465658246e-05,
+        "min_return": -0.0038346848021420027,
+        "max_return": -0.003475966360284891,
+        "avg_trades": 3.0,
+        "trades_per_month": 0.5,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.053178400300167294,
+        "profitable_pct": 0.0
+      },
+      "TREND_FOLLOW": {
+        "avg_return": 0.06646144325549633,
+        "std_return": 0.0002381136035251663,
+        "min_return": 0.06553927743536482,
+        "max_return": 0.0671362237348516,
+        "avg_trades": 4.0,
+        "trades_per_month": 0.6666666666666666,
+        "avg_win_rate": 0.5,
+        "avg_fees": 0.08080352516670729,
+        "profitable_pct": 100.0
+      },
+      "HIGH_RESERVE": {
+        "avg_return": -0.007736395260560881,
+        "std_return": 3.490393890284525e-05,
+        "min_return": -0.007839618891915734,
+        "max_return": -0.007617598466744842,
+        "avg_trades": 3.0,
+        "trades_per_month": 0.5,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.03342861733366327,
+        "profitable_pct": 0.0
+      },
+      "SAFE_3x": {
+        "avg_return": -0.00930699260231034,
+        "std_return": 4.1815576661956486e-05,
+        "min_return": -0.009430505254697815,
+        "max_return": -0.009164472768695949,
+        "avg_trades": 3.0,
+        "trades_per_month": 0.5,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.040037422696598116,
+        "profitable_pct": 0.0
+      },
+      "ULTRA_RARE": {
+        "avg_return": -0.04744261605548586,
+        "std_return": 0.0002528230624025025,
+        "min_return": -0.04825220120741922,
+        "max_return": -0.04668940433604841,
+        "avg_trades": 6.0,
+        "trades_per_month": 1.0,
+        "avg_win_rate": 0.5,
+        "avg_fees": 0.1373423929757543,
+        "profitable_pct": 0.0
+      }
+    },
+    "MIXED": {
+      "BASE_2.5%": {
+        "avg_return": 0.06373517595670267,
+        "std_return": 0.005518779410491135,
+        "min_return": 0.05856796939966746,
+        "max_return": 0.07106328101551583,
+        "avg_trades": 2.406,
+        "trades_per_month": 0.401,
+        "avg_win_rate": 1.0,
+        "avg_fees": 0.06013030338542057,
+        "profitable_pct": 100.0
+      },
+      "HIGH_4%": {
+        "avg_return": 0.0038156309240690504,
+        "std_return": 0.00020725711647431413,
+        "min_return": 0.003224723748196349,
+        "max_return": 0.0044101500722763375,
+        "avg_trades": 3.0,
+        "trades_per_month": 0.5,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.11737064126345126,
+        "profitable_pct": 100.0
+      },
+      "CONSERVATIVE": {
+        "avg_return": 0.026759478727547106,
+        "std_return": 0.011324770192094989,
+        "min_return": 0.01978616885169913,
+        "max_return": 0.058267143218729035,
+        "avg_trades": 4.314,
+        "trades_per_month": 0.719,
+        "avg_win_rate": 0.7912333333333333,
+        "avg_fees": 0.0752107959647762,
+        "profitable_pct": 100.0
+      },
+      "AGGRESSIVE_RARE": {
+        "avg_return": -0.11091512612647068,
+        "std_return": 0.0002735133213906334,
+        "min_return": -0.11182496232909386,
+        "max_return": -0.11012864341280287,
+        "avg_trades": 4.0,
+        "trades_per_month": 0.6666666666666666,
+        "avg_win_rate": 0.25,
+        "avg_fees": 0.17540586171861713,
+        "profitable_pct": 0.0
+      },
+      "TREND_FOLLOW": {
+        "avg_return": 0.02837671192002247,
+        "std_return": 0.07137848908220731,
+        "min_return": -0.06478996192835439,
+        "max_return": 0.08886036555915382,
+        "avg_trades": 6.768,
+        "trades_per_month": 1.128,
+        "avg_win_rate": 0.7526785714285715,
+        "avg_fees": 0.16499077900445436,
+        "profitable_pct": 63.800000000000004
+      },
+      "HIGH_RESERVE": {
+        "avg_return": 0.040506857244193555,
+        "std_return": 0.02303419593139544,
+        "min_return": 0.020587124774786313,
+        "max_return": 0.06895145269257247,
+        "avg_trades": 4.0,
+        "trades_per_month": 0.6666666666666666,
+        "avg_win_rate": 0.8515,
+        "avg_fees": 0.08305512053418752,
+        "profitable_pct": 100.0
+      },
+      "SAFE_3x": {
+        "avg_return": 0.04362290664943563,
+        "std_return": 0.01865602345975197,
+        "min_return": 0.027521089923191654,
+        "max_return": 0.06673975591478837,
+        "avg_trades": 4.0,
+        "trades_per_month": 0.6666666666666666,
+        "avg_win_rate": 0.8515,
+        "avg_fees": 0.07757069066090007,
+        "profitable_pct": 100.0
+      },
+      "ULTRA_RARE": {
+        "avg_return": -0.06648893101075475,
+        "std_return": 0.0003010193444537517,
+        "min_return": -0.06735888410563537,
+        "max_return": -0.06548742691116861,
+        "avg_trades": 2.0,
+        "trades_per_month": 0.3333333333333333,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.07967275022824062,
+        "profitable_pct": 0.0
+      }
+    }
+  },
+  "30d_1d": {
+    "BULL": {
+      "BASE_2.5%": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "HIGH_4%": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "CONSERVATIVE": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "AGGRESSIVE_RARE": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "TREND_FOLLOW": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "HIGH_RESERVE": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "SAFE_3x": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "ULTRA_RARE": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      }
+    },
+    "BEAR": {
+      "BASE_2.5%": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "HIGH_4%": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "CONSERVATIVE": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "AGGRESSIVE_RARE": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "TREND_FOLLOW": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "HIGH_RESERVE": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "SAFE_3x": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "ULTRA_RARE": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      }
+    },
+    "SIDEWAYS": {
+      "BASE_2.5%": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "HIGH_4%": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "CONSERVATIVE": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "AGGRESSIVE_RARE": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "TREND_FOLLOW": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "HIGH_RESERVE": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "SAFE_3x": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "ULTRA_RARE": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      }
+    },
+    "CRASH": {
+      "BASE_2.5%": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "HIGH_4%": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "CONSERVATIVE": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "AGGRESSIVE_RARE": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "TREND_FOLLOW": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "HIGH_RESERVE": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "SAFE_3x": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "ULTRA_RARE": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      }
+    },
+    "RECOVERY": {
+      "BASE_2.5%": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "HIGH_4%": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "CONSERVATIVE": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "AGGRESSIVE_RARE": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "TREND_FOLLOW": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "HIGH_RESERVE": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "SAFE_3x": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "ULTRA_RARE": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      }
+    },
+    "MIXED": {
+      "BASE_2.5%": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "HIGH_4%": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "CONSERVATIVE": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "AGGRESSIVE_RARE": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "TREND_FOLLOW": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "HIGH_RESERVE": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "SAFE_3x": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      },
+      "ULTRA_RARE": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      }
+    }
+  },
+  "90d_1d": {
+    "BULL": {
+      "BASE_2.5%": {
+        "avg_return": 0.07237857565165123,
+        "std_return": 0.00024096585295773536,
+        "min_return": 0.07159987288338528,
+        "max_return": 0.07317283155248674,
+        "avg_trades": 3.0,
+        "trades_per_month": 1.0,
+        "avg_win_rate": 1.0,
+        "avg_fees": 0.06864884231461982,
+        "profitable_pct": 100.0
+      },
+      "HIGH_4%": {
+        "avg_return": 0.0070011429814605276,
+        "std_return": 0.00020752196745792338,
+        "min_return": 0.00640910221884667,
+        "max_return": 0.0075960441687472745,
+        "avg_trades": 3.0,
+        "trades_per_month": 1.0,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.11746700863149065,
+        "profitable_pct": 100.0
+      },
+      "CONSERVATIVE": {
+        "avg_return": 0.05887933447781104,
+        "std_return": 0.0001769462891279764,
+        "min_return": 0.05828120872274572,
+        "max_return": 0.05951022557447762,
+        "avg_trades": 4.0,
+        "trades_per_month": 1.3333333333333333,
+        "avg_win_rate": 1.0,
+        "avg_fees": 0.05501609920688801,
+        "profitable_pct": 100.0
+      },
+      "AGGRESSIVE_RARE": {
+        "avg_return": -0.10653509707440881,
+        "std_return": 0.0002828181624695803,
+        "min_return": -0.10746826591068213,
+        "max_return": -0.10571959143827674,
+        "avg_trades": 3.0,
+        "trades_per_month": 1.0,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.12275385218918777,
+        "profitable_pct": 0.0
+      },
+      "TREND_FOLLOW": {
+        "avg_return": -0.0299788735799574,
+        "std_return": 0.00023386160999364032,
+        "min_return": -0.030851497681810353,
+        "max_return": -0.02926016167678123,
+        "avg_trades": 3.0,
+        "trades_per_month": 1.0,
+        "avg_win_rate": 0.6666666666666665,
+        "avg_fees": 0.08646850392441381,
+        "profitable_pct": 0.0
+      },
+      "HIGH_RESERVE": {
+        "avg_return": 0.06016906943542335,
+        "std_return": 0.00019997296204393389,
+        "min_return": 0.059523104275527886,
+        "max_return": 0.0608287778337846,
+        "avg_trades": 3.0,
+        "trades_per_month": 1.0,
+        "avg_win_rate": 1.0,
+        "avg_fees": 0.05704715273933372,
+        "profitable_pct": 100.0
+      },
+      "SAFE_3x": {
+        "avg_return": 0.06702014293636262,
+        "std_return": 0.00018721015220599734,
+        "min_return": 0.06640060422441328,
+        "max_return": 0.06766797007680186,
+        "avg_trades": 4.0,
+        "trades_per_month": 1.3333333333333333,
+        "avg_win_rate": 1.0,
+        "avg_fees": 0.06904302629803945,
+        "profitable_pct": 100.0
+      },
+      "ULTRA_RARE": {
+        "avg_return": -0.031858729794658314,
+        "std_return": 0.00021841457372975085,
+        "min_return": -0.032529103832003824,
+        "max_return": -0.031166921926661265,
+        "avg_trades": 1.0,
+        "trades_per_month": 0.3333333333333333,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.04049999999999999,
+        "profitable_pct": 0.0
+      }
+    },
+    "BEAR": {
+      "BASE_2.5%": {
+        "avg_return": 0.0024128957476329174,
+        "std_return": 0.06224265270048023,
+        "min_return": -0.05908197918888978,
+        "max_return": 0.0668460805339843,
+        "avg_trades": 5.743,
+        "trades_per_month": 1.9143333333333334,
+        "avg_win_rate": 0.666892857142857,
+        "avg_fees": 0.1187007589485301,
+        "profitable_pct": 48.699999999999996
+      },
+      "HIGH_4%": {
+        "avg_return": -0.04499359824843055,
+        "std_return": 0.00023157052764770543,
+        "min_return": -0.04569832267289561,
+        "max_return": -0.04430640937312243,
+        "avg_trades": 6.0,
+        "trades_per_month": 2.0,
+        "avg_win_rate": 0.5,
+        "avg_fees": 0.1363771793230699,
+        "profitable_pct": 0.0
+      },
+      "CONSERVATIVE": {
+        "avg_return": -0.004718619375082466,
+        "std_return": 2.801641817369924e-05,
+        "min_return": -0.004801247909011484,
+        "max_return": -0.004622972765139745,
+        "avg_trades": 3.0,
+        "trades_per_month": 1.0,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.026836930287873654,
+        "profitable_pct": 0.0
+      },
+      "AGGRESSIVE_RARE": {
+        "avg_return": 0.022363820897381804,
+        "std_return": 8.526374438348854e-05,
+        "min_return": 0.022107245510021394,
+        "max_return": 0.022616569706072863,
+        "avg_trades": 4.0,
+        "trades_per_month": 1.3333333333333333,
+        "avg_win_rate": 0.5,
+        "avg_fees": 0.07096810673202414,
+        "profitable_pct": 100.0
+      },
+      "TREND_FOLLOW": {
+        "avg_return": 0.09415581252683813,
+        "std_return": 0.0002493285365451583,
+        "min_return": 0.09325164856047252,
+        "max_return": 0.09502373071334148,
+        "avg_trades": 5.0,
+        "trades_per_month": 1.6666666666666667,
+        "avg_win_rate": 0.5999999999999998,
+        "avg_fees": 0.10274998861475561,
+        "profitable_pct": 100.0
+      },
+      "HIGH_RESERVE": {
+        "avg_return": 0.0020210494491058905,
+        "std_return": 0.051807900581464214,
+        "min_return": -0.049170113510274026,
+        "max_return": 0.05567400512735541,
+        "avg_trades": 5.743,
+        "trades_per_month": 1.9143333333333334,
+        "avg_win_rate": 0.666892857142857,
+        "avg_fees": 0.09887681323374091,
+        "profitable_pct": 48.699999999999996
+      },
+      "SAFE_3x": {
+        "avg_return": 0.023737202147251245,
+        "std_return": 0.04430212520555026,
+        "min_return": -0.02004280686983331,
+        "max_return": 0.06956343138349495,
+        "avg_trades": 6.513,
+        "trades_per_month": 2.171,
+        "avg_win_rate": 0.6989761904761904,
+        "avg_fees": 0.10936069954412492,
+        "profitable_pct": 48.699999999999996
+      },
+      "ULTRA_RARE": {
+        "avg_return": 0.08724239413953057,
+        "std_return": 0.0003091153686499788,
+        "min_return": 0.08636767248553251,
+        "max_return": 0.08809147966421865,
+        "avg_trades": 2.0,
+        "trades_per_month": 0.6666666666666666,
+        "avg_win_rate": 0.5,
+        "avg_fees": 0.07966877973813231,
+        "profitable_pct": 100.0
+      }
+    },
+    "SIDEWAYS": {
+      "BASE_2.5%": {
+        "avg_return": -0.007637735705921516,
+        "std_return": 0.0007621408344109622,
+        "min_return": -0.008364367695834669,
+        "max_return": 0.00258980542372683,
+        "avg_trades": 2.006,
+        "trades_per_month": 0.6686666666666666,
+        "avg_win_rate": 0.501,
+        "avg_fees": 0.07901975711770978,
+        "profitable_pct": 0.6
+      },
+      "HIGH_4%": {
+        "avg_return": -0.05200689522198735,
+        "std_return": 0.00022275687377690603,
+        "min_return": -0.05265245134877148,
+        "max_return": -0.05129744470582826,
+        "avg_trades": 1.0,
+        "trades_per_month": 0.3333333333333333,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.04049999999999999,
+        "profitable_pct": 0.0
+      },
+      "CONSERVATIVE": {
+        "avg_return": -0.004100802260346801,
+        "std_return": 0.0005197073773665152,
+        "min_return": -0.0045805632763474095,
+        "max_return": 0.0027202827412194587,
+        "avg_trades": 3.006,
+        "trades_per_month": 1.002,
+        "avg_win_rate": 0.33433333333333326,
+        "avg_fees": 0.07970874195821444,
+        "profitable_pct": 0.6
+      },
+      "AGGRESSIVE_RARE": {
+        "avg_return": -0.0691974049488444,
+        "std_return": 0.0019082769815106022,
+        "min_return": -0.07020326846502883,
+        "max_return": -0.041700330941837935,
+        "avg_trades": 1.006,
+        "trades_per_month": 0.3353333333333333,
+        "avg_win_rate": 0.003,
+        "avg_fees": 0.06253679452984925,
+        "profitable_pct": 0.0
+      },
+      "TREND_FOLLOW": {
+        "avg_return": 0.00010884151035406338,
+        "std_return": 0.0014035844605464198,
+        "min_return": 0.0,
+        "max_return": 0.020636898259988358,
+        "avg_trades": 0.006,
+        "trades_per_month": 0.002,
+        "avg_win_rate": 0.006,
+        "avg_fees": 0.013581734680194892,
+        "profitable_pct": 0.6
+      },
+      "HIGH_RESERVE": {
+        "avg_return": -0.006027060151424911,
+        "std_return": 0.0006358954188383456,
+        "min_return": -0.006633330212920138,
+        "max_return": 0.002505750427661345,
+        "avg_trades": 2.006,
+        "trades_per_month": 0.6686666666666666,
+        "avg_win_rate": 0.501,
+        "avg_fees": 0.07169901773621584,
+        "profitable_pct": 0.6
+      },
+      "SAFE_3x": {
+        "avg_return": -0.0039751205421086466,
+        "std_return": 0.0007593983398516551,
+        "min_return": -0.004436325743424732,
+        "max_return": 0.005989280314873137,
+        "avg_trades": 2.006,
+        "trades_per_month": 0.6686666666666666,
+        "avg_win_rate": 0.501,
+        "avg_fees": 0.05996473911219063,
+        "profitable_pct": 0.6
+      },
+      "ULTRA_RARE": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      }
+    },
+    "CRASH": {
+      "BASE_2.5%": {
+        "avg_return": 0.073977111285528,
+        "std_return": 0.002415017312117216,
+        "min_return": 0.06903484039158685,
+        "max_return": 0.0759898506527109,
+        "avg_trades": 6.0,
+        "trades_per_month": 2.0,
+        "avg_win_rate": 0.8333333333333335,
+        "avg_fees": 0.10949447290811372,
+        "profitable_pct": 100.0
+      },
+      "HIGH_4%": {
+        "avg_return": -0.08618145509310392,
+        "std_return": 0.00021481061976792563,
+        "min_return": -0.08680364313243748,
+        "max_return": -0.08552561887611944,
+        "avg_trades": 3.0,
+        "trades_per_month": 1.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.09229153042410779,
+        "profitable_pct": 0.0
+      },
+      "CONSERVATIVE": {
+        "avg_return": 0.06184958960240385,
+        "std_return": 0.00017445416936508909,
+        "min_return": 0.06129664521792411,
+        "max_return": 0.06242009496528055,
+        "avg_trades": 5.0,
+        "trades_per_month": 1.6666666666666667,
+        "avg_win_rate": 0.8000000000000002,
+        "avg_fees": 0.06355566999528843,
+        "profitable_pct": 100.0
+      },
+      "AGGRESSIVE_RARE": {
+        "avg_return": -0.011072084222724914,
+        "std_return": 0.00035782789478200236,
+        "min_return": -0.012279168113064808,
+        "max_return": -0.009967845034518632,
+        "avg_trades": 5.0,
+        "trades_per_month": 1.6666666666666667,
+        "avg_win_rate": 0.5999999999999998,
+        "avg_fees": 0.1274366615627252,
+        "profitable_pct": 0.0
+      },
+      "TREND_FOLLOW": {
+        "avg_return": 0.03832855304914437,
+        "std_return": 0.00027031971367804064,
+        "min_return": 0.03746902604671012,
+        "max_return": 0.0391765034741519,
+        "avg_trades": 6.0,
+        "trades_per_month": 2.0,
+        "avg_win_rate": 0.6666666666666665,
+        "avg_fees": 0.13342647620929898,
+        "profitable_pct": 100.0
+      },
+      "HIGH_RESERVE": {
+        "avg_return": 0.06145711482217479,
+        "std_return": 0.0019967704856186097,
+        "min_return": 0.05736975571149799,
+        "max_return": 0.06312194282036615,
+        "avg_trades": 6.0,
+        "trades_per_month": 2.0,
+        "avg_win_rate": 0.8333333333333335,
+        "avg_fees": 0.091038071683298,
+        "profitable_pct": 100.0
+      },
+      "SAFE_3x": {
+        "avg_return": 0.06500620014459554,
+        "std_return": 0.00018443729409978014,
+        "min_return": 0.06444484669351407,
+        "max_return": 0.06556773925777501,
+        "avg_trades": 5.0,
+        "trades_per_month": 1.6666666666666667,
+        "avg_win_rate": 0.8000000000000002,
+        "avg_fees": 0.08173260412342162,
+        "profitable_pct": 100.0
+      },
+      "ULTRA_RARE": {
+        "avg_return": -0.08230293757165152,
+        "std_return": 0.012044850083984288,
+        "min_return": -0.08680364313243748,
+        "max_return": -0.04443002974190733,
+        "avg_trades": 2.906,
+        "trades_per_month": 0.9686666666666667,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.08865552110108285,
+        "profitable_pct": 0.0
+      }
+    },
+    "RECOVERY": {
+      "BASE_2.5%": {
+        "avg_return": 0.04178532963294181,
+        "std_return": 0.00025081511416939246,
+        "min_return": 0.040958186993896674,
+        "max_return": 0.042563348132847144,
+        "avg_trades": 5.0,
+        "trades_per_month": 1.6666666666666667,
+        "avg_win_rate": 0.5999999999999998,
+        "avg_fees": 0.12056911110547092,
+        "profitable_pct": 100.0
+      },
+      "HIGH_4%": {
+        "avg_return": 0.049735664583818576,
+        "std_return": 0.04529522114853473,
+        "min_return": -0.14875110319867266,
+        "max_return": 0.06084013470937843,
+        "avg_trades": 1.099,
+        "trades_per_month": 0.36633333333333334,
+        "avg_win_rate": 0.95,
+        "avg_fees": 0.044219647181653,
+        "profitable_pct": 95.0
+      },
+      "CONSERVATIVE": {
+        "avg_return": 0.028150138377067202,
+        "std_return": 0.0001658716930529266,
+        "min_return": 0.02760531941457316,
+        "max_return": 0.028659272714193853,
+        "avg_trades": 5.0,
+        "trades_per_month": 1.6666666666666667,
+        "avg_win_rate": 0.5999999999999998,
+        "avg_fees": 0.0805885620447389,
+        "profitable_pct": 100.0
+      },
+      "AGGRESSIVE_RARE": {
+        "avg_return": -0.07851191793378966,
+        "std_return": 0.0003282508369047396,
+        "min_return": -0.07959852850152724,
+        "max_return": -0.0775213697345805,
+        "avg_trades": 6.0,
+        "trades_per_month": 2.0,
+        "avg_win_rate": 0.5,
+        "avg_fees": 0.18076432950243498,
+        "profitable_pct": 0.0
+      },
+      "TREND_FOLLOW": {
+        "avg_return": -0.07209659800267827,
+        "std_return": 0.00853212061589474,
+        "min_return": -0.0767419033717232,
+        "max_return": -0.04634985032819316,
+        "avg_trades": 6.896,
+        "trades_per_month": 2.2986666666666666,
+        "avg_win_rate": 0.5813333333333333,
+        "avg_fees": 0.1435326591045136,
+        "profitable_pct": 0.0
+      },
+      "HIGH_RESERVE": {
+        "avg_return": 0.035004682355032214,
+        "std_return": 0.00020817063249154805,
+        "min_return": 0.03431952018574255,
+        "max_return": 0.035647069082684765,
+        "avg_trades": 5.0,
+        "trades_per_month": 1.6666666666666667,
+        "avg_win_rate": 0.5999999999999998,
+        "avg_fees": 0.10060533607629031,
+        "profitable_pct": 100.0
+      },
+      "SAFE_3x": {
+        "avg_return": 0.031087225845642576,
+        "std_return": 0.00016772472128094343,
+        "min_return": 0.030543204180902422,
+        "max_return": 0.031567142343079696,
+        "avg_trades": 5.0,
+        "trades_per_month": 1.6666666666666667,
+        "avg_win_rate": 0.5999999999999998,
+        "avg_fees": 0.09412608082344692,
+        "profitable_pct": 100.0
+      },
+      "ULTRA_RARE": {
+        "avg_return": -0.006991622636587909,
+        "std_return": 0.00020649188062480864,
+        "min_return": -0.007594197866261918,
+        "max_return": -0.006408282776582534,
+        "avg_trades": 3.0,
+        "trades_per_month": 1.0,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.11571061545794631,
+        "profitable_pct": 0.0
+      }
+    },
+    "MIXED": {
+      "BASE_2.5%": {
+        "avg_return": 0.0623039348504555,
+        "std_return": 0.00027750610075869784,
+        "min_return": 0.06140993892497799,
+        "max_return": 0.06316463629790178,
+        "avg_trades": 5.0,
+        "trades_per_month": 1.6666666666666667,
+        "avg_win_rate": 0.8000000000000002,
+        "avg_fees": 0.12235519337659792,
+        "profitable_pct": 100.0
+      },
+      "HIGH_4%": {
+        "avg_return": 0.049005408590708996,
+        "std_return": 0.011101666555635815,
+        "min_return": 0.0022731368146420056,
+        "max_return": 0.060510900575891924,
+        "avg_trades": 1.504,
+        "trades_per_month": 0.5013333333333333,
+        "avg_win_rate": 0.749,
+        "avg_fees": 0.059993884368796574,
+        "profitable_pct": 100.0
+      },
+      "CONSERVATIVE": {
+        "avg_return": -0.00041276985780112685,
+        "std_return": 0.00023976159245868209,
+        "min_return": -0.001251048308944102,
+        "max_return": 0.0003582666987167234,
+        "avg_trades": 8.0,
+        "trades_per_month": 2.6666666666666665,
+        "avg_win_rate": 0.625,
+        "avg_fees": 0.14663934228986858,
+        "profitable_pct": 4.3999999999999995
+      },
+      "AGGRESSIVE_RARE": {
+        "avg_return": 0.04785863601127487,
+        "std_return": 0.00032123362108033276,
+        "min_return": 0.04697559380270566,
+        "max_return": 0.048894207665948104,
+        "avg_trades": 5.0,
+        "trades_per_month": 1.6666666666666667,
+        "avg_win_rate": 0.5999999999999998,
+        "avg_fees": 0.19511899854800283,
+        "profitable_pct": 100.0
+      },
+      "TREND_FOLLOW": {
+        "avg_return": -0.026448307921580892,
+        "std_return": 0.0002456286227598374,
+        "min_return": -0.027240924332242,
+        "max_return": -0.025675177888613423,
+        "avg_trades": 4.0,
+        "trades_per_month": 1.3333333333333333,
+        "avg_win_rate": 0.75,
+        "avg_fees": 0.08542207759169915,
+        "profitable_pct": 0.0
+      },
+      "HIGH_RESERVE": {
+        "avg_return": 0.060940691832233926,
+        "std_return": 0.00023575614535330843,
+        "min_return": 0.06016663905127037,
+        "max_return": 0.06163837535218856,
+        "avg_trades": 6.0,
+        "trades_per_month": 2.0,
+        "avg_win_rate": 0.8333333333333335,
+        "avg_fees": 0.11358556512137195,
+        "profitable_pct": 100.0
+      },
+      "SAFE_3x": {
+        "avg_return": 0.06227446817087514,
+        "std_return": 0.0001990032515252571,
+        "min_return": 0.06159427476985817,
+        "max_return": 0.06281577558128959,
+        "avg_trades": 6.0,
+        "trades_per_month": 2.0,
+        "avg_win_rate": 0.8333333333333335,
+        "avg_fees": 0.1095582131411631,
+        "profitable_pct": 100.0
+      },
+      "ULTRA_RARE": {
+        "avg_return": -0.06324165856773725,
+        "std_return": 0.00022436961379418977,
+        "min_return": -0.06389188846364675,
+        "max_return": -0.0625270716927389,
+        "avg_trades": 1.0,
+        "trades_per_month": 0.3333333333333333,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.04049999999999999,
+        "profitable_pct": 0.0
+      }
+    }
+  },
+  "180d_1d": {
+    "BULL": {
+      "BASE_2.5%": {
+        "avg_return": 0.07237857565165123,
+        "std_return": 0.00024096585295773536,
+        "min_return": 0.07159987288338528,
+        "max_return": 0.07317283155248674,
+        "avg_trades": 3.0,
+        "trades_per_month": 0.5,
+        "avg_win_rate": 1.0,
+        "avg_fees": 0.06864884231461982,
+        "profitable_pct": 100.0
+      },
+      "HIGH_4%": {
+        "avg_return": 0.0070011429814605276,
+        "std_return": 0.00020752196745792338,
+        "min_return": 0.00640910221884667,
+        "max_return": 0.0075960441687472745,
+        "avg_trades": 3.0,
+        "trades_per_month": 0.5,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.11746700863149065,
+        "profitable_pct": 100.0
+      },
+      "CONSERVATIVE": {
+        "avg_return": 0.05887933447781104,
+        "std_return": 0.0001769462891279764,
+        "min_return": 0.05828120872274572,
+        "max_return": 0.05951022557447762,
+        "avg_trades": 4.0,
+        "trades_per_month": 0.6666666666666666,
+        "avg_win_rate": 1.0,
+        "avg_fees": 0.05501609920688801,
+        "profitable_pct": 100.0
+      },
+      "AGGRESSIVE_RARE": {
+        "avg_return": -0.10653509707440881,
+        "std_return": 0.0002828181624695803,
+        "min_return": -0.10746826591068213,
+        "max_return": -0.10571959143827674,
+        "avg_trades": 3.0,
+        "trades_per_month": 0.5,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.12275385218918777,
+        "profitable_pct": 0.0
+      },
+      "TREND_FOLLOW": {
+        "avg_return": 0.04496735878879447,
+        "std_return": 0.016646670658738188,
+        "min_return": -0.0944704584824901,
+        "max_return": 0.049146966083085504,
+        "avg_trades": 5.927,
+        "trades_per_month": 0.9878333333333332,
+        "avg_win_rate": 0.6594869047619047,
+        "avg_fees": 0.1328120125933331,
+        "profitable_pct": 98.7
+      },
+      "HIGH_RESERVE": {
+        "avg_return": 0.06016906943542335,
+        "std_return": 0.00019997296204393389,
+        "min_return": 0.059523104275527886,
+        "max_return": 0.0608287778337846,
+        "avg_trades": 3.0,
+        "trades_per_month": 0.5,
+        "avg_win_rate": 1.0,
+        "avg_fees": 0.05704715273933372,
+        "profitable_pct": 100.0
+      },
+      "SAFE_3x": {
+        "avg_return": 0.06702014293636262,
+        "std_return": 0.00018721015220599734,
+        "min_return": 0.06640060422441328,
+        "max_return": 0.06766797007680186,
+        "avg_trades": 4.0,
+        "trades_per_month": 0.6666666666666666,
+        "avg_win_rate": 1.0,
+        "avg_fees": 0.06904302629803945,
+        "profitable_pct": 100.0
+      },
+      "ULTRA_RARE": {
+        "avg_return": -0.06472315641935933,
+        "std_return": 0.00030112445601690035,
+        "min_return": -0.06559341318290421,
+        "max_return": -0.06372130315035066,
+        "avg_trades": 2.0,
+        "trades_per_month": 0.3333333333333333,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.07970972144331634,
+        "profitable_pct": 0.0
+      }
+    },
+    "BEAR": {
+      "BASE_2.5%": {
+        "avg_return": 0.0024128957476329174,
+        "std_return": 0.06224265270048023,
+        "min_return": -0.05908197918888978,
+        "max_return": 0.0668460805339843,
+        "avg_trades": 5.743,
+        "trades_per_month": 0.9571666666666667,
+        "avg_win_rate": 0.666892857142857,
+        "avg_fees": 0.1187007589485301,
+        "profitable_pct": 48.699999999999996
+      },
+      "HIGH_4%": {
+        "avg_return": -0.04499359824843055,
+        "std_return": 0.00023157052764770543,
+        "min_return": -0.04569832267289561,
+        "max_return": -0.04430640937312243,
+        "avg_trades": 6.0,
+        "trades_per_month": 1.0,
+        "avg_win_rate": 0.5,
+        "avg_fees": 0.1363771793230699,
+        "profitable_pct": 0.0
+      },
+      "CONSERVATIVE": {
+        "avg_return": -0.004718619375082466,
+        "std_return": 2.801641817369924e-05,
+        "min_return": -0.004801247909011484,
+        "max_return": -0.004622972765139745,
+        "avg_trades": 3.0,
+        "trades_per_month": 0.5,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.026836930287873654,
+        "profitable_pct": 0.0
+      },
+      "AGGRESSIVE_RARE": {
+        "avg_return": 0.022363820897381804,
+        "std_return": 8.526374438348854e-05,
+        "min_return": 0.022107245510021394,
+        "max_return": 0.022616569706072863,
+        "avg_trades": 4.0,
+        "trades_per_month": 0.6666666666666666,
+        "avg_win_rate": 0.5,
+        "avg_fees": 0.07096810673202414,
+        "profitable_pct": 100.0
+      },
+      "TREND_FOLLOW": {
+        "avg_return": 0.07464189229001938,
+        "std_return": 0.0002611380553421401,
+        "min_return": 0.07366196611794218,
+        "max_return": 0.07558025931297796,
+        "avg_trades": 6.0,
+        "trades_per_month": 1.0,
+        "avg_win_rate": 0.5,
+        "avg_fees": 0.11013554034931175,
+        "profitable_pct": 100.0
+      },
+      "HIGH_RESERVE": {
+        "avg_return": 0.0020210494491058905,
+        "std_return": 0.051807900581464214,
+        "min_return": -0.049170113510274026,
+        "max_return": 0.05567400512735541,
+        "avg_trades": 5.743,
+        "trades_per_month": 0.9571666666666667,
+        "avg_win_rate": 0.666892857142857,
+        "avg_fees": 0.09887681323374091,
+        "profitable_pct": 48.699999999999996
+      },
+      "SAFE_3x": {
+        "avg_return": 0.023737202147251245,
+        "std_return": 0.04430212520555026,
+        "min_return": -0.02004280686983331,
+        "max_return": 0.06956343138349495,
+        "avg_trades": 6.513,
+        "trades_per_month": 1.0855,
+        "avg_win_rate": 0.6989761904761904,
+        "avg_fees": 0.10936069954412492,
+        "profitable_pct": 48.699999999999996
+      },
+      "ULTRA_RARE": {
+        "avg_return": 0.08724239413953057,
+        "std_return": 0.0003091153686499788,
+        "min_return": 0.08636767248553251,
+        "max_return": 0.08809147966421865,
+        "avg_trades": 2.0,
+        "trades_per_month": 0.3333333333333333,
+        "avg_win_rate": 0.5,
+        "avg_fees": 0.07966877973813231,
+        "profitable_pct": 100.0
+      }
+    },
+    "SIDEWAYS": {
+      "BASE_2.5%": {
+        "avg_return": -0.007621510055939336,
+        "std_return": 0.0009644829960715818,
+        "min_return": -0.008364367695834669,
+        "max_return": 0.005377130910446794,
+        "avg_trades": 2.018,
+        "trades_per_month": 0.3363333333333333,
+        "avg_win_rate": 0.5006,
+        "avg_fees": 0.0791421978874292,
+        "profitable_pct": 0.6
+      },
+      "HIGH_4%": {
+        "avg_return": -0.05200689522198735,
+        "std_return": 0.00022275687377690603,
+        "min_return": -0.05265245134877148,
+        "max_return": -0.05129744470582826,
+        "avg_trades": 1.0,
+        "trades_per_month": 0.16666666666666666,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.04049999999999999,
+        "profitable_pct": 0.0
+      },
+      "CONSERVATIVE": {
+        "avg_return": -0.004100802260346801,
+        "std_return": 0.0005197073773665152,
+        "min_return": -0.0045805632763474095,
+        "max_return": 0.0027202827412194587,
+        "avg_trades": 3.006,
+        "trades_per_month": 0.501,
+        "avg_win_rate": 0.33433333333333326,
+        "avg_fees": 0.07970874195821444,
+        "profitable_pct": 0.6
+      },
+      "AGGRESSIVE_RARE": {
+        "avg_return": 0.028058910733218288,
+        "std_return": 0.0014625306216332554,
+        "min_return": 0.027062938288486483,
+        "max_return": 0.0502572111620547,
+        "avg_trades": 2.012,
+        "trades_per_month": 0.3353333333333333,
+        "avg_win_rate": 0.5,
+        "avg_fees": 0.1044744824815401,
+        "profitable_pct": 100.0
+      },
+      "TREND_FOLLOW": {
+        "avg_return": 0.11039621944740557,
+        "std_return": 0.0014701271593188733,
+        "min_return": 0.1096661938181516,
+        "max_return": 0.13157834764029946,
+        "avg_trades": 3.006,
+        "trades_per_month": 0.501,
+        "avg_win_rate": 1.0,
+        "avg_fees": 0.06758393872077954,
+        "profitable_pct": 100.0
+      },
+      "HIGH_RESERVE": {
+        "avg_return": -0.0038230493477495824,
+        "std_return": 0.0006416175150169461,
+        "min_return": -0.004416069963817979,
+        "max_return": 0.00483591176123582,
+        "avg_trades": 4.006,
+        "trades_per_month": 0.6676666666666667,
+        "avg_win_rate": 0.5006,
+        "avg_fees": 0.08855522247393693,
+        "profitable_pct": 0.6
+      },
+      "SAFE_3x": {
+        "avg_return": -0.015146047240904776,
+        "std_return": 0.0045493787023876235,
+        "min_return": -0.01710475526376039,
+        "max_return": 0.008705851275733683,
+        "avg_trades": 4.006,
+        "trades_per_month": 0.6676666666666667,
+        "avg_win_rate": 0.27435,
+        "avg_fees": 0.08014559032832518,
+        "profitable_pct": 0.1
+      },
+      "ULTRA_RARE": {
+        "avg_return": 0.0,
+        "std_return": 0.0,
+        "min_return": 0.0,
+        "max_return": 0.0,
+        "avg_trades": 0.0,
+        "trades_per_month": 0.0,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.0,
+        "profitable_pct": 0.0
+      }
+    },
+    "CRASH": {
+      "BASE_2.5%": {
+        "avg_return": -0.030887141473804513,
+        "std_return": 0.00022765019554692843,
+        "min_return": -0.03166205676351353,
+        "max_return": -0.030144147657630734,
+        "avg_trades": 3.0,
+        "trades_per_month": 0.5,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.11978410039344344,
+        "profitable_pct": 0.0
+      },
+      "HIGH_4%": {
+        "avg_return": 0.08268848721977118,
+        "std_return": 0.0001938553732717521,
+        "min_return": 0.08208860988965606,
+        "max_return": 0.08334650310671464,
+        "avg_trades": 1.0,
+        "trades_per_month": 0.16666666666666666,
+        "avg_win_rate": 1.0,
+        "avg_fees": 0.04049999999999999,
+        "profitable_pct": 100.0
+      },
+      "CONSERVATIVE": {
+        "avg_return": -0.019933175300144428,
+        "std_return": 0.00015064708808498737,
+        "min_return": -0.020442221885669482,
+        "max_return": -0.019440717156343226,
+        "avg_trades": 3.0,
+        "trades_per_month": 0.5,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.08025418443387886,
+        "profitable_pct": 0.0
+      },
+      "AGGRESSIVE_RARE": {
+        "avg_return": 0.038306168399609895,
+        "std_return": 0.00028456125293765527,
+        "min_return": 0.03735783872251924,
+        "max_return": 0.03925344706712148,
+        "avg_trades": 2.0,
+        "trades_per_month": 0.3333333333333333,
+        "avg_win_rate": 0.5,
+        "avg_fees": 0.10450075985241176,
+        "profitable_pct": 100.0
+      },
+      "TREND_FOLLOW": {
+        "avg_return": 0.06686430484620798,
+        "std_return": 0.00020185311337256082,
+        "min_return": 0.06628595182011414,
+        "max_return": 0.06740799980046044,
+        "avg_trades": 3.0,
+        "trades_per_month": 0.5,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.06863537463562411,
+        "profitable_pct": 100.0
+      },
+      "HIGH_RESERVE": {
+        "avg_return": -0.02533026880417237,
+        "std_return": 0.00018900627561617403,
+        "min_return": -0.02597137472264289,
+        "max_return": -0.024712856515685454,
+        "avg_trades": 3.0,
+        "trades_per_month": 0.5,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.10007153311446908,
+        "profitable_pct": 0.0
+      },
+      "SAFE_3x": {
+        "avg_return": -0.017819719023973585,
+        "std_return": 0.0001353828109860388,
+        "min_return": -0.018276450819111764,
+        "max_return": -0.01737705472323095,
+        "avg_trades": 3.0,
+        "trades_per_month": 0.5,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.08033179115711368,
+        "profitable_pct": 0.0
+      },
+      "ULTRA_RARE": {
+        "avg_return": 0.14612203379329367,
+        "std_return": 0.00019351529552871107,
+        "min_return": 0.14539244195724355,
+        "max_return": 0.14664805764525266,
+        "avg_trades": 1.0,
+        "trades_per_month": 0.16666666666666666,
+        "avg_win_rate": 1.0,
+        "avg_fees": 0.04049999999999999,
+        "profitable_pct": 100.0
+      }
+    },
+    "RECOVERY": {
+      "BASE_2.5%": {
+        "avg_return": -0.00930699260231034,
+        "std_return": 4.1815576661956486e-05,
+        "min_return": -0.009430505254697815,
+        "max_return": -0.009164472768695949,
+        "avg_trades": 3.0,
+        "trades_per_month": 0.5,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.040037422696598116,
+        "profitable_pct": 0.0
+      },
+      "HIGH_4%": {
+        "avg_return": 0.05727143785338905,
+        "std_return": 0.00010314587062926885,
+        "min_return": 0.056992493859311634,
+        "max_return": 0.05763026143347436,
+        "avg_trades": 5.0,
+        "trades_per_month": 0.8333333333333334,
+        "avg_win_rate": 0.8000000000000002,
+        "avg_fees": 0.06798930888305917,
+        "profitable_pct": 100.0
+      },
+      "CONSERVATIVE": {
+        "avg_return": -0.006173530304396871,
+        "std_return": 2.796955301515081e-05,
+        "min_return": -0.006256346873615447,
+        "max_return": -0.006078468999536995,
+        "avg_trades": 3.0,
+        "trades_per_month": 0.5,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.026794220099712048,
+        "profitable_pct": 0.0
+      },
+      "AGGRESSIVE_RARE": {
+        "avg_return": -0.003671675408648329,
+        "std_return": 5.834540465658246e-05,
+        "min_return": -0.0038346848021420027,
+        "max_return": -0.003475966360284891,
+        "avg_trades": 3.0,
+        "trades_per_month": 0.5,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.053178400300167294,
+        "profitable_pct": 0.0
+      },
+      "TREND_FOLLOW": {
+        "avg_return": 0.06646144325549633,
+        "std_return": 0.0002381136035251663,
+        "min_return": 0.06553927743536482,
+        "max_return": 0.0671362237348516,
+        "avg_trades": 4.0,
+        "trades_per_month": 0.6666666666666666,
+        "avg_win_rate": 0.5,
+        "avg_fees": 0.08080352516670729,
+        "profitable_pct": 100.0
+      },
+      "HIGH_RESERVE": {
+        "avg_return": -0.007736395260560881,
+        "std_return": 3.490393890284525e-05,
+        "min_return": -0.007839618891915734,
+        "max_return": -0.007617598466744842,
+        "avg_trades": 3.0,
+        "trades_per_month": 0.5,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.03342861733366327,
+        "profitable_pct": 0.0
+      },
+      "SAFE_3x": {
+        "avg_return": -0.00930699260231034,
+        "std_return": 4.1815576661956486e-05,
+        "min_return": -0.009430505254697815,
+        "max_return": -0.009164472768695949,
+        "avg_trades": 3.0,
+        "trades_per_month": 0.5,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.040037422696598116,
+        "profitable_pct": 0.0
+      },
+      "ULTRA_RARE": {
+        "avg_return": -0.04744261605548586,
+        "std_return": 0.0002528230624025025,
+        "min_return": -0.04825220120741922,
+        "max_return": -0.04668940433604841,
+        "avg_trades": 6.0,
+        "trades_per_month": 1.0,
+        "avg_win_rate": 0.5,
+        "avg_fees": 0.1373423929757543,
+        "profitable_pct": 0.0
+      }
+    },
+    "MIXED": {
+      "BASE_2.5%": {
+        "avg_return": -0.03261199851045734,
+        "std_return": 5.60881289203696e-05,
+        "min_return": -0.03279687756116251,
+        "max_return": -0.032430476300172775,
+        "avg_trades": 4.0,
+        "trades_per_month": 0.6666666666666666,
+        "avg_win_rate": 0.25,
+        "avg_fees": 0.052730335244655605,
+        "profitable_pct": 0.0
+      },
+      "HIGH_4%": {
+        "avg_return": -0.01044484537223753,
+        "std_return": 5.9358689600450084e-05,
+        "min_return": -0.010655470915860216,
+        "max_return": -0.01023271926575717,
+        "avg_trades": 3.0,
+        "trades_per_month": 0.5,
+        "avg_win_rate": 0.33333333333333326,
+        "avg_fees": 0.0401292763353186,
+        "profitable_pct": 0.0
+      },
+      "CONSERVATIVE": {
+        "avg_return": -0.03309232932342787,
+        "std_return": 4.525211102671932e-05,
+        "min_return": -0.03323698811878879,
+        "max_return": -0.032908941102081715,
+        "avg_trades": 4.0,
+        "trades_per_month": 0.6666666666666666,
+        "avg_win_rate": 0.0,
+        "avg_fees": 0.035562099344119504,
+        "profitable_pct": 0.0
+      },
+      "AGGRESSIVE_RARE": {
+        "avg_return": -0.043585842860326955,
+        "std_return": 7.455651995689084e-05,
+        "min_return": -0.04383165632782758,
+        "max_return": -0.0433423807031365,
+        "avg_trades": 4.0,
+        "trades_per_month": 0.6666666666666666,
+        "avg_win_rate": 0.25,
+        "avg_fees": 0.06974773946689308,
+        "profitable_pct": 0.0
+      },
+      "TREND_FOLLOW": {
+        "avg_return": -0.03261199851045734,
+        "std_return": 5.60881289203696e-05,
+        "min_return": -0.03279687756116251,
+        "max_return": -0.032430476300172775,
+        "avg_trades": 4.0,
+        "trades_per_month": 0.6666666666666666,
+        "avg_win_rate": 0.25,
+        "avg_fees": 0.052730335244655605,
+        "profitable_pct": 0.0
+      },
+      "HIGH_RESERVE": {
+        "avg_return": -0.02714367479855931,
+        "std_return": 4.681213853418411e-05,
+        "min_return": -0.02729795172284677,
+        "max_return": -0.026992865433378293,
+        "avg_trades": 4.0,
+        "trades_per_month": 0.6666666666666666,
+        "avg_win_rate": 0.25,
+        "avg_fees": 0.0441173271818887,
+        "profitable_pct": 0.0
+      },
+      "SAFE_3x": {
+        "avg_return": -0.03261199851045734,
+        "std_return": 5.60881289203696e-05,
+        "min_return": -0.03279687756116251,
+        "max_return": -0.032430476300172775,
+        "avg_trades": 4.0,
+        "trades_per_month": 0.6666666666666666,
+        "avg_win_rate": 0.25,
+        "avg_fees": 0.052730335244655605,
+        "profitable_pct": 0.0
+      },
+      "ULTRA_RARE": {
+        "avg_return": 0.08639683458461266,
+        "std_return": 0.0001068136836307765,
+        "min_return": 0.0861069760371252,
+        "max_return": 0.08676783433435352,
+        "avg_trades": 5.0,
+        "trades_per_month": 0.8333333333333334,
+        "avg_win_rate": 0.8000000000000002,
+        "avg_fees": 0.06814829014125687,
+        "profitable_pct": 100.0
+      }
+    }
+  }
+}
